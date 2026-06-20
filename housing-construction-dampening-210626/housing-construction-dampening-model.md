@@ -19,8 +19,7 @@ Standard supply and demand elasticity gives the percentage price change across e
 
 percent change in E = negative one divided by epsilon, multiplied by N divided by S
 
-LaTeX:
-\Delta E\% = -\dfrac{1}{\varepsilon} \cdot \dfrac{N}{S}
+$$\Delta E\% = -\dfrac{1}{\varepsilon} \cdot \dfrac{N}{S}$$
 
 This is the textbook relationship: percentage change in quantity supplied, which is N divided by S, translated into a percentage change in price through the elasticity coefficient.
 
@@ -28,22 +27,19 @@ Converting that into dollar terms, x per existing property becomes:
 
 x in dollars = E multiplied by one divided by epsilon, multiplied by N divided by S
 
-LaTeX:
-x = E \cdot \dfrac{1}{\varepsilon} \cdot \dfrac{N}{S}
+$$x = E \cdot \dfrac{1}{\varepsilon} \cdot \dfrac{N}{S}$$
 
 The total dollar drag across the entire existing stock, meaning the aggregate amount by which the whole market's value falls, is S multiplied by that per property figure:
 
 Total drag = S multiplied by E multiplied by one divided by epsilon multiplied by N divided by S
 
-LaTeX:
-\text{Drag}_{total} = S \cdot E \cdot \dfrac{1}{\varepsilon} \cdot \dfrac{N}{S}
+$$\text{Drag}_{total} = S \cdot E \cdot \dfrac{1}{\varepsilon} \cdot \dfrac{N}{S}$$
 
 The S in the numerator and the S in the denominator cancel. What is left is:
 
 Total drag = E multiplied by N, divided by epsilon
 
-LaTeX:
-\text{Drag}_{total} = \dfrac{E \cdot N}{\varepsilon}
+$$\text{Drag}_{total} = \dfrac{E \cdot N}{\varepsilon}$$
 
 This cancellation is the important and slightly counterintuitive structural result. The total dollar drag across the whole existing market does not depend on how large the existing stock is. It falls out of the equation entirely. It only depends on the average price E, the number of new units N, and the elasticity ε. Stock size still matters for how thinly that drag is spread per individual property, a bigger stock dilutes the hit per owner, but it does not matter for the total dollars at stake market wide.
 
@@ -53,22 +49,19 @@ Total value created by the new builds, the y side, is N multiplied by the averag
 
 Total value created = N multiplied by y-bar
 
-LaTeX:
-\text{Value}_{total} = N \cdot \bar{y}
+$$\text{Value}_{total} = N \cdot \bar{y}$$
 
 Setting total drag equal to total value created, the point where the scheme would theoretically break:
 
 E multiplied by N divided by epsilon = N multiplied by y-bar
 
-LaTeX:
-\dfrac{E \cdot N}{\varepsilon} = N \cdot \bar{y}
+$$\dfrac{E \cdot N}{\varepsilon} = N \cdot \bar{y}$$
 
 N cancels on both sides. What remains is the actual break-even condition:
 
 E divided by epsilon = y-bar
 
-LaTeX:
-\dfrac{E}{\varepsilon} = \bar{y}
+$$\dfrac{E}{\varepsilon} = \bar{y}$$
 
 This says the break-even point does not depend on N at all once you simplify it fully. The question of how fast construction would need to be partly dissolves, because the N you build does not change whether the system is balanced or not, it only changes how large the swings are while staying balanced or not. What actually decides whether the scheme breaks is whether the average price of new construction, y-bar, falls to or below the existing average price divided by the elasticity coefficient, E over epsilon.
 
@@ -95,8 +88,7 @@ Total drag = 1,295,900 multiplied by 1,000, divided by 0.2
 Total drag = 1,295,900,000 divided by 0.2
 Total drag = 6,479,500,000
 
-LaTeX:
-\text{Drag}_{total} = \dfrac{E \cdot N}{\varepsilon} = \dfrac{1{,}295{,}900 \times 1{,}000}{0.2} = \dfrac{1{,}295{,}900{,}000}{0.2} = 6{,}479{,}500{,}000
+$$\text{Drag}_{total} = \dfrac{E \cdot N}{\varepsilon} = \dfrac{1{,}295{,}900 \times 1{,}000}{0.2} = \dfrac{1{,}295{,}900{,}000}{0.2} = 6{,}479{,}500{,}000$$
 
 Adding 1,000 new houses to Greater Sydney's existing stock, under this elasticity estimate, produces an aggregate drag of approximately 6.48 billion dollars spread across the entire existing 2.08 million property stock.
 
@@ -104,8 +96,7 @@ Spread per existing property, that total divided by S:
 
 6,479,500,000 divided by 2,079,287 = approximately 3,116
 
-LaTeX:
-\dfrac{\text{Drag}_{total}}{S} = \dfrac{6{,}479{,}500{,}000}{2{,}079{,}287} \approx 3{,}116
+$$\dfrac{\text{Drag}_{total}}{S} = \dfrac{6{,}479{,}500{,}000}{2{,}079{,}287} \approx 3{,}116$$
 
 So under this model, 1,000 new houses built in Sydney costs each existing property owner, on average, somewhere in the order of 3,116 dollars in price suppression. Across a portfolio of, say, 10 properties, that is roughly 31,160 dollars of suppressed value from that single year's 1,000-unit addition.
 
@@ -113,8 +104,7 @@ For the break-even condition, E divided by epsilon, using the same numbers:
 
 E divided by epsilon = 1,295,900 divided by 0.2 = 6,479,500
 
-LaTeX:
-\dfrac{E}{\varepsilon} = \dfrac{1{,}295{,}900}{0.2} = 6{,}479{,}500
+$$\dfrac{E}{\varepsilon} = \dfrac{1{,}295{,}900}{0.2} = 6{,}479{,}500$$
 
 For the investment scheme to break under this elasticity, the average new house being built would need to sell for roughly 6.48 million dollars, about five times the existing NSW mean. That is not what oversupply looks like in practice, new builds sell at or near the existing average, sometimes below it during a glut, which is precisely why the scheme structurally does not break under normal construction dynamics, even at high volume.
 

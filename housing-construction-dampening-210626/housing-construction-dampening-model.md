@@ -71,15 +71,15 @@ In a highly elastic market, where epsilon is above 1, E divided by epsilon drops
 
 ## Sydney, With Real Numbers
 
-🌐 Greater Sydney existing dwelling stock, 2021 Census: 2,079,287 dwellings. Source: https://profile.id.com.au/australia/population?WebID=260
+Greater Sydney existing dwelling stock, 2021 Census: 2,079,287 dwellings. Source: https://profile.id.com.au/australia/population?WebID=260
 
-🌐 NSW mean dwelling price, September quarter 2025: $1,295,900. Source: https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/total-value-dwellings/latest-release/
+NSW mean dwelling price, September quarter 2025: $1,295,900. Source: https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/total-value-dwellings/latest-release/
 
-This is a state-level figure rather than Sydney-specific. ❓ Sydney proper almost certainly runs higher than this NSW-wide mean, since regional NSW pulls the average down. Treat $1,295,900 as a conservative floor for E, not a precise Sydney figure.
+This is a state-level figure rather than Sydney-specific. Sydney proper almost certainly runs higher than this NSW-wide mean, since regional NSW pulls the average down. Treat $1,295,900 as a conservative floor for E, not a precise Sydney figure.
 
-🌐 Sydney housing supply elasticity, houses: 0.2. Apartments: 0.8. Source: peer reviewed estimate using LGA level annual data from 1991 to 2012, published in Applied Economics, https://www.tandfonline.com/doi/full/10.1080/00036846.2017.1307936, and the underlying UNSW thesis at https://unsworks.unsw.edu.au/entities/publication/f60a308f-20f4-479a-b0dc-69bb324edaa9
+Sydney housing supply elasticity, houses: 0.2. Apartments: 0.8. Source: peer reviewed estimate using LGA level annual data from 1991 to 2012, published in Applied Economics, https://www.tandfonline.com/doi/full/10.1080/00036846.2017.1307936, and the underlying UNSW thesis at https://unsworks.unsw.edu.au/entities/publication/f60a308f-20f4-479a-b0dc-69bb324edaa9
 
-🌐 A more recent 2025 paper using state level NSW data to 2019 found supply elasticity of 0.36 at the state level, but found housing supply effectively perfectly inelastic specifically in the metropolitan area, meaning epsilon approaching zero for Sydney itself under that model. Source: https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8454.12372
+A more recent 2025 paper using state level NSW data to 2019 found supply elasticity of 0.36 at the state level, but found housing supply effectively perfectly inelastic specifically in the metropolitan area, meaning epsilon approaching zero for Sydney itself under that model. Source: https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8454.12372
 
 Running the formula with S = 2,079,287, E = $1,295,900, N = 1,000, and epsilon = 0.2, the established Sydney house elasticity figure:
 
@@ -108,7 +108,7 @@ $$\dfrac{E}{\varepsilon} = \dfrac{1{,}295{,}900}{0.2} = 6{,}479{,}500$$
 
 For the investment scheme to break under this elasticity, the average new house being built would need to sell for roughly 6.48 million dollars, about five times the existing NSW mean. That is not what oversupply looks like in practice, new builds sell at or near the existing average, sometimes below it during a glut, which is precisely why the scheme structurally does not break under normal construction dynamics, even at high volume.
 
-❓ If the more recent 2025 paper's metro-level near-zero elasticity finding is used instead of the 0.2 figure, the one divided by epsilon term grows extremely large, meaning a given N produces a much larger total drag for the same N. This is the scenario where Sydney's notoriously constrained supply response would make each marginal unit of construction count for more in price suppression terms than in a more elastic market. It does not change the structural conclusion that total value created scales with N just as total drag does, so the break even condition, E divided by epsilon equals y-bar, still does not depend on N, it just shifts the bar for y-bar higher, making the scheme even harder to break, since E divided by a near zero epsilon approaches infinity, meaning no realistic y-bar could ever clear it.
+If the more recent 2025 paper's metro-level near-zero elasticity finding is used instead of the 0.2 figure, the one divided by epsilon term grows extremely large, meaning a given N produces a much larger total drag for the same N. This is the scenario where Sydney's notoriously constrained supply response would make each marginal unit of construction count for more in price suppression terms than in a more elastic market. It does not change the structural conclusion that total value created scales with N just as total drag does, so the break even condition, E divided by epsilon equals y-bar, still does not depend on N, it just shifts the bar for y-bar higher, making the scheme even harder to break, since E divided by a near zero epsilon approaches infinity, meaning no realistic y-bar could ever clear it.
 
 ## Why This Matters For The Original Claim
 

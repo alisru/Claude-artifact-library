@@ -141,3 +141,49 @@ The condition for the effect to apply is not whether units are literally new or 
 This pattern shows up wherever a producer or coordinated producer class controls release timing into a market with these properties. Diamond markets operated for decades on exactly this logic, with deliberate restriction of release volume specifically because flooding supply would simultaneously depress prices on newly mined stones and on every previously sold stone held by owners and dealers, since both compete in the same substitutable market. Oil production quotas under OPEC function the same way, output restriction exists because unrestricted pumping would crater the price of both the marginal barrel being produced and the value of reserves already held. Limited production runs in collectibles, sneakers, trading cards, and art prints work on a smaller version of the same mechanic, scarcity is manufactured because uncontrolled release would discount the new run while simultaneously devaluing every unit from prior runs still held by collectors, since both compete for the same buyer base.
 
 Where the effect does not apply is where units genuinely are not substitutes within any real buyer's consideration set, where the good is not durable or storable so there is no meaningful existing stock to drag, or where demand is effectively unbounded relative to any realistic release rate so the market never approaches its absorptive ceiling. Outside those edge cases, any actor injecting continual supply into a high demand, constrained supply environment, where new and existing units are points on the same gradient rather than separate markets, faces this same coupled two-sided pricing structure. Housing is simply the instance this document happened to model in detail, the structure itself is general.
+
+## The Price Floor: How Far Can Existing Stock Actually Fall?
+
+The break-even condition established earlier solves for what new builds would need to cost for the system to reach equilibrium. Inverting it to solve for E instead gives the floor price of existing stock, the level at which the drag x applies to existing stock exactly equals the value y-bar that new construction adds back in:
+
+$$E_{floor} = \bar{y} \cdot \varepsilon$$
+
+The existing stock price floor is the average new-build clearing price multiplied by the elasticity coefficient. For Sydney houses, with ε = 0.2 and treating ȳ as approximating the current NSW mean of $1,295,900:
+
+$$E_{floor} = 1{,}295{,}900 \times 0.2 = 259{,}180$$
+
+Sydney house prices would need to fall to approximately $259,000 before construction dampening is fully offset by the value new builds add back. That is roughly an 80% nominal collapse from current levels. This is why prices cannot meaningfully fall under normal market conditions: the gap between current E and E_floor is structurally enormous precisely because ε is so small. A more inelastic market produces a lower floor as a fraction of current prices, because each new unit does more damage to existing prices relative to what it adds back, setting the equilibrium point correspondingly lower.
+
+Under the 2025 paper's near-zero metropolitan elasticity finding, E_floor approaches zero entirely. In a perfectly inelastic market, no amount of construction ever adds enough value back to offset the drag it applies, meaning the floor is theoretically unbounded to the downside from the dampening mechanism alone. Practical floors still exist, set by land cost, construction cost, and financing, but the dampening model itself offers no resistance. This is the structural explanation for why highly constrained inner-city markets behave as if prices have a one-way ratchet: the mathematical floor sits so far below any realistic trading range that the mechanism never comes close to binding.
+
+### Sub-case: A 50% Price Fall
+
+If E falls 50% from the current NSW mean, E becomes $647,950. The naive reading is that this halves the distance to the floor. It does not, because ȳ moves with E. New-build pricing tracks the existing market: developers will not build at a loss and cannot command a premium in a falling market, so ȳ compresses alongside E, and E_floor, being ȳ × ε, falls proportionally too. The floor is not a fixed nominal number, it is a fraction of wherever the market currently sits, and it rescales downward with the market rather than staying anchored.
+
+The condition where a 50% fall does close the gap to the floor is when construction costs set a hard nominal floor on ȳ that does not compress at the same rate existing stock does. Land acquisition, materials, and labour costs are stickier than resale prices in a sharp downturn. If E falls 50% but construction cost floors prevent ȳ from falling more than, say, 20%, the gap between E and ȳ narrows and the break-even condition E/ε = ȳ can be approached from below for the first time. In that scenario, developers stop building, not because the model breaks, but because margins are gone, which is the real-world mechanism: construction halts in a downturn not because of abstract equilibrium math but because ȳ can no longer cover cost of production. That halt then removes the supply-side dampening force entirely, allowing E to stabilise or recover, which is the self-correcting mechanism that prevents the floor from ever being reached in practice.
+
+$$\text{Gap to floor} = E - E_{floor} = E - \bar{y} \cdot \varepsilon$$
+
+In a downturn with sticky construction costs, as E falls faster than ȳ:
+
+$$\text{Gap narrows as } \Delta E > \Delta \bar{y}$$
+
+The gap approaching zero is the signal that development becomes unviable, triggering the supply halt that arrests the fall.
+
+### Sub-case: Affordability-Locked New Stock
+
+If a portion of new builds are locked into an affordability model, government-mandated price caps, shared equity schemes, or community land trusts, they enter the existing stock at ȳ_affordable, which is fixed below market rather than tracking E. This changes the model structure in two ways simultaneously.
+
+First, the drag x still applies to the full existing stock unchanged. Every affordable unit added still satisfies demand and suppresses E via the elasticity mechanism, regardless of what it sold for.
+
+Second, the value-add side is now a weighted average across market-rate and affordable tranches:
+
+$$\bar{y}_{weighted} = \frac{N_{market} \cdot \bar{y}_{market} + N_{affordable} \cdot \bar{y}_{affordable}}{N_{total}}$$
+
+Since ȳ_affordable is fixed below E while ȳ_market tracks E, the weighted average ȳ is pulled down relative to a pure market-rate build program of the same N. The break-even condition becomes:
+
+$$\dfrac{E}{\varepsilon} = \bar{y}_{weighted}$$
+
+With ȳ_weighted now below ȳ_market, the right-hand side is easier to reach from below, meaning the floor condition is closer to binding than under pure market-rate construction. Affordable housing mandates at scale are therefore a structural lever that pushes a market toward the floor condition faster than volume alone could, because they decouple the value-add of new stock from the price level of existing stock while leaving the drag mechanism fully intact.
+
+There is a second-order effect compounding this. Affordable units entering the pool also pull E itself down compositionally, since they are now part of the average the pool is priced at. This in turn lowers E_floor (since E_floor = ȳ_weighted × ε), but it lowers E faster than it lowers E_floor, because E is being dragged by both the affordability discount and the supply dampening effect simultaneously while E_floor only moves with ȳ_weighted. The gap between E and E_floor compresses from both sides at once. A large enough affordable housing program, sustained long enough, could in principle be self-reinforcing in this compression, driving the market toward a structurally lower equilibrium rather than simply suppressing growth at the current level.

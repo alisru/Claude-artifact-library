@@ -156,6 +156,26 @@ Sydney house prices would need to fall to approximately $259,000 before construc
 
 Under the 2025 paper's near-zero metropolitan elasticity finding, E_floor approaches zero entirely. In a perfectly inelastic market, no amount of construction ever adds enough value back to offset the drag it applies, meaning the floor is theoretically unbounded to the downside from the dampening mechanism alone. Practical floors still exist, set by land cost, construction cost, and financing, but the dampening model itself offers no resistance. This is the structural explanation for why highly constrained inner-city markets behave as if prices have a one-way ratchet: the mathematical floor sits so far below any realistic trading range that the mechanism never comes close to binding.
 
+### The Investor Balance Sheet Is Denominated In E
+
+Every investor's holding is not a fixed-value asset that E happens to affect from the outside. It is a unit denominated in E. Whatever an investor paid for their property is sunk cost, its current worth is E, period. When E moves, every investor's balance sheet moves in lockstep, because their wealth is not "the property plus some separate market value," it is just S_i × E, where S_i is the number of properties they hold. This means the total investor class balance sheet at any point in time is:
+
+$$W_{investors} = S_{investors} \cdot E$$
+
+where S_investors is the total number of investor-held properties, a subset of the full stock S. The drag x applied per unit of E per N new builds is not some external damage being done to a separate quantity, it is a direct percentage compression of W_investors itself. A 1% fall in E is a 1% fall in every investor's total housing wealth simultaneously, regardless of portfolio size, leverage, or when they bought.
+
+This reframes the floor question more precisely. The relevant condition is not just when x equals y in the abstract, it is when the aggregate mark-to-market loss across W_investors per period equals the aggregate new value entering the market per period. Expressed per period:
+
+$$\Delta W_{investors} = S_{investors} \cdot \Delta E = S_{investors} \cdot \left(-\dfrac{E \cdot N}{\varepsilon \cdot S}\right)$$
+
+The S in the denominator is the full stock, since the drag is distributed across all existing units. Simplifying:
+
+$$\Delta W_{investors} = -\dfrac{S_{investors}}{S} \cdot \dfrac{E \cdot N}{\varepsilon}$$
+
+The ratio S_investors over S is the investor ownership share of total housing stock. In Australia this sits at roughly 20 to 25 percent of all dwellings being investor-owned, meaning investors absorb that fraction of the total drag while owner-occupiers absorb the rest. Investors feel the same per-unit E compression as everyone else, but their total wealth exposure scales with how concentrated their holdings are relative to the full stock.
+
+The implication for the floor condition is that E_floor is not just an abstract equilibrium point, it is the price level at which investors' collective mark-to-market losses from new construction equal the collective new value entering the market. Below E_floor, the investment scheme is genuinely underwater on a flow basis: each period of construction destroys more investor wealth than it creates in new asset value. Above E_floor, the scheme is intact even if E is falling, because the value created by new construction still exceeds the wealth destroyed across the existing stock. The floor is therefore better understood as the viability threshold of property as a wealth store, not just a price equilibrium.
+
 ### Sub-case: A 50% Price Fall
 
 If E falls 50% from the current NSW mean, E becomes $647,950. The naive reading is that this halves the distance to the floor. It does not, because ȳ moves with E. New-build pricing tracks the existing market: developers will not build at a loss and cannot command a premium in a falling market, so ȳ compresses alongside E, and E_floor, being ȳ × ε, falls proportionally too. The floor is not a fixed nominal number, it is a fraction of wherever the market currently sits, and it rescales downward with the market rather than staying anchored.

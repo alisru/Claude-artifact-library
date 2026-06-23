@@ -186,6 +186,29 @@ Lowe also received a taxpayer-subsidised RBA home loan in 1997 at half the stand
 
 CRINK = China, Russia, Iran, North Korea (adversarial state-aligned influence networks)
 
+### Direct CRINK Contact Mapping — Rate-Setters
+
+**Structural contact vectors (confirmed):**
+
+All RBA Governors attend BIS (Bank for International Settlements) Basel meetings as standard. PBOC is a full BIS member. Lowe was physically embedded at BIS Basel 2000-2002. Bullock and Hauser both attend FSB (Financial Stability Board) and BIS forums where PBOC counterparts are present as a matter of course. These are multilateral, not bilateral — but they are documented contact environments.
+
+Hauser's BoE role included managing UK official FX reserves and "coordinating market intelligence" — puts him in the same room as PBOC FX officials at BIS FX Working Group level. PBOC Deputy Governor Xuan Changneng attended the ASEAN+3 Finance and Central Bank Deputies' Meeting Dec 2024 — the same tier of meeting Hauser would attend as Deputy Governor.
+
+**RBA published April 2024:** internal research bulletin on China's monetary policy framework — detailed analysis of PBOC tools including window guidance and cross-border financing parameters. Normal central bank research. Demonstrates active institutional-level PBOC engagement at staff level.
+
+**What is not confirmed:**
+
+No publicly documented bilateral RBA-PBOC Governor meeting in 2022-2026 period.
+No public record of Bullock, Hauser, or Lowe meeting Yi Gang (PBOC Governor 2018-2023) or Pan Gongsheng (PBOC Governor July 2023-present) directly.
+
+**The single most important open source not yet checked:**
+
+The RBA publishes the Governor's Calendar of Meetings and Events covering 1 July 2021 to 31 March 2026. This document lists every meeting the Governor attended including foreign central bank counterparts. It is publicly accessible at rba.gov.au but not web-indexable. This is the primary document for direct CRINK contact mapping and must be reviewed manually.
+
+Open thread: pull the Governor's calendar and search for PBOC, Yi Gang, Pan Gongsheng, PBC, People's Bank, China entries.
+
+---
+
 **Swati Dave (Governance Board):**
 - Export Finance Australia CEO 2017-2022: sovereign trade finance during the Belt and Road adjacency period. Direct deal flow with state-linked counterparties. Specific sovereign counterparties unresearched — open thread.
 - National Foundation for Australia-China Relations: advisory board member (prior to RBA appointment). NFACR established by Morrison 2019 as Australia-China soft power body, criticised as CCP influence laundering vehicle.

@@ -207,3 +207,39 @@ $$\dfrac{E}{\varepsilon} = \bar{y}_{weighted}$$
 With ȳ_weighted now below ȳ_market, the right-hand side is easier to reach from below, meaning the floor condition is closer to binding than under pure market-rate construction. Affordable housing mandates at scale are therefore a structural lever that pushes a market toward the floor condition faster than volume alone could, because they decouple the value-add of new stock from the price level of existing stock while leaving the drag mechanism fully intact.
 
 There is a second-order effect compounding this. Affordable units entering the pool also pull E itself down compositionally, since they are now part of the average the pool is priced at. This in turn lowers E_floor (since E_floor = ȳ_weighted × ε), but it lowers E faster than it lowers E_floor, because E is being dragged by both the affordability discount and the supply dampening effect simultaneously while E_floor only moves with ȳ_weighted. The gap between E and E_floor compresses from both sides at once. A large enough affordable housing program, sustained long enough, could in principle be self-reinforcing in this compression, driving the market toward a structurally lower equilibrium rather than simply suppressing growth at the current level.
+
+## Why Prices Structurally Cannot Be Allowed To Fall: The Historic Price Wall
+
+The floor analysis above is a flow condition, asking whether new construction creates more value than it destroys in a given period. But the binding constraint on the whole system is not a flow condition, it is a stock condition referenced against historic prices. This is the precise structural reason house prices must never fall to remain investable, and it is sharper than the flow model alone conveys.
+
+Every investor entered their position at some past price. Call it E_past for an entry made at a particular date, carrying with it all the conditions of that date: the prevailing rate, the leverage taken, the equity buffer at entry. The position is viable if and only if the present price exceeds that historic entry point:
+
+$$\text{Position viable} \iff E_{present} > E_{past}$$
+
+This is a backward-looking benchmark baked into every single position in the market, and it is heterogeneous. There is no single shared threshold. Every investor holds against their own E_past, set by whenever they happened to buy. The asset class is therefore collateralised not against any neutral equilibrium, but against the entire accumulated distribution of every past entry price still being held.
+
+The condition is stricter than mere non-decline, because holding is not free. Between entry and now, the investor has paid interest, rates, maintenance, and the opportunity cost of capital tied up. The real viability condition is:
+
+$$E_{present} > E_{past} + \text{accumulated holding costs}$$
+
+This means E does not merely need to avoid falling. It needs to rise continuously, at a rate that clears the cost of carry, just for positions to stay above water. A flat E with positive holding costs is already a real-terms loss. The system does not tolerate stagnation, it requires perpetual appreciation simply to keep existing positions solvent. This is the structural origin of the imperative that prices must always go up: not greed in the abstract, but the mechanical fact that a non-rising asset financed by carrying costs bleeds in real terms.
+
+### The Reflexive Cascade
+
+The historic price wall is not passive. It is reflexive, and this is where falling prices become self-amplifying rather than self-correcting.
+
+When E falls, it does not push all positions underwater evenly. It pushes the most recent, highest-leverage entrants under first, because they bought at the highest E_past and hold the thinnest equity buffer. These are precisely the positions least able to absorb a fall. Once a position goes underwater past the point where the holder can service or refinance it, it forces a sale. A forced sale adds a unit of supply to the market. That added supply drags E down further through the same dampening mechanism modelled throughout this document. The further drag pushes the next tranche of E_past holders underwater, who are then forced to sell in turn.
+
+$$\text{Falling } E \rightarrow \text{forced sales} \rightarrow \text{added supply} \rightarrow \text{further falling } E$$
+
+This is a positive feedback loop, in the destabilising sense. Unlike the construction dampening case, where new supply is balanced by new value creation, forced-sale supply creates no new value at all. It is pure drag, existing stock dumped onto the market at distressed prices, which both lowers E directly and lowers the comparable sales that E is computed from. The wall of historic entry prices, rather than acting as support, becomes a sequence of trigger points that fire in cascade as E descends through them, each one releasing more supply into a falling market.
+
+### The Political Economy Consequence
+
+Once the asset class is understood as collateralised against its own price history, with a reflexive forced-sale cascade waiting below current prices, the behaviour of the financial and political system around housing stops looking like preference and starts looking like structural necessity.
+
+A meaningful fall in house prices is not a market correction in this system, it is a solvency event. Falling E does not simply reduce returns, it pushes leveraged positions underwater, triggers forced sales, and amplifies the fall through the cascade. Because such a large share of household wealth, bank balance sheets, and government revenue is denominated in or derived from E, a sustained fall threatens not just investors but the banks holding the mortgages, the construction industry that stops building when ȳ falls below cost, and the government whose stamp duty, land tax, and capital gains revenue all scale with E.
+
+This is why the policy apparatus is structurally committed to defending prices rather than allowing correction: negative gearing, capital gains discounts, first-home-buyer demand subsidies that push prices up rather than affordability up, restrictive zoning that keeps ε low, and monetary policy that cuts rates whenever prices wobble. Each of these can be read independently as a distinct policy choice, but viewed through this model they are a single coherent response to one structural fact: the entire edifice is a simultaneous, collectively-held bet that E_past is always less than E_present, and that bet is only winnable for everyone at once if E never stops rising. The moment E falls far enough to fire the cascade, the bet fails not for one investor but for the whole class at once, which is precisely the outcome the system is built to prevent at almost any cost.
+
+The phrase house prices must never fall is therefore not hyperbole or ideology. It is a literal description of the viability condition of an asset class collateralised against its own historic prices, in which any sufficient fall is self-amplifying through forced liquidation. The system cannot allow the fall because the fall, once started past the cascade threshold, does not stop on its own.

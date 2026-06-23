@@ -156,6 +156,51 @@ The hold period redistributed wealth upward: existing asset holders locked in 20
 
 ---
 
+## Treasurer's Direct Power Over the Cash Rate
+
+### The Legal Mechanism: Section 11, Reserve Bank Act 1959
+
+Section 11 gives the Treasurer formal direction power over the RBA board on monetary policy.
+Requires a written direction tabled in parliament.
+Has never been used in Australian history.
+It is politically nuclear but legally unambiguous.
+
+### Softer Levers Available and Not Used
+
+**Statement on the Conduct of Monetary Policy**
+Jointly agreed between Treasurer and Governor.
+Defines the inflation target band and the dual mandate weighting (inflation vs employment).
+Chalmers renegotiated this statement in 2023 as part of the RBA Review.
+He could have explicitly shifted the weighting toward the employment mandate, which would have provided formal cover for earlier cuts.
+He did not do this in any meaningful way. 📐
+
+**Appointment power**
+Lowe was not reappointed — effectively removed on the "wrong forecast" narrative.
+Bullock replaced him.
+Bullock had been Deputy Governor since April 2022 — one month before Albo won.
+She was already inside the institution running the DD cycle.
+If the goal were to fix the DD rate, you appoint someone with a stated preference for earlier cuts.
+Instead: continuity of rate path under a new name. 📐
+
+**Public bully pulpit**
+Chalmers called each hike "very challenging news for hardworking Australians" at press conferences.
+Made no structural moves to address it.
+The sympathy was public. The inaction was structural. 📐
+
+### Helxis Map
+
+Bait: Chalmers publicly sympathising with mortgage holders at each hike
+Cover: RBA independence narrative ("it's not my decision")
+Intent: complete board restructure while rates stayed at DD levels — asset holders protected, Labor's own voter base destroyed
+
+### Moral Coordinate
+
+(υ, ψ): (-1.5, -1.6)
+Nearest anchor: Greater Evil
+Verdict: Passive extraction with active cover. Every lever available pointed at the same outcome. None were pulled to change it.
+
+---
+
 ## Summary Findings
 
 | Question | Status | Confidence |
@@ -164,7 +209,9 @@ The hold period redistributed wealth upward: existing asset holders locked in 20
 | All senior appointments made by Chalmers | Confirmed | 🌐 High |
 | Lowe guidance contradicted internally Nov 2021 | Confirmed | 🌐 High |
 | Lowe continued guidance publicly past internal retraction | Confirmed | 🌐 High |
-| Pre-election Treasury-RBA informal coordination | Unconfirmed, not investigated | ❓ |
+| Treasurer had legal power to direct RBA | Confirmed (s.11 RBA Act, never used) | 🧠 High |
+| Chalmers renegotiated mandate statement without shifting weighting | Confirmed | 🌐 High |
+| Bullock continuity of rate path under new governor | Confirmed | 🌐 High |
 | Swati Dave NFACR / China relations link | Confirmed (prior to appointment) | 🌐 Medium |
 | Andrew Hauser Five Eyes adjacency | Structural, unconfirmed | ❓ |
 | Rate hold past inflation target as deliberate DD | Analytically supported, not confirmed | 📐 Medium |

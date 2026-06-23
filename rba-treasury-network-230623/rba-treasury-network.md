@@ -58,7 +58,7 @@ Post-May 2022, every single senior appointment is a Chalmers pick:
 
 Lowe was removed on the "wrong forecast" narrative. The RBA Review was commissioned July 2022 -- one month after Albo wins -- and provided the institutional cover for the restructure. Functionally the review was the mechanism, not the reason.
 
-And yeah, Bullock. She was Deputy Governor one month before the election. Already inside the institution running the rate cycle. If the goal were to fix the DD rate, you appoint someone with a stated preference for earlier cuts. Instead: continuity of rate path under a new name and a story about reform.
+Bullock. She was Deputy Governor one month before the election. Already inside the institution running the rate cycle. If the goal were to fix the DD rate, you appoint someone with a stated preference for earlier cuts. Instead: continuity of rate path under a new name and a story about reform.
 
 ---
 

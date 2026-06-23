@@ -1,20 +1,17 @@
-# RBA/Treasury Network: Post-Albo 2022
+# RBA/Treasury Network Analysis: Post-Albo Election 2022
 
 **Status:** Working document
-**Started:** 23 June 2026
-**Method:** Convergence Test / Helxis detection / CRINK axis mapping
+**Date started:** 23 June 2026
+**Framework:** Convergence Test / Helxis detection / CRINK axis mapping
 
 ---
 
 ## Context
 
-Albo wins May 2022. Morrison out.
+May 2022 federal election: Albanese wins, Morrison out.
+Central question: was the subsequent RBA rate cycle a neutral monetary response, or did the election trigger a coordinated restructure of the RBA's internal power architecture, foreign alignments, and rate policy?
 
-The question isn't whether the RBA is "independent" -- technically it is, functionally that independence is a lever the Treasurer controls via appointments, mandate renegotiation, and Section 11 of the Reserve Bank Act 1959 which gives the Treasurer formal direction power over the board. Never used. Politically nuclear. But it exists.
-
-So the real question: did the election function as a trigger for something coordinated, ie a wholesale restructure of who sits on the RBA, what foreign relationship profiles they carry, and whether the rate path that followed was monetary policy or demand destruction by design.
-
-The rate table (sourced from RBA):
+The rate table:
 
 | Date | Change | Rate |
 |------|--------|------|
@@ -31,138 +28,241 @@ The rate table (sourced from RBA):
 | Mar 2023 | +0.25 | 3.60 |
 | Apr 2023 | 0.00 | 3.60 |
 
-425 basis points in under 12 months.
-Highest since the mining boom.
-
-I mean the "we got the forecast wrong" excuse covers the initial hike cycle. It does not explain holding at 4%+ after inflation returned to band in late 2024. That's not normalisation, that's demand destruction held past its stated justification. At current household debt-to-income ratios, 4%+ produces equivalent or greater DD to what the mining boom rates did at 7%, because the structural leverage is incomparably higher now.
-
-So the hold is the anomaly. Not the hike.
+425 basis points in approximately 12 months. Highest rate since the mining boom era.
+Thesis: at 4%+ this is a demand destruction rate, not normalisation.
+The "we got the forecast wrong" explanation covers the initial hike cycle. It does not explain holding at DD levels after inflation returned to band in late 2024.
 
 ---
 
-## Q1: Board appointments vs election timing
+## Q1: Timing of RBA Board Appointments vs Election
 
-Pre-election, Morrison era: Lowe as Governor since 2016, career RBA insider, no significant foreign secondments. Standard inherited board.
+**Pre-election board (Morrison era):**
+Lowe as Governor since 2016, career RBA insider, no significant foreign secondments. Standard inherited board composition.
 
-Post-May 2022, every single senior appointment is a Chalmers pick:
+**Post-election Albanese restructure sequence:**
 
-| Date | Who | Notes |
-|------|-----|-------|
-| May 2023 | Dr Iain Ross AO, board member | Former FWC President, ACTU background |
-| Aug 2023 | Elana Rubin AM, board member | Former AustralianSuper chair |
-| Sep 2023 | Michele Bullock, Governor | Career RBA, Deputy Governor since Apr 2022 -- one month before the election |
-| Feb 2024 | Andrew Hauser, Deputy Governor | 30 years Bank of England, first non-Australian in a senior RBA role ever |
-| Dec 2024 | Swati Dave, Governance Board | Export Finance Australia CEO 2017-22, prior NFACR advisory board, current Centre for Australia-India Relations chair, photographed with Penny Wong |
-| Dec 2024 | Renee Fry-McKibbin, Monetary Policy Board | ANU economist who was a panellist on the RBA Review -- then appointed to the board she reviewed |
-| Mar 2026 | Bruce Preston, Monetary Policy Board | UNSW, former senior RBA and Treasury advisor |
+| Date | Appointment | Notes |
+|------|------------|-------|
+| May 2023 | Dr Iain Ross AO, Board member | Former FWC President, ACTU background, Fair Work linkages |
+| Aug 2023 | Elana Rubin AM, Board member | Former AustralianSuper chair |
+| Sep 2023 | Michele Bullock, Governor | Career RBA, Deputy Governor since Apr 2022 — one month before the election |
+| Feb 2024 | Andrew Hauser, Deputy Governor | 30 years Bank of England, first non-Australian ever in a senior RBA role |
+| Dec 2024 | Swati Dave, Governance Board | Export Finance Australia CEO 2017-22, prior NFACR advisory board, current Centre for Australia-India Relations chair |
+| Dec 2024 | Renee Fry-McKibbin, Monetary Policy Board | ANU economist who was a panellist on the RBA Review, then appointed to the board she reviewed |
+| Mar 2026 | Bruce Preston, Monetary Policy Board | UNSW, formerly senior advisor at both RBA and Treasury |
 
-Lowe was removed on the "wrong forecast" narrative. The RBA Review was commissioned July 2022 -- one month after Albo wins -- and provided the institutional cover for the restructure. Functionally the review was the mechanism, not the reason.
+Every senior appointment post-May 2022 is a Chalmers pick, not an inherited position.
+Lowe removed September 2023. His 2024 "no rate rises" guidance used as cover for removal.
+The RBA Review was commissioned July 2022 — one month after the election — and provided institutional cover for the complete restructure.
 
-Bullock. She was Deputy Governor one month before the election. Already inside the institution running the rate cycle. If the goal were to fix the DD rate, you appoint someone with a stated preference for earlier cuts. Instead: continuity of rate path under a new name and a story about reform.
+**Morrison-era members who rolled over into new boards:**
 
----
+| Member | Original appointment | Board allocation post-restructure |
+|--------|---------------------|----------------------------------|
+| Carolyn Hewson AO | Morrison, Dec 2020 | Monetary Policy Board |
+| Ian Harper AO | Abbott/Turnbull, Jul 2016 | Monetary Policy Board |
+| Alison Watkins AM | Morrison, Dec 2020 | Monetary Policy Board (term ended Mar 2026) |
+| Carol Schwartz AO | Morrison | Governance Board (Deputy Chair) |
+| Elana Rubin AM | Chalmers, Aug 2023 | Governance Board |
 
-## Q2: Treasury-RBA communication late 2021 / early 2022
-
-What's confirmed:
-
-The RBA's own Yield Target Review documents that by October-November 2021, the yield curve control target on April 2024 bonds was under severe market pressure. The board discontinued the yield target at the November 2021 meeting.
-
-I mean that's five months before the election. The bank's own actions had already internally falsified Lowe's "no rises until 2024" guidance before Labor was even in office. Then Lowe kept saying it publicly into 2022.
-
-The RBA Review (2023) then explicitly recommended Treasury and RBA undertake joint scenario analysis going forward. That formalises post-hoc exactly the kind of informal coordination this question is about. Whether that coordination was already happening pre-election is the live question.
-
-What's not confirmed: no formal evidence of Treasury-RBA backchannels on rate path Oct 2021 - May 2022. FOIA requests to this effect have not been made as of research date. That's an open thread.
-
-What the timing implies is Chalmers called each hike "very challenging news for hardworking Australians" while simultaneously using the Review as a restructure vehicle. The sympathy was the bait. The restructure was the intent. He had Section 11 power the whole time and never touched it.
+Note: Chalmers allocated Morrison-era members to boards. The two placed on Governance (no rate decisions) vs Monetary Policy is a meaningful distinction — rate-setting power concentrated in Chalmers picks plus holdovers, governance oversight allocated to Morrison era and Rubin.
 
 ---
 
-## Q3: Was Lowe's 2024 guidance challenged internally before it went public
+## Full Current Board Membership Map (as of June 2026)
 
-Lowe said publicly in multiple 2020-2021 statements that rates wouldn't rise until 2024 at the earliest. In November 2022 Senate testimony he apologised to people who borrowed on that guidance. In his final speech September 2023 he reframed it as "not a promise", conditions-based guidance.
+### Monetary Policy Board (sets the cash rate)
 
-The internal record: the Board discontinued the yield target November 2021 after the April 2024 bond yield broke through target from market pressure. Language shifted from "rates won't rise until 2024" to "genuine uncertainty as to the timing" in that same period.
+| Member | Role | Background | Appointed by |
+|--------|------|-----------|--------------|
+| Michele Bullock | Governor, Chair | Career RBA, Dep Gov Apr 2022 | Chalmers |
+| Andrew Hauser | Deputy Governor, Deputy Chair | 30 yrs Bank of England, IMF Board | Chalmers |
+| Jenny Wilkinson PSM | Ex-officio (Treasury Secretary) | Career APS, started as RBA cadet 1988, Princeton MPAff, Dept of Finance Secretary 2022-25 | Chalmers (appointed Treasury Secretary Jun 2025) |
+| Marnie Baker AM | Non-executive | Bendigo & Adelaide Bank CEO 2018-2024, 35 yrs financial services, Deputy Chair Australian Banking Association | Chalmers |
+| Renee Fry-McKibbin | Non-executive | ANU economist, RBA Review panellist | Chalmers |
+| Ian Harper AO | Non-executive | Melbourne Business School Dean, Deloitte partner, Competition Policy Review chair, NAB Professor of Monetary Economics | Morrison holdover |
+| Carolyn Hewson AO | Non-executive | Former Schroders Exec Dir, former director BHP, Westpac, AMP, AGL | Morrison holdover |
+| Iain Ross AO | Non-executive | Former FWC President, former ACTU Assistant Secretary, Corrs Chambers Westgarth workplace relations | Chalmers |
+| Bruce Preston | Non-executive | UNSW economics professor, former senior RBA advisor, former Treasury advisor | Chalmers |
 
-So the guidance was functionally retracted internally in November 2021. Lowe kept saying it publicly into 2022.
+### Governance Board (no rate decisions)
 
-idk whether you call that a "formal internal challenge" or just passive internal contradiction -- the practical effect is identical. The bank's own actions had already broken the governor's public position and he kept running it. That's either incompetence or cover.
-
----
-
-## Foreign network flags (CRINK axis)
-
-CRINK = China, Russia, Iran, North Korea (adversarial state-aligned influence networks as a framing)
-
-**Swati Dave:**
-
-Export Finance Australia CEO 2017-2022. That's sovereign trade finance during the Belt and Road adjacency period -- direct deal flow with state-linked counterparties. Which sovereign counterparties, which deals, is an open research thread.
-
-Prior advisory board member, National Foundation for Australia-China Relations. NFACR was established by Morrison in 2019 as an Australia-China soft power body and has been criticised as a CCP influence laundering vehicle. Dave's participation was prior to her RBA appointment but it's documented.
-
-Current chair, Centre for Australia-India Relations. Photographed with Penny Wong.
-Appointed to RBA Governance Board December 2024.
-
-**Andrew Hauser:**
-
-30 years Bank of England. IMF Executive Board, Washington DC. First non-Australian ever appointed to a senior RBA role.
-
-His BoE title was Executive Director, Markets Directorate, overseeing "market intelligence and analytical advice." That's a legitimate central banking function. It is also structurally adjacent to Five Eyes financial intelligence. No direct CRINK link found, but the adjacency is worth noting.
-
-**The indirect pattern:**
-
-The restructure introduced: a UK Five Eyes-adjacent central banker (Hauser), an India-relations chair with prior China-relations board experience (Dave), a Fair Work / union-linked economist (Ross), and the person who reviewed the RBA onto the board she reviewed (Fry-McKibbin).
-
-None of these individually constitutes CRINK-axis influence. Together they represent a complete replacement of the inherited board composition with Chalmers-selected appointments carrying specific foreign relationship profiles. That's the pattern worth tracking.
+| Member | Role | Background | Appointed by |
+|--------|------|-----------|--------------|
+| Jennifer Westacott AO | Member | Business Council of Australia CEO 10+ years, Chancellor Western Sydney University | Chalmers |
+| David Thodey AO | Member | Former Telstra CEO, former IBM exec | Chalmers |
+| Danny Gilbert AM | Member | Gilbert + Tobin law firm founder | Chalmers |
+| Swati Dave | Member | Export Finance Australia CEO 2017-22, NFACR advisory board (prior), Centre for Australia-India Relations chair (current), Penny Wong-linked | Chalmers |
+| Carol Schwartz AO | Deputy Chair | Former RBA Board | Morrison holdover |
+| Elana Rubin AM | Member | Former AustralianSuper chair | Chalmers |
 
 ---
 
-## The Treasurer's levers and the Helxis
+## Q2: Communication Between Treasury and RBA Late 2021 / Early 2022
 
-Section 11 RBA Act 1959: Treasurer can formally direct the board on monetary policy via written direction tabled in parliament. Never used. Politically nuclear but legally unambiguous. Albo had it the entire time.
+**What is confirmed publicly:**
 
-Statement on the Conduct of Monetary Policy: jointly agreed between Treasurer and Governor, defines the inflation target band and dual mandate weighting. Chalmers renegotiated this in 2023 as part of the Review. He could have shifted weighting toward employment, providing formal cover for earlier cuts. He didn't do this in any meaningful way.
+The RBA's own Yield Target Review documents that by October-November 2021, the yield curve control target on April 2024 bonds was under severe market pressure. The yield target was discontinued at the November 2021 board meeting. This functionally ended Lowe's 2024 forward guidance credibility from within the bank — five months before the election.
 
-Appointment power: used to replace Lowe with Bullock (DD cycle continuity) and to import Hauser from the BoE.
+The RBA Review (2023) explicitly recommended Treasury and RBA undertake joint scenario analysis exercises going forward. This formalises post-hoc what the question is asking about informally.
 
-Public bully pulpit: used to call each hike "very challenging news for hardworking Australians" while making no structural moves.
+**What is not publicly confirmed:**
+No formal evidence of pre-election Treasury-RBA backchannels on rate path. FOIA requests to this effect have not been made. Remains live. ❓
 
-I mean every lever available pointed at the same outcome. None were pulled to change it.
+**What the timing implies:**
+Lowe abandoned yield curve control Nov 2021.
+Morrison government did not publicly pressure the RBA.
+Coalition lost May 2022.
+Rate hikes began May 2022, one month after the election.
+Chalmers called it "very challenging news" on 5 Jul 2022 while simultaneously launching the RBA Review.
+Framing the Review as reform while rates were actively destroying demand is a notable simultaneity.
 
-**Helxis map:**
+---
 
-Bait: public sympathy with mortgage holders at each hike
+## Q3: Was Lowe's 2024 Forward Guidance Internally Challenged Before Going Public?
+
+**What Lowe said publicly:**
+Multiple statements 2020-2021 that the cash rate would not rise "until 2024 at the earliest."
+November 2022 Senate testimony: apologised to people who borrowed on his guidance.
+Final speech September 2023: reframed it as "not a promise", conditions-based guidance, blamed media for inaccurate characterisation.
+
+**Internal challenge record:**
+The Yield Target Review shows the Board discontinued the yield target November 2021 after the April 2024 bond yield broke through from market pressure. Language shifted in that same period from "rates won't rise until 2024" to "genuine uncertainty as to the timing."
+
+The 2024 guidance was functionally retracted internally in November 2021. Lowe continued making it publicly into 2022.
+
+**Conclusion:**
+The guidance was internally contradicted by the Board's own yield target decision. Whether this constitutes a formal internal challenge or passive internal contradiction is semantic. The bank's actions had already falsified the governor's public guidance and he kept making it.
+
+---
+
+## Foreign Network Flags (CRINK axis)
+
+CRINK = China, Russia, Iran, North Korea (adversarial state-aligned influence networks)
+
+**Swati Dave (Governance Board):**
+- Export Finance Australia CEO 2017-2022: sovereign trade finance during the Belt and Road adjacency period. Direct deal flow with state-linked counterparties. Specific sovereign counterparties unresearched — open thread.
+- National Foundation for Australia-China Relations: advisory board member (prior to RBA appointment). NFACR established by Morrison 2019 as Australia-China soft power body, criticised as CCP influence laundering vehicle.
+- Centre for Australia-India Relations: current chair.
+- Photographed with Penny Wong.
+- Appointed to RBA Governance Board December 2024.
+
+**Andrew Hauser (Deputy Governor, Monetary Policy Board):**
+- Bank of England 30 years. IMF Executive Board, Washington DC.
+- First non-Australian ever appointed to a senior RBA role.
+- BoE title: Executive Director, Markets Directorate — "market intelligence and analytical advice." Legitimate central banking function, structurally adjacent to Five Eyes financial intelligence.
+- No direct CRINK link established. ❓
+
+**Jenny Wilkinson (Treasury Secretary, ex-officio Monetary Policy Board):**
+- Started as RBA cadet 1988 — institutional RBA-Treasury pipeline from the beginning of her career.
+- Princeton MPAff — US elite institutional alignment.
+- Secretary Dept of Finance Aug 2022 (three months after Albo wins), Treasury Secretary June 2025.
+- Career trajectory through every significant Albanese-era economic institution.
+- No foreign links identified. ❓
+
+**Marnie Baker (Monetary Policy Board):**
+- Bendigo & Adelaide Bank CEO 2018-2024. Deputy Chair Australian Banking Association.
+- 35 years in financial services, previously at RBA.
+- Regional Australia Institute board.
+- No significant foreign connections identified. Clean domestically-oriented profile.
+
+**Renee Fry-McKibbin (Monetary Policy Board):**
+- ANU Centre for Applied Macroeconomic Analysis.
+- Held senior positions in Australia and UK.
+- RBA Review panellist, then appointed to the board she reviewed. Structural conflict of interest regardless of foreign connections.
+
+**Iain Ross (Monetary Policy Board):**
+- Former FWC President, former ACTU Assistant Secretary, Corrs Chambers Westgarth.
+- Union/labour movement institutional alignment. Rate-setting implications: structurally biased toward employment mandate over inflation, which should favour lower rates — yet rates were held. Anomaly.
+
+**Ian Harper (Monetary Policy Board, Morrison holdover):**
+- Melbourne Business School Dean, Deloitte partner, NAB Professor of Monetary Economics.
+- Competition Policy Review chair. Financial System Inquiry member.
+- Anglican Diocese of Melbourne connections (current).
+- Standard orthodox economics institutional profile. No significant foreign connections identified.
+
+**Carolyn Hewson (Monetary Policy Board, Morrison holdover):**
+- Former Schroders Australia Exec Dir, former director BHP, Westpac, AMP, AGL, CSR.
+- Major resource and banking sector cross-directorship network.
+- Appointed Morrison Dec 2020, rolled onto Monetary Policy Board by Chalmers.
+- No direct CRINK connections. Standard big-end-of-town network.
+
+---
+
+## The Treasurer's Direct Power
+
+### Section 11, Reserve Bank Act 1959
+
+Gives the Treasurer formal direction power over the RBA board on monetary policy via written direction tabled in parliament. Never used in Australian history. Legally unambiguous, politically nuclear.
+
+### Softer levers available and not used
+
+**Statement on the Conduct of Monetary Policy**
+Jointly agreed between Treasurer and Governor. Defines inflation target band and dual mandate weighting (inflation vs employment). Chalmers renegotiated this in 2023 as part of the Review. Could have shifted weighting toward employment mandate, providing formal cover for earlier cuts. Did not do this in any meaningful way.
+
+**Appointment power**
+Lowe removed on "wrong forecast" narrative. Replaced with Bullock — Deputy Governor since April 2022, one month before the election, already inside the institution running the DD cycle. If the goal were to fix the DD rate, you appoint someone with a stated preference for earlier cuts. Instead: rate path continuity under a new name.
+
+**Public bully pulpit**
+Called each hike "very challenging news for hardworking Australians." Made no structural moves to address it. The sympathy was public. The inaction was structural.
+
+### Helxis map
+
+Bait: Chalmers publicly sympathising with mortgage holders at each hike
 Cover: RBA independence narrative ("it's not my decision")
-Intent: complete board restructure while rates stayed at DD levels, asset holders who locked in gains at 0.1% protected, Labor's own voter base destroyed
+Intent: complete board restructure while rates stayed at DD levels — asset holders protected, Labor's own voter base destroyed
 
-**(υ, ψ): (-1.5, -1.6)**
+### Moral coordinate
+
+(υ, ψ): (-1.5, -1.6)
 Nearest anchor: Greater Evil
-Passive extraction with active cover.
+Verdict: Passive extraction with active cover. Every lever available pointed at the same outcome. None were pulled to change it.
 
 ---
 
-## Summary
+## Demand Destruction Rate Thesis
+
+4%+ cash rate = demand destruction, not normalisation.
+
+Evidence:
+- Mining boom rates peaked ~7%, but 4%+ at current household debt-to-income ratios produces equivalent or greater DD due to structural leverage differences
+- Inflation returned to the 2-3% band by late 2024
+- Rates were not cut immediately on inflation returning to band
+- Rate held at effective DD levels for ~18 months past the inflation justification window
+
+The "we got the forecast wrong" explanation covers the initial hike cycle. It does not explain the hold.
+The hold redistributed wealth upward: existing asset holders locked in 2021 gains, leveraged buyers and renters paid the correction.
+
+---
+
+## Summary Findings
 
 | Question | Status | Confidence |
 |----------|--------|------------|
 | Board restructure timed post-election | Confirmed | High |
-| All senior appointments Chalmers picks | Confirmed | High |
+| All senior appointments made by Chalmers | Confirmed | High |
 | Lowe guidance contradicted internally Nov 2021 | Confirmed | High |
 | Lowe continued guidance past internal retraction | Confirmed | High |
 | Treasurer had Section 11 direction power, never used | Confirmed | High |
 | Chalmers renegotiated mandate without shifting weighting | Confirmed | High |
-| Bullock = rate path continuity under new governor | Confirmed | High |
+| Bullock continuity of rate path under new governor | Confirmed | High |
 | Swati Dave NFACR / China relations link | Confirmed (prior to appointment) | Medium |
 | Andrew Hauser Five Eyes adjacency | Structural, unconfirmed | Uncertain |
+| Jenny Wilkinson Princeton / APS-RBA pipeline | Confirmed | Low flag |
+| Iain Ross union alignment vs rate hold anomaly | Confirmed structural tension | Medium |
 | Rate hold past inflation target as deliberate DD | Analytically supported, unconfirmed | Medium |
 | CRINK axis direct RBA penetration | Not established | Uncertain |
+| Pre-election Treasury-RBA informal coordination | Unconfirmed, not investigated | Uncertain |
 
 ---
 
-## Open threads
+## Open Threads
 
 - FOIA: Treasury-RBA correspondence Oct 2021 - May 2022
-- Swati Dave's Export Finance Australia deal flow 2017-2022: which sovereign counterparties
-- Full NFACR board membership cross-referenced with other post-2022 Albo appointments
-- Were any Morrison-era board members removed before term expiry, or allowed to expire naturally
-- Rate hold comparison: BoE, Fed, RBNZ, BoC -- if Australia held longer than Five Eyes peers after inflation returned to band, that's anomalous
+- Swati Dave Export Finance Australia deal flow 2017-2022: specific sovereign counterparties
+- Map full NFACR board membership and cross-reference with other post-2022 Albo appointments
+- Were any Morrison-era board members removed before term expiry vs allowed to expire naturally
+- Rate hold comparison: BoE, Fed, RBNZ, BoC — if Australia held longer than Five Eyes peers after inflation returned to band, that is anomalous and needs explaining
+- Danny Gilbert AM (Gilbert + Tobin, Governance Board): firm's Asia-Pacific practice and any PRC-linked client work
+- David Thodey AO (Governance Board): post-Telstra advisory roles and any foreign government or state-linked tech connections
+- Marnie Baker: Australian Banking Association Deputy Chair role during the rate cycle — did the ABA formally lobby for or against rate holds

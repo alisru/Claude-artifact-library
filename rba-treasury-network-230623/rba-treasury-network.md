@@ -136,6 +136,52 @@ The guidance was internally contradicted by the Board's own yield target decisio
 
 ---
 
+## The Three People Who Actually Set the Rate
+
+The cash rate is set by majority vote of the Monetary Policy Board. In practice the Governor frames the decision and the Deputy Governor is the most influential voice after them. The ex-officio Treasury Secretary is a direct government link at the table. These three are the functional rate-setters.
+
+### Michele Bullock — Governor (Chair, casting vote)
+
+Born 1962/63, Armidale NSW background. Started at the RBA in 1985 straight out of UNE economics degree. MSc Economics, London School of Economics 1989. Has been continuously employed by the RBA since 1985 — 40 years — with no external private sector career.
+
+Appointment chain:
+- Deputy Governor: April 2022 — one month before the election
+- Governor: September 2023 — Lowe removed, Bullock elevated by Chalmers
+
+Career roles at RBA: Economic Group, International Department, financial system oversight, payments system, business services, currency. No private sector, no foreign government roles, no significant multilateral secondments beyond the standard central banker circuit.
+
+Flag: Bullock is institutionally the cleanest profile on the board — no external network, no foreign allegiances, no private sector capture. The flag is precisely that she was elevated one month before the election and maintained the same rate path as the institution she came from. She is not a new direction. She is the institution continuing under a new name with greater media exposure. Chalmers got to claim reform while changing nothing about the rate trajectory.
+
+Wife of RBA: She met no one there, she IS there. 40 years, first job, only job.
+
+### Andrew Hauser — Deputy Governor (Deputy Chair, second most influential vote)
+
+British. Joined Bank of England 1992. Spent entire career there until 2024 appointment.
+
+BoE roles:
+- Private Secretary to the Governor (political intimacy with BoE leadership)
+- UK representative on IMF Executive Board, Washington DC (direct Five Eyes financial intelligence adjacency)
+- Led the Fair and Effective Markets Review (joint BoE/Treasury/FCA initiative)
+- Executive Director for Markets 2018-2024: ran UK official foreign exchange reserves, balance sheet operations, market intelligence
+
+First non-Australian ever appointed to a senior RBA role. Deputy Governor role is traditionally the pipeline to Governor — Bullock herself came from Deputy Governor. Hauser is therefore positioned as next Governor if/when Bullock's term ends.
+
+Flag: Hauser carries the full institutional weight of BoE/HM Treasury/IMF/FCA networks into the RBA's second most powerful seat. His "market intelligence" function at BoE was structurally embedded with UK financial intelligence. No direct CRINK connection, but his appointment imports a specific foreign institutional allegiance — UK Treasury/BoE — into the rate-setting room for the first time in RBA history. The "first non-Australian" framing was sold as diversity. It is also an unprecedented foreign institutional vector into Australian monetary policy.
+
+### Philip Lowe — Former Governor (removed September 2023)
+
+Background for context on what was replaced:
+
+Born Wagga Wagga. Career RBA from out of high school. PhD MIT. BIS secondment 2000-2002 (Basel, Switzerland) as head of Financial Institutions and Infrastructure Division. Financial Stability Board member as Governor. Wife works at APRA — both deep state institutional alignment, different agencies.
+
+Morrison appointed him 2016. He ran the 0.1% emergency rate, issued the 2024 forward guidance, oversaw the COVID QE program that quadrupled the RBA's balance sheet to $637bn, then oversaw the fastest rate hike cycle in Australian history.
+
+The "we got it wrong" narrative was used to remove him. But his replacement (Bullock) continued the same rate path and held it just as long past the inflation target returning to band. If the problem were genuinely Lowe's approach, the rate behaviour would have changed under Bullock. It did not.
+
+Lowe also received a taxpayer-subsidised RBA home loan in 1997 at half the standard variable rate — disclosed but notable given his later role presiding over housing affordability destruction.
+
+---
+
 ## Foreign Network Flags (CRINK axis)
 
 CRINK = China, Russia, Iran, North Korea (adversarial state-aligned influence networks)

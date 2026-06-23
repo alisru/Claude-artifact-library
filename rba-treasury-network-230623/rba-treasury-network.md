@@ -201,11 +201,42 @@ Hauser's BoE role included managing UK official FX reserves and "coordinating ma
 No publicly documented bilateral RBA-PBOC Governor meeting in 2022-2026 period.
 No public record of Bullock, Hauser, or Lowe meeting Yi Gang (PBOC Governor 2018-2023) or Pan Gongsheng (PBOC Governor July 2023-present) directly.
 
-**The single most important open source not yet checked:**
+**Governor's Calendar findings (rba.gov.au, Jul 2021 - Mar 2026):**
 
-The RBA publishes the Governor's Calendar of Meetings and Events covering 1 July 2021 to 31 March 2026. This document lists every meeting the Governor attended including foreign central bank counterparts. It is publicly accessible at rba.gov.au but not web-indexable. This is the primary document for direct CRINK contact mapping and must be reviewed manually.
+The RBA publishes the full Governor's calendar. Searched for all CRINK-axis entries. Results:
 
-Open thread: pull the Governor's calendar and search for PBOC, Yi Gang, Pan Gongsheng, PBC, People's Bank, China entries.
+**China contacts confirmed:**
+
+| Date | Entry | Governor | Year |
+|------|-------|----------|------|
+| 30 May | Meeting with People's Bank of China, Governor Pan Gongsheng | Bullock | 2025 |
+| 30 May | Meeting with People's Bank of China Digital Currency Institute | Bullock | 2025 |
+| 29 May | Lunch meeting with China Heads, IMF, World Bank and OECD | Bullock | 2025 |
+| 29 May | Roundtable with Australian businesses operating in China (AustCham) | Bullock | 2025 |
+| 28 May | Meeting with Australian Ambassador to PRC, Scott Dewar (Beijing) | Bullock | 2025 |
+| 28 May | Meeting with China Investment Corporation | Bullock | 2025 |
+| 28 May | Meeting with China International Capital Corporation | Bullock | 2025 |
+| 29 May | Meeting with Bank of China | Lowe | 2023 |
+
+This is a 4-day Beijing trip by Bullock in May 2025. Direct bilateral with PBOC Governor Pan Gongsheng. Meeting with the PBOC Digital Currency Institute — China's CBDC development arm, directly state-controlled and CCP-directed. Meeting with China Investment Corporation — China's sovereign wealth fund, $1.3 trillion AUM, directly state-owned. Meeting with China International Capital Corporation — CCP-linked investment bank.
+
+That is not routine central bank diplomacy. That is the RBA Governor walking into the full CCP financial apparatus in a single 4-day visit. The PBOC Digital Currency Institute in particular is not a bilateral monetary policy discussion — it is a CBDC coordination meeting with a CCP-controlled digital surveillance infrastructure project.
+
+**Iran contact confirmed:**
+
+| Date | Entry | Governor | Year |
+|------|-------|----------|------|
+| 9 June | Meeting with Chargé D'Affaires ad interim of Iran | Lowe | 2022 |
+
+One month after rates started rising. Lowe meeting with Iran's acting ambassador on 9 June 2022. Same day as a meeting with Treasurer Chalmers. Iran is under SWIFT sanctions. An RBA Governor meeting with an Iranian diplomatic representative is anomalous. No public reporting on this meeting found.
+
+**Russia, North Korea:** No entries found in the calendar for the full period.
+
+**Key flags:**
+- Bullock's Beijing trip May 2025 was not publicly announced as a CRINK-contact event
+- PBOC Digital Currency Institute meeting is the single most significant flag — this is not standard central bank bilateral
+- CIC and CICC meetings represent direct contact with CCP state capital deployment infrastructure
+- Lowe-Iran meeting June 2022 is unexplained and unreported
 
 ---
 

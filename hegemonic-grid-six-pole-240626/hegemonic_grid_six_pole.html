@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hegemonic Grid: Six Pole Structure</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #0d0d0f;
+    color: #e8e6e1;
+    font-family: 'Courier New', monospace;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px 60px;
+  }
+
+  h1 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #e8e6e1;
+    margin-bottom: 4px;
+    text-align: center;
+  }
+
+  .subtitle {
+    font-size: 0.72rem;
+    letter-spacing: 0.12em;
+    color: #666;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+
+  .grid-wrap {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    flex-shrink: 0;
+  }
+
+  canvas {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+  }
+
+  .corner-label {
+    position: absolute;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    line-height: 1.4;
+    pointer-events: none;
+  }
+  .corner-label .name { font-size: 0.95rem; font-weight: 900; }
+  .corner-label .vals { color: #888; font-size: 0.65rem; }
+
+  .c-gg { top: -6px; left: -6px; transform: translate(-100%, -100%); text-align: right; color: #6DBE47; }
+  .c-gl { top: -6px; right: -6px; transform: translate(100%, -100%); text-align: left; color: #7B6CF6; }
+  .c-lg { bottom: -6px; left: -6px; transform: translate(-100%, 100%); text-align: right; color: #E59A2F; }
+  .c-ge { bottom: -6px; right: -6px; transform: translate(100%, 100%); text-align: left; color: #D85A30; }
+
+  .axis-label {
+    position: absolute;
+    font-size: 0.65rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #555;
+    pointer-events: none;
+  }
+  .ax-top    { top: -28px; left: 50%; transform: translateX(-50%); }
+  .ax-bottom { bottom: -28px; left: 50%; transform: translateX(-50%); }
+  .ax-left   { left: -52px; top: 50%; transform: translateY(-50%); }
+  .ax-right  { right: -60px; top: 50%; transform: translateY(-50%); }
+
+  .pref-label {
+    position: absolute;
+    font-size: 0.65rem;
+    color: #aaa;
+    line-height: 1.6;
+    pointer-events: none;
+  }
+  .pref-good { left: -6px; top: 50%; transform: translate(-100%, -50%); text-align: right; }
+  .pref-bad  { right: -6px; top: 50%; transform: translate(100%, -50%); text-align: left; }
+
+  .diag-legend {
+    display: flex;
+    gap: 28px;
+    margin-top: 28px;
+    margin-bottom: 28px;
+  }
+  .diag-legend span {
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .swatch {
+    display: inline-block;
+    width: 24px;
+    height: 2px;
+    border-radius: 1px;
+  }
+
+  table {
+    width: 640px;
+    max-width: 100%;
+    border-collapse: collapse;
+    font-size: 0.68rem;
+    margin-top: 8px;
+  }
+  thead tr {
+    border-bottom: 1px solid #2a2a2e;
+  }
+  thead th {
+    padding: 8px 10px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #555;
+    font-weight: 600;
+  }
+  thead th:first-child { text-align: left; }
+  tbody tr {
+    border-bottom: 1px solid #18181b;
+  }
+  tbody tr:last-child { border-bottom: none; }
+  tbody td {
+    padding: 9px 10px;
+    text-align: center;
+    color: #bbb;
+    font-family: 'Courier New', monospace;
+  }
+  tbody td:first-child {
+    text-align: left;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+  }
+  .pos { color: #6DBE47; }
+  .neg { color: #D85A30; }
+  .neu { color: #555; }
+  .half-pos { color: #9bca6d; }
+  .half-neg { color: #e0836a; }
+  .zero { color: #333; }
+
+  .row-gg td:first-child { color: #6DBE47; }
+  .row-gl td:first-child { color: #7B6CF6; }
+  .row-lg td:first-child { color: #E59A2F; }
+  .row-ge td:first-child { color: #D85A30; }
+  .row-gp td:first-child { color: #1D9E75; }
+  .row-bp td:first-child { color: #D85A30; }
+</style>
+</head>
+<body>
+
+<h1>The Hegemonic Grid</h1>
+<p class="subtitle">Literal axes and emergent diagonals / six pole structure</p>
+
+<div class="grid-wrap" id="gridWrap">
+  <canvas id="gridCanvas"></canvas>
+
+  <div class="corner-label c-gg">
+    <div class="name">GG</div>
+    <div class="vals">+υ +ψ</div>
+  </div>
+  <div class="corner-label c-gl">
+    <div class="name">GL</div>
+    <div class="vals">−υ +ψ</div>
+  </div>
+  <div class="corner-label c-lg">
+    <div class="name">LG</div>
+    <div class="vals">+υ −ψ</div>
+  </div>
+  <div class="corner-label c-ge">
+    <div class="name">GE</div>
+    <div class="vals">−υ −ψ</div>
+  </div>
+
+  <div class="axis-label ax-top">Active +ψ</div>
+  <div class="axis-label ax-bottom">Passive −ψ</div>
+  <div class="axis-label ax-left">Bad −υ</div>
+  <div class="axis-label ax-right">Good +υ</div>
+
+  <div class="pref-label pref-good">
+    <div style="color:#1D9E75;font-weight:700;">Good pref</div>
+    <div>(+1υ, 0ψ)</div>
+    <div style="color:#D85A30;">Truth +0.5</div>
+    <div style="color:#378ADD;">Lie −0.5</div>
+  </div>
+  <div class="pref-label pref-bad">
+    <div style="color:#D85A30;font-weight:700;">Bad pref</div>
+    <div>(−1υ, 0ψ)</div>
+    <div style="color:#D85A30;">Truth −0.5</div>
+    <div style="color:#378ADD;">Lie +0.5</div>
+  </div>
+</div>
+
+<div class="diag-legend">
+  <span><span class="swatch" style="background:#D85A30;"></span> Truth axis (\) — positive left, negative right</span>
+  <span><span class="swatch" style="background:#378ADD;"></span> Lie axis (/) — negative left, positive right</span>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>Point</th>
+      <th>(υ, ψ)</th>
+      <th>Good</th>
+      <th>Bad</th>
+      <th>Active</th>
+      <th>Passive</th>
+      <th>Truth</th>
+      <th>Lie</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="row-gg">
+      <td>GG</td>
+      <td>(+1, +1)</td>
+      <td class="pos">+1</td>
+      <td class="neg">−1</td>
+      <td class="pos">+1</td>
+      <td class="neg">−1</td>
+      <td class="pos">+1</td>
+      <td class="zero">0</td>
+    </tr>
+    <tr class="row-gl">
+      <td>GL</td>
+      <td>(−1, +1)</td>
+      <td class="neg">−1</td>
+      <td class="pos">+1</td>
+      <td class="pos">+1</td>
+      <td class="neg">−1</td>
+      <td class="zero">0</td>
+      <td class="pos">+1</td>
+    </tr>
+    <tr class="row-lg">
+      <td>LG</td>
+      <td>(+1, −1)</td>
+      <td class="pos">+1</td>
+      <td class="neg">−1</td>
+      <td class="neg">−1</td>
+      <td class="pos">+1</td>
+      <td class="zero">0</td>
+      <td class="neg">−1</td>
+    </tr>
+    <tr class="row-ge">
+      <td>GE</td>
+      <td>(−1, −1)</td>
+      <td class="neg">−1</td>
+      <td class="pos">+1</td>
+      <td class="neg">−1</td>
+      <td class="pos">+1</td>
+      <td class="neg">−1</td>
+      <td class="zero">0</td>
+    </tr>
+    <tr class="row-gp">
+      <td>Good pref</td>
+      <td>(+1, 0)</td>
+      <td class="pos">+1</td>
+      <td class="neg">−1</td>
+      <td class="zero">0</td>
+      <td class="zero">0</td>
+      <td class="half-pos">+0.5</td>
+      <td class="half-neg">−0.5</td>
+    </tr>
+    <tr class="row-bp">
+      <td>Bad pref</td>
+      <td>(−1, 0)</td>
+      <td class="neg">−1</td>
+      <td class="pos">+1</td>
+      <td class="zero">0</td>
+      <td class="zero">0</td>
+      <td class="half-neg">−0.5</td>
+      <td class="half-pos">+0.5</td>
+    </tr>
+  </tbody>
+</table>
+
+<script>
+const canvas = document.getElementById('gridCanvas');
+const wrap = document.getElementById('gridWrap');
+const dpr = window.devicePixelRatio || 1;
+const W = wrap.offsetWidth;
+const H = wrap.offsetHeight;
+canvas.width = W * dpr;
+canvas.height = H * dpr;
+const ctx = canvas.getContext('2d');
+ctx.scale(dpr, dpr);
+
+const pad = 0;
+const x0 = pad, y0 = pad, x1 = W - pad, y1 = H - pad;
+const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2;
+
+ctx.strokeStyle = '#2a2a2e';
+ctx.lineWidth = 1;
+ctx.strokeRect(x0, y0, x1 - x0, y1 - y0);
+
+ctx.beginPath();
+ctx.moveTo(x0, cy); ctx.lineTo(x1, cy);
+ctx.moveTo(cx, y0); ctx.lineTo(cx, y1);
+ctx.stroke();
+
+// Truth diagonal - orange
+ctx.beginPath();
+ctx.strokeStyle = '#D85A30';
+ctx.lineWidth = 2;
+ctx.globalAlpha = 0.75;
+ctx.moveTo(x0, y0);
+ctx.lineTo(x1, y1);
+ctx.stroke();
+
+// Lie diagonal - blue
+ctx.beginPath();
+ctx.strokeStyle = '#378ADD';
+ctx.lineWidth = 2;
+ctx.moveTo(x0, y1);
+ctx.lineTo(x1, y0);
+ctx.stroke();
+ctx.globalAlpha = 1;
+
+// Preference points
+const gpx = x1, gpy = cy;
+const bpx = x0, bpy = cy;
+
+function drawPrefDash(px, py) {
+  // Truth projection: perpendicular foot on y=x line scaled
+  const tx = (px + py) / 2, ty = (px + py) / 2;
+  // Lie projection: perpendicular foot on y = H-x line
+  const lx = (px - py + H) / 2, ly = (-(px - py - H)) / 2;
+
+  ctx.setLineDash([4, 4]);
+  ctx.lineWidth = 1;
+
+  ctx.strokeStyle = '#D85A30';
+  ctx.globalAlpha = 0.5;
+  ctx.beginPath();
+  ctx.moveTo(px, py);
+  ctx.lineTo(tx, ty);
+  ctx.stroke();
+
+  ctx.strokeStyle = '#378ADD';
+  ctx.beginPath();
+  ctx.moveTo(px, py);
+  ctx.lineTo(lx, ly);
+  ctx.stroke();
+  ctx.globalAlpha = 1;
+  ctx.setLineDash([]);
+
+  ctx.beginPath();
+  ctx.arc(tx, ty, 3.5, 0, Math.PI * 2);
+  ctx.fillStyle = '#D85A30';
+  ctx.fill();
+
+  ctx.beginPath();
+  ctx.arc(lx, ly, 3.5, 0, Math.PI * 2);
+  ctx.fillStyle = '#378ADD';
+  ctx.fill();
+}
+
+drawPrefDash(gpx, gpy);
+drawPrefDash(bpx, bpy);
+
+// Preference dots
+function dot(x, y, color) {
+  ctx.beginPath();
+  ctx.arc(x, y, 5, 0, Math.PI * 2);
+  ctx.fillStyle = color;
+  ctx.fill();
+  ctx.strokeStyle = '#0d0d0f';
+  ctx.lineWidth = 1.5;
+  ctx.stroke();
+}
+
+dot(gpx, gpy, '#1D9E75');
+dot(bpx, bpy, '#c84b24');
+
+// Corner dots
+dot(x0, y0, '#6DBE47');
+dot(x1, y0, '#7B6CF6');
+dot(x0, y1, '#E59A2F');
+dot(x1, y1, '#D85A30');
+</script>
+
+</body>
+</html>

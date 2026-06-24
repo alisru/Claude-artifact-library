@@ -203,40 +203,115 @@ No public record of Bullock, Hauser, or Lowe meeting Yi Gang (PBOC Governor 2018
 
 **Governor's Calendar findings (rba.gov.au, Jul 2021 - Mar 2026):**
 
-The RBA publishes the full Governor's calendar. Searched for all CRINK-axis entries. Results:
+Full calendar searched for authoritarian state contacts — CRINK axis plus Israel, Turkey, Gulf states, Hong Kong (post-NSL), Vietnam, Indonesia, India, and other non-liberal-democratic actors. Results compiled below.
 
-**China contacts confirmed:**
+---
 
-| Date | Entry | Governor | Year |
-|------|-------|----------|------|
-| 30 May | Meeting with People's Bank of China, Governor Pan Gongsheng | Bullock | 2025 |
-| 30 May | Meeting with People's Bank of China Digital Currency Institute | Bullock | 2025 |
-| 29 May | Lunch meeting with China Heads, IMF, World Bank and OECD | Bullock | 2025 |
-| 29 May | Roundtable with Australian businesses operating in China (AustCham) | Bullock | 2025 |
-| 28 May | Meeting with Australian Ambassador to PRC, Scott Dewar (Beijing) | Bullock | 2025 |
-| 28 May | Meeting with China Investment Corporation | Bullock | 2025 |
-| 28 May | Meeting with China International Capital Corporation | Bullock | 2025 |
-| 29 May | Meeting with Bank of China | Lowe | 2023 |
+### China (CCP axis)
 
-This is a 4-day Beijing trip by Bullock in May 2025. Direct bilateral with PBOC Governor Pan Gongsheng. Meeting with the PBOC Digital Currency Institute — China's CBDC development arm, directly state-controlled and CCP-directed. Meeting with China Investment Corporation — China's sovereign wealth fund, $1.3 trillion AUM, directly state-owned. Meeting with China International Capital Corporation — CCP-linked investment bank.
+| Date | Entry | Governor | Year | Flag |
+|------|-------|----------|------|------|
+| 30 May | Meeting with People's Bank of China, Governor Pan Gongsheng | Bullock | 2025 | HIGH |
+| 30 May | Meeting with People's Bank of China Digital Currency Institute | Bullock | 2025 | HIGH |
+| 29 May | Lunch meeting with China Heads, IMF, World Bank and OECD | Bullock | 2025 | MEDIUM |
+| 29 May | Roundtable with Australian businesses in China (AustCham, Beijing) | Bullock | 2025 | MEDIUM |
+| 28 May | Meeting with Australian Ambassador to PRC, Scott Dewar (Beijing) | Bullock | 2025 | LOW |
+| 28 May | Meeting with China Investment Corporation | Bullock | 2025 | HIGH |
+| 28 May | Meeting with China International Capital Corporation | Bullock | 2025 | HIGH |
+| 27 Nov | Meeting of BIS Special Governors and Private Sector CEOs (Hong Kong) | Bullock | 2023 | MEDIUM |
+| 29 May | Meeting with Bank of China | Lowe | 2023 | MEDIUM |
 
-That is not routine central bank diplomacy. That is the RBA Governor walking into the full CCP financial apparatus in a single 4-day visit. The PBOC Digital Currency Institute in particular is not a bilateral monetary policy discussion — it is a CBDC coordination meeting with a CCP-controlled digital surveillance infrastructure project.
+Bullock's Beijing trip May 2025: 4 days, full CCP financial apparatus. PBOC bilateral, CBDC Institute (CCP digital surveillance finance), CIC (CCP sovereign wealth fund, ~$1.3T AUM), CICC (CCP-linked investment bank). This is not routine central bank diplomacy. The PBOC Digital Currency Institute meeting is the sharpest flag — CBDC infrastructure is a CCP state surveillance project, not a monetary policy forum.
 
-**Iran contact confirmed:**
+Hong Kong Nov 2023: post-National Security Law, HK SAR is functionally CCP-governed. BIS meeting in that jurisdiction is structurally different from pre-2020 Hong Kong contact.
 
-| Date | Entry | Governor | Year |
-|------|-------|----------|------|
-| 9 June | Meeting with Chargé D'Affaires ad interim of Iran | Lowe | 2022 |
+---
 
-One month after rates started rising. Lowe meeting with Iran's acting ambassador on 9 June 2022. Same day as a meeting with Treasurer Chalmers. Iran is under SWIFT sanctions. An RBA Governor meeting with an Iranian diplomatic representative is anomalous. No public reporting on this meeting found.
+### Iran
 
-**Russia, North Korea:** No entries found in the calendar for the full period.
+| Date | Entry | Governor | Year | Flag |
+|------|-------|----------|------|------|
+| 9 June | Meeting with Chargé D'Affaires ad interim of Iran | Lowe | 2022 | HIGH |
 
-**Key flags:**
-- Bullock's Beijing trip May 2025 was not publicly announced as a CRINK-contact event
-- PBOC Digital Currency Institute meeting is the single most significant flag — this is not standard central bank bilateral
-- CIC and CICC meetings represent direct contact with CCP state capital deployment infrastructure
-- Lowe-Iran meeting June 2022 is unexplained and unreported
+One month after rate hikes began. Same-day meeting with Treasurer Chalmers. Iran is under SWIFT sanctions — an RBA Governor meeting with an Iranian diplomatic representative has no obvious monetary policy rationale. No public reporting found on this meeting.
+
+---
+
+### Turkey (Erdogan-era authoritarian shift)
+
+| Date | Entry | Governor | Year | Flag |
+|------|-------|----------|------|------|
+| 2 Oct | Meeting with Central Bank of the Republic of Turkey Deputy Governor | Bullock | 2025 | LOW-MEDIUM |
+
+Turkey's central bank has operated under direct Erdogan interference — multiple governors fired for refusing rate decisions. A bilateral with the Turkish Deputy Governor is not inherently alarming, but the institutional context is a captured central bank. Worth noting in a trends analysis.
+
+---
+
+### Israel
+
+| Date | Entry | Governor | Year | Flag |
+|------|-------|----------|------|------|
+| 10 Apr | Private roundtable at the Australia-Israel Chamber of Commerce | Bullock | 2025 | MEDIUM |
+| 9 Jun | Meeting with Australian Israel Chamber of Commerce | Lowe | 2023 | MEDIUM |
+| (date unclear) | Australia-Israel Chamber of Commerce lunch event | Lowe | 2022 | MEDIUM |
+
+Three engagements with the AICC across both governors spanning 2022-2025. The AICC is the primary soft-power commercial lobby for Israeli state and defence interests in Australia. These are not bilateral central bank meetings — they are political economy forums. The 2025 entry is post-October 7, post-ICJ provisional measures, while Australia had officially voted at the UN against Israel's conduct. Bullock attending a private AICC roundtable in that context is a notable political signal regardless of stated economic agenda.
+
+---
+
+### Hong Kong SAR (post-NSL, CCP-governed)
+
+| Date | Entry | Governor | Year | Flag |
+|------|-------|----------|------|------|
+| 4 Sep | Meeting with the Financial Secretary of Hong Kong SAR and HK Economic and Trade Office | Bullock | 2024 | MEDIUM |
+| 27 Nov | BIS Special Governors meeting (Hong Kong) | Bullock | 2023 | LOW-MEDIUM |
+
+HK Financial Secretary Paul Chan is a Beijing-appointed official operating under NSL. Meeting with him is meeting with a CCP proxy administration. Categorically different from a pre-2020 HK contact.
+
+---
+
+### Vietnam (one-party state)
+
+| Date | Entry | Governor | Year | Flag |
+|------|-------|----------|------|------|
+| 6 Dec | Meeting with delegation from National Financial Supervisory Commission, Vietnam | Lowe | 2022 | LOW |
+
+Single entry, delegated commission level, low individual flag weight. Included for completeness — Vietnam is a one-party Communist state, but this is a routine financial regulatory engagement.
+
+---
+
+### Taiwan (counter-flag — Five Eyes adjacent, democratic)
+
+| Date | Entry | Governor | Year | Flag |
+|------|-------|----------|------|------|
+| 8 Nov | Meeting with Australia's Representative Designate to Taiwan, Robert Fergusson (online) | Bullock | 2023 | N/A |
+| (date) | Meeting with Head of Australia's Representative Office in Taiwan | Lowe | 2022 | N/A |
+
+Included for completeness. Taiwan contacts are Five Eyes-adjacent, democratic — inverse of the authoritarian trend. No flag.
+
+---
+
+### Russia, North Korea
+
+No entries in the full calendar Jul 2021 - Mar 2026.
+
+---
+
+### Trend Analysis
+
+The pattern across the full calendar:
+
+China contacts are clustered at peak strategic moments — Bullock's Beijing trip May 2025 coincides with Australia's post-Albanese reset of China relations under Wong/Penny diplomacy. The CBDC Institute meeting is the structural outlier — no routine monetary policy rationale.
+
+Israel contacts are recurring across both governors (2022, 2023, 2025) through the same lobby vehicle (AICC) regardless of the political context. The 2025 entry post-ICJ is the sharpest — it suggests the AICC relationship with the RBA is institutional, not incidental.
+
+Iran June 2022 remains unexplained. Same-day Chalmers contact makes it more anomalous, not less.
+
+Turkey October 2025 is contextually notable given the CBT's status as a captured institution.
+
+The absence of Russia and North Korea entries is expected — both are fully sanctioned.
+
+What the trend suggests: the RBA Governor's contact network under Bullock has expanded toward CCP-aligned and authoritarian-adjacent actors at exactly the same time the board was being restructured with Chalmers-selected appointments. Whether that is coordinated foreign policy alignment or coincidental diplomatic normalisation is the open analytical question.
 
 ---
 

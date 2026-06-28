@@ -37,20 +37,20 @@ This means a consciousness paper sentence about information transfer embeds with
 
 The practical consequence is that the 103/240 noise paragraphs in the consciousness paper test case almost entirely disappear. Paragraphs land in noise when they don't have enough distinctive signal to belong to any cluster. Contextualised sentences have more distinctive signal by construction.
 
-### Change 2: all-mpnet-base-v2 (110M params, 768 dims)
+### Change 2: BAAI/bge-large-en-v1.5 (335M params, 1024 dims)
 
-Five times the parameters, double the embedding dimensions. Trained on 1 billion sentence pairs with contrastive learning.
+Top of the MTEB leaderboard for semantic search. Trained with a retrieval-optimised objective that encodes discriminative features more aggressively than general similarity models, meaning domain-specific philosophical vocabulary lands in more distinct positions rather than clustering by register alone.
 
 Hardware cost on your machine:
-- Model loaded in RAM: ~250MB at float16 with inference overhead
-- VRAM on GTX 1660 Super (6GB): fits with room, inference runs on GPU
-- Estimated throughput at sentence level batched: 2,000-4,000 sentences per second
+- Model loaded in RAM: ~650MB at float16 with inference overhead
+- VRAM on GTX 1660 Super (6GB): fits comfortably, inference runs on GPU
+- Estimated throughput at sentence level batched: 1,500-3,000 sentences per second
 - Corpus estimate at sentence level: 500,000 to 1,500,000 sentences depending on average document length
-- Estimated re-ingestion time: 4-12 minutes for embedding pass alone
+- Estimated re-ingestion time: 8-17 minutes for embedding pass alone
 
 Storage cost in Qdrant:
 - v1 vectors: 384 dims per paragraph
-- v2 vectors: 768 dims per sentence
+- v2 vectors: 1024 dims per sentence
 - Sentence count will be roughly 3-5x paragraph count
 - Net storage: approximately 6-10x v1 collection size
 - Check current v1 collection size before committing to ensure local disk is sufficient
@@ -96,7 +96,7 @@ Estimated row count: 500,000 to 1,500,000 rows
 
 ### Step 2: Embedding pass
 
-Batch embed every contextualised input string using all-mpnet-base-v2 via sentence-transformers.
+Batch embed every contextualised input string using BAAI/bge-large-en-v1.5 via sentence-transformers.
 
 Batch size: 256 sentences per batch (tunable based on VRAM headroom during the run)
 Device: CUDA (GTX 1660 Super)
@@ -144,7 +144,7 @@ Output: `topic_assignments.parquet` with sentence_id, topic_id, topic_label, top
 
 For each sentence embedding, compute the (υ,ψ) coordinate using the centre-of-gravity formula against the 16 attractor base vectors.
 
-This step requires the full 16 attractor definitions with confirmed (υ,ψ) coordinates and their associated ism pairs. This data lives in `The Philosophical Isms of the Hegemony Map.md`. Extract and encode the 16 attractor definitions as short descriptive sentences, embed them with all-mpnet-base-v2 to get 16 base vectors, then assign fixed (υ,ψ) coordinates to each.
+This step requires the full 16 attractor definitions with confirmed (υ,ψ) coordinates and their associated ism pairs. This data lives in `The Philosophical Isms of the Hegemony Map.md`. Extract and encode the 16 attractor definitions as short descriptive sentences, embed them with BAAI/bge-large-en-v1.5 to get 16 base vectors, then assign fixed (υ,ψ) coordinates to each.
 
 For each sentence vector s:
 1. Compute cosine similarity w_i between s and each of the 16 attractor vectors
@@ -170,7 +170,7 @@ Output: `bridge_sentences.parquet` with sentence_id, cluster_a, cluster_b column
 
 ### Step 7: Qdrant v2 collection build
 
-Create a new Qdrant collection `vft_v2` with vector size 768 and cosine distance metric.
+Create a new Qdrant collection `vft_v2` with vector size 1024 and cosine distance metric.
 
 Upsert every sentence as a point:
 - id: sentence_id (hashed to uint64 for Qdrant compatibility)

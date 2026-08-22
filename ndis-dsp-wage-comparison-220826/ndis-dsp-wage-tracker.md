@@ -32,7 +32,8 @@ So relative to a full time minimum wage income, the actually available spending 
 
 ## Underspend / non-delivery
 
-- Roughly **one third of all NDIS funds go unspent** in an average plan year, not due to lack of need but due to provider shortages, rigid pricing rules, poor plan design, and access friction. Unspent funds do not roll over between plans and are clawed back to the NDIA at plan end.
+- Roughly **one third of all NDIS funds go unspent** in an average plan year (Plan Partners, e61 Institute). Unspent funds do not roll over between plans and are clawed back to the NDIA at plan end.
+- Disability sector submissions, notably the Australian Physiotherapy Association's 2025-26 NDIS Annual Pricing Review submission, argue this underspend is not evidence of excess and instead reflects provider shortages, rigid pricing rules, poor plan design, and access friction. This is the sector's stated interpretation, not an NDIA-confirmed causal breakdown, and is flagged here as such.
 - On the $31,000 average plan, that is roughly **$10,000/yr per person allocated but never converted into delivered support**.
 - Effective delivered NDIS support after accounting for underspend: roughly $31,000 - $10,000 = **~$21,000/yr actually reaching the person**.
 - Effective combined total actually delivered (DSP + used NDIS): $31,223 + $21,000 = **~$52,223/yr**, which lands almost exactly at the minimum wage figure ($52,255/yr) rather than exceeding it.

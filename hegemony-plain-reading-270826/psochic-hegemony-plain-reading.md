@@ -184,7 +184,7 @@ And a shared sense of definitions is an expression of love. This is not a sentim
 
 The inverse holds and is the more useful diagnostic. Deliberately moving a definition while others are still standing on it is the Bad Lie in its purest form, because the outward-facing motion of communication is preserved while the benefit runs backwards. The word still looks like it is being offered. It has simply stopped meaning what the listener will take it to mean. Every euphemism that survives contact with policy works this way.
 
-So the failure at the bottom of the stack is not a technical one. Definitions do not drift on their own; they are moved, or they are abandoned. A society whose words have stopped carrying shared meaning is one where enough actors found it profitable to move them, and the loss of trust further up the chain is the arithmetic consequence.
+So the failure at the bottom of the stack is not a technical one. Definitions do not drift on their own; they are moved, or they are abandoned. A society whose words have stopped carrying shared meaning is one where enough people found it worth their while to move them, and everything the chain builds on top of shared meaning comes down after. Not as a punishment. Just because there was nothing left holding it up.
 
 ---
 

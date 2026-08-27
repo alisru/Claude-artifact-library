@@ -180,6 +180,12 @@ Read backwards, it is a diagnosis: no harmony means no progress, which means no 
 
 This also explains why the whole diagram lives on the productive-versus-regressive axis rather than a left-right political one. Production and construction are downstream of trust; trust is downstream of definitions holding still. A society that has lost its shared definitions cannot get to the top half of the map regardless of intent.
 
+And a shared sense of definitions is an expression of love. This is not a sentimental addition to the chain, it is what the chain is made of. Holding a word still so another person can reach it costs something. It means accepting a constraint on your own meaning for the sake of someone else's comprehension, which is benefit flowing outward at personal cost, and that is a +υ act by definition. Keeping a definition stable when drifting it would be convenient is the Lesser Good move: a withholding that shelters. Building shared meaning where none existed is the Greater Good move: production aimed outward. Both are love in the only form the map can measure, which is direction of benefit and disposition of will.
+
+The inverse holds and is the more useful diagnostic. Deliberately moving a definition while others are still standing on it is the Bad Lie in its purest form, because the outward-facing motion of communication is preserved while the benefit runs backwards. The word still looks like it is being offered. It has simply stopped meaning what the listener will take it to mean. Every euphemism that survives contact with policy works this way.
+
+So the failure at the bottom of the stack is not a technical one. Definitions do not drift on their own; they are moved, or they are abandoned. A society whose words have stopped carrying shared meaning is one where enough actors found it profitable to move them, and the loss of trust further up the chain is the arithmetic consequence.
+
 ---
 
 ## 12. The closing exercise

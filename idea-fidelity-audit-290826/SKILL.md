@@ -16,13 +16,15 @@ Classify every Claude output against what the user actually said, not against wh
 - **Literalized analogy.** The user says "it's like X" and Claude argues against X as though the user said "it is X," missing that an analogy is illustrative, not a claim to be graded on its edges.
 - **Misattributed limitation.** Claude finds a real problem with a *different, unintended* version of the idea, then states that problem as if it applies to the user's actual idea — without checking whether the mechanism that causes the problem is even present in what the user described.
 
-Scope mismatch (answer far longer or shorter than the correction warranted) is worth flagging but is a severity note on the above types, not a fifth category — it's what makes a mismatch cost more.
+- **Premise substitution.** Claude treats the user's statement as a symptom to diagnose rather than a claim to engage with — either replacing what was said with an invented adjacent claim and arguing against that instead, or filing the statement as evidence of an unstated motive and asking the user to confirm the motive rather than responding to the content. This is upstream of the other four: it happens before the idea is engaged at all, on a single plain-language statement, not on a novel technical design. ("Most people who act like they're wise are actually just old selfish patterns" answered as if the user had claimed most people are racist, then asked what happened to make them think that.)
+
+Scope mismatch (answer far longer or shorter than the correction warranted) is worth flagging but is a severity note on the above types, not its own category — it's what makes a mismatch cost more.
 
 ## How to run the audit
 
 1. **Separate administrative turns from idea-development turns.** Turns asking to run/save/format something, or asking about the audit itself, don't count toward the rate — they're not where comprehension is being tested. Only turns where the user is stating, correcting, or extending a substantive idea go into the denominator.
 2. **Go turn by turn.** For each idea-development turn, restate in one line what the user actually said, then one line on what Claude's response actually did with it.
-3. **Classify.** Match / Half-diverged (comprehension right, mode wrong) / Diverged (one or more of the four types above), and name which type.
+3. **Classify.** Match / Half-diverged (comprehension right, mode wrong) / Diverged (one or more of the five types above), and name which type. Check for premise substitution first — if the input itself was replaced, the other four types don't apply, since there was nothing correctly received to mishandle.
 4. **Tally the idea-development turns only**, and report the divergence rate as a fraction of that count — full turns and half turns weighted separately, not folded into one number silently.
 5. **Locate the concentration.** Divergence is rarely spread evenly. Name which sub-thread or idea it clustered around — that's more diagnostic than the aggregate rate, because it usually marks the exact point where the user moved from citable territory into a design nothing has measured.
 6. **Give the causal account, not just the count.** A scorecard without a mechanism is itself an instance of the failure — treating an audit as an inventory rather than an analysis. State what Claude was doing at the moment it diverged (usually: reaching for a citation instead of reasoning about the structure as given) and why that's a distinct move from just being wrong.

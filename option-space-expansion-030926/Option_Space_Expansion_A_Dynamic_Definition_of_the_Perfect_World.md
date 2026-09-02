@@ -8,7 +8,7 @@ Jarrod Hamilton (alisru), with drafting assistance from Claude
 
 ## Abstract
 
-This paper states and formalises a single definition: a perfect world is one that continuously increases the amount of viable, available choice open to its participants over time. The definition is dynamic rather than static. It does not describe a terminal state to be reached but a direction to be sustained. We give the definition a measure-theoretic form, derive a four-class taxonomy of actions from the sign and rate of change of the option space, and show that the definition is stable under the framework's existing floor condition (the Cost of Being, 1∞). We then locate the definition against its independent prior discoveries in cybernetics, artificial intelligence and physics, and against its philosophical antecedents in the liberty tradition, pragmatism, the capability approach and the ethics of responsibility. Finally we show that the definition is not a new axis in the Psochic Hegemony but a restatement of what the Hegemony's (υ, ψ) coordinate already measures when read across time, and that the single move which distinguishes this formulation from all of its predecessors is the horizon at which the option count is taken: the world, not the actor.
+This paper states and formalises a single definition: a perfect world is one that continuously increases the amount of viable, available choice open to its participants over time. The definition is dynamic rather than static. It does not describe a terminal state to be reached but a direction to be sustained. We give the definition a measure-theoretic form, derive a four-class taxonomy of actions from the sign and rate of change of the option space, and show that the definition is stable under the framework's existing floor condition (the Cost of Being, 1∞). We then define the unit of good as the expansion of a single participant's available option space, total good as the signed sum of such expansions across participants, and the perfect world as the limit case in which every term is positive and sustained. We then locate the definition against its independent prior discoveries in cybernetics, artificial intelligence and physics, and against its philosophical antecedents in the liberty tradition, pragmatism, the capability approach and the ethics of responsibility. Finally we show that the definition is not a new axis in the Psochic Hegemony but a restatement of what the Hegemony's (υ, ψ) coordinate already measures when read across time, that the υ coordinate can be derived from the signed sum rather than assigned by judgment, and that the single move which distinguishes this formulation from all of its predecessors is the horizon at which the option count is taken: the world, not the actor.
 
 ---
 
@@ -86,7 +86,33 @@ The single most consequential parameter in the formalism is not μ, nor T, but t
 
 **World horizon.** Ω_W(t) is the set of futures reachable by the participant population jointly, with the measure taken so that a future in which one participant's options have grown by removing another's does not count as expansion.
 
-These two readings share a slogan and point in opposite directions. Under the actor horizon, the fastest way to grow O_i is to absorb the option space of others. Under the world horizon, that move is option-destroying by construction. Section 4 shows that every formal predecessor of this definition takes the actor horizon, and that this is exactly why the AI literature discovered option-maximisation and power-seeking to be the same thing. Definition 1 is stated at the world horizon. That is its distinguishing move.
+These two readings share a slogan and point in opposite directions. Under the actor horizon, the fastest way to grow O_i is to absorb the option space of others. Under the world horizon, that move is option-destroying by construction. Section 3 shows that every formal predecessor of this definition takes the actor horizon, and that this is exactly why the AI literature discovered option-maximisation and power-seeking to be the same thing. Definition 1 is stated at the world horizon. That is its distinguishing move. Section 2.6 shows that the world horizon is not an assumption imposed on the count but the limit case of a per-participant definition of good.
+
+### 2.6 The unit of good
+
+Definition 1 describes the perfect world. It does not yet say what good is. The following definitions supply that, and show that the world horizon of §2.5 is derived rather than stipulated.
+
+**Definition 2 (Unit of Good).** One unit of good is the expansion of a single participant's available option space over an interval: ΔO_i > 0 for participant i.
+
+**Definition 3 (Total Good).** The total good of an action or trajectory over an interval is the signed sum of per-participant expansions:
+
+G = Σ_i ΔO_i
+
+summed over all participants, with each term carrying its sign. A participant whose available options contracted contributes a negative term.
+
+**Definition 4 (Maximal Good).** The most good is G > 0 with ΔO_i > 0 for every participant i, sustained over time.
+
+Three consequences follow.
+
+First, Definition 1 is now a corollary. The perfect world is the trajectory on which Definition 4 holds continuously. Perfection is not a separate concept from good; it is maximal good taken over time. The world horizon of §2.5 is simply the case in which the unit of good is realised for everyone.
+
+Second, an action that expands one participant's options by contracting another's is not "some good". It is a sum with a negative entry, and it nets to whatever remains. This is what prevents the definition from rewarding extraction: the actor-horizon reading of §2.5 is the special case in which only one term is counted and the rest are dropped from the sum.
+
+Third, the sum must carry the survival constraint of §2.3. Terms cannot be traded off freely across participants in the way a plain sum suggests. A trajectory that gives ninety-nine participants a small expansion by removing the hundredth participant's last option drives that participant to the floor, O_j = 1∞, which is an exit from the frame rather than a reduction within it. So the sum is subject to:
+
+O_i(t) ≥ 1∞ for all i and all t.
+
+Within that constraint the additive definition holds. Without it, the additive definition permits sacrifice, and the floor condition is what forbids it.
 
 ---
 
@@ -153,9 +179,21 @@ The corpus already names the bottom-right quadrant (−υ, −ψ) the Regressive
 
 The Morality axis υ asks who benefits, from +2 (everyone) to −2 (only me). This is precisely the horizon parameter of §2.5. Taking Ω over the whole participant population is υ = +2. Taking it over one's own group is υ = −1. Taking it over oneself alone is υ = −2. So the world-horizon reading of Definition 1, which distinguishes it from all of its predecessors, is nothing more than the requirement that the option count be taken at υ = +2. Turner's power-seeker is the same formula evaluated at υ = −2.
 
+With the signed sum of §2.6 in hand, υ stops being an assigned judgment and becomes a derived quantity. Let N be the participant population, N⁺ the set of participants with ΔO_i > 0, and N⁻ the set with ΔO_i < 0. The verbal ladder of the axis (Everyone, Other Beings, A Being, No One, My Group, Me, Only Me) is a reading of the size and membership of N⁺ and N⁻:
+
+| υ | Structure of the sum |
+|---|---|
+| +2 | N⁺ = N, N⁻ empty. Every term positive. |
+| +1 | N⁺ contains others beyond the actor; N⁻ small or empty. |
+| 0 | N⁺ and N⁻ both empty or cancelling. No net movement. |
+| −1 | N⁺ restricted to the actor's group; N⁻ non-empty outside it. |
+| −2 | N⁺ = {actor}; N⁻ contains everyone the action touches. |
+
+A first-order numerical form is υ ≈ 2 · (|N⁺| − |N⁻|) / |N|, with the caveat that the ladder is not purely a count: an action whose only positive term is the actor's own sits at −2 regardless of how many negative terms are small. Membership matters as well as cardinality, which is why the ladder names who benefits rather than how many. The Perceptual Inversion Warning of the Hegemony applies here in a specific form: an actor at the self end perceives their single positive term as the whole sum, because the negative terms fall outside the horizon they are counting over.
+
 ### 5.3 The coordinate of the definition itself
 
-Judged as an idea on the Hegemony, Definition 1 sits at (+2.0, +2.0): beneficiary is all beings across time, energy is actively generative. Nearest anchor: Productive Justice. Verdict: the definition is a description of what the (+2, +2) corner does when it runs continuously.
+Judged as an idea on the Hegemony, Definition 1 sits at (+2.0, +2.0): beneficiary is all beings across time (N⁺ = N under §2.6), energy is actively generative. Nearest anchor: Productive Justice. Verdict: the definition is a description of what the (+2, +2) corner does when it runs continuously.
 
 ### 5.4 The Possible plane and the StateVector
 
@@ -175,13 +213,15 @@ The Infinite Doorman Theory describes order as routed, not enforced: what passes
 
 **Content neutrality.** The definition is silent on what should be chosen. This is a feature. A criterion that adjudicated between first-order goods would be one more first-order good. The definition constrains only the class of moves that foreclose future adjudication.
 
-**The power-seeking objection.** Fully answered by §2.5 and §5.2: the objection applies to the actor-horizon reading and is the reason the world-horizon reading is the correct one.
+**The power-seeking objection.** Fully answered by §2.5, §2.6 and §5.2: the objection applies to the actor-horizon reading, which is the signed sum with all but one term dropped, and is the reason the world-horizon reading is the correct one.
+
+**The sacrifice objection.** A plain additive definition of good would permit driving one participant to the floor for the marginal gain of many. §2.6 forbids this by carrying the survival constraint O_i ≥ 1∞ into the sum. The definition is additive above the floor and lexical at it.
 
 ---
 
 ## 7. Conclusion
 
-A perfect world is one that continuously increases the viable, available choice open to its participants over time. Stated formally, it is the sustained positivity of dO/dt over the world-horizon option space, with the Cost of Being as its floor and irreversibility as its cardinal sin. The idea has been discovered before, in cybernetics, artificial intelligence, physics, and across two centuries of philosophy of liberty, growth, capability and responsibility. What has not been stated before is the horizon at which the count must be taken. Taken at the actor, the criterion is power. Taken at the world, it is justice. The Psochic Hegemony already has an axis for that distinction. It is υ.
+Good is the expansion of a participant's available option space. Total good is the signed sum of such expansions across participants, floored at the Cost of Being. A perfect world is the trajectory on which every term of that sum is positive and stays positive: the sustained positivity of dO/dt over the world-horizon option space, with 1∞ as its floor and irreversibility as its cardinal sin. The idea has been discovered before, in cybernetics, artificial intelligence, physics, and across two centuries of philosophy of liberty, growth, capability and responsibility. What has not been stated before is the horizon at which the count must be taken. Taken at the actor, the criterion is power. Taken at the world, it is justice. The Psochic Hegemony already has an axis for that distinction. It is υ.
 
 ---
 

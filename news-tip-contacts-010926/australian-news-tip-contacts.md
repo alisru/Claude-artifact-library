@@ -1,6 +1,6 @@
 # Australian news tip contacts
 
-Compiled 1 September 2026, revised same day after a second research pass. Every address below was pulled from the outlet's own contact or tips page during this session. Where an outlet publishes no email and routes tips only through a web form, that is stated rather than guessed at. Nothing here is reconstructed from memory or from third-party contact-scraping sites.
+Compiled 1 September 2026, revised twice the same day. Every address below was pulled from the outlet's own contact or tips page during this session. Where an outlet publishes no email and routes tips only through a web form, that is stated rather than guessed at. Nothing here is reconstructed from memory or from third-party contact-scraping sites.
 
 ---
 
@@ -14,7 +14,7 @@ Compiled 1 September 2026, revised same day after a second research pass. Every 
 - ProtonMail: the ABC publishes a ProtonMail address for Investigations behind a click-to-reveal on the confidential tips page. An older ABC article cites it as **ABCinvestigations@protonmail.com**, which may or may not still be current, so reveal it on the page rather than relying on that. 🦕 https://www.abc.net.au/news/2019-07-19/confucius-institute-teachers-must-love-the-motherland/11299744
 - Postal drop for ABC Investigations: Att: ABC Investigations, Australian Broadcasting Corporation, PO BOX 9994, Ultimo NSW 2007. They advise using an external post box rather than a post office. 🌐 https://www.abc.net.au/news/confidential-tips
 - 7.30: dedicated end-to-end encrypted account **ABC730tips@protonmail.com**, plus SecureDrop and postal mail to ABC 7.30, 700 Harris St, Ultimo NSW 2007 🌐 https://www.abc.net.au/news/programs/730/about-contact
-- Four Corners: online form plus SecureDrop 🌐 https://www.abc.net.au/news/2022-10-18/four-corners-contact/101458292
+- Four Corners: online form plus SecureDrop, and postal to Four Corners, Australian Broadcasting Corporation, PO BOX 9994, Ultimo NSW 2007 🌐 https://www.abc.net.au/news/2022-10-18/four-corners-contact/101458292
 - Media Watch: **mediawatch@abc.net.au**, phone 02 8333 4454 🌐 https://www.abc.net.au/mediawatch/tipoffs
 
 ABC staff addresses follow surname.firstname@abc.net.au, visible on multiple reporter pages, for example kinsella.elise@abc.net.au and barbour.lucy@abc.net.au. 🌐 https://www.abc.net.au/news/elise-kinsella/6980658 and https://www.abc.net.au/news/lucy-barbour/4592772
@@ -86,7 +86,7 @@ No tip email published. Their help pages list only a switchboard on +61 2 9288 3
 
 ### 9News
 
-Story submission runs through the form at https://www.9news.com.au/contact-us. They ask you to state in the submission itself if you want your name kept confidential, and warn they cannot respond to every one. 🌐 same
+- Story submissions: **contact@9news.com.au**. They ask you to include your name, location and a phone number, and to state in the submission itself if you want your name kept confidential. They warn they cannot respond to every one. 🌐 https://www.9news.com.au/contact-us
 
 Separate submission paths exist for A Current Affair, 60 Minutes and the Today Show, linked from that page. Newsroom switchboards include Sydney +61 2 9906 9999 and Newcastle +61 2 4929 2933. Archive requests only: archives@nine.com.au 🌐 same
 
@@ -101,8 +101,9 @@ No tip email or form published. Contact page lists switchboards only, Sydney 02 
 ### Crikey
 
 - Tip-off form with 25MB file upload, anonymous submission supported: https://www.crikey.com.au/tip-off/ 🌐 same
-- Encrypted Signal channel linked from that page 🌐 same
-- No published tip email address.
+- Encrypted Signal and WhatsApp, same number: **+61 494 644 259**. Signal username: **CRIKEY.99** 🌐 same
+- Postal: PO Box 5239, 380 Bourke Street, Melbourne VIC 3000 🌐 same
+- No published tip email address. They ask that the tip channels not be used for feedback, story ideas, pitches or press releases, which go to the general contact form instead. 🌐 same
 
 ### Michael West Media
 
@@ -150,7 +151,7 @@ No tip email or form published. Contact page lists switchboards only, Sydney 02 
 
 ### Independent Australia
 
-Contact page loaded but exposed only a form, no address. Route through https://independentaustralia.net/contact-us/ 🌐 same
+No email published. Contact form at https://independentaustralia.net/contact-us/, postal to PO Box 260, Isle of Capri QLD 4217 🌐 same
 
 ---
 
@@ -201,11 +202,15 @@ The Mandarin is the public sector masthead, so NDIA administration and agency co
 
 ## Guardian Australia
 
-Guardian Australia publishes no direct tip email. They route story ideas through an online form and secure material through the Secure Messaging tool in the Guardian app or their SecureDrop portal at https://www.theguardian.com/tips 🌐 https://www.theguardian.com/help/contact-us and https://help.theguardian.com/article/how-do-i-contact-the-newsroom-or-pitch-a-story
+- Tips, stories and general editorial queries: **australia@theguardian.com**, phone +61 2 8076 8400 🌐 https://www.theguardian.com/info/2013/may/26/contact-guardian-australia
+- Newsdesk phone: +61 2 8076 8500 🌐 same
+- Individual staff: **Firstname.lastname@theguardian.com**, and Guardian Australia publishes a full list of editorial staff linked from the contact page 🌐 https://www.theguardian.com/help/contact-us
+- Guardian UK investigations team: **investigations.contact@theguardian.com**. The address is printed on their secure contact page with anti-scrape padding inserted, so it appears mangled in raw page text. 🌐 https://www.theguardian.com/tips 👤 address also supplied by you
+- Sydney postal: The Guardian, Level 3, 19 Foster St, Surry Hills NSW 2010 🌐 same
+- Secure routes: Secure Messaging inside the Guardian app, or SecureDrop at theguardian.com/securedrop 🌐 same
+- Social media complaints: australia.socialmediacomplaints@theguardian.com. Media enquiries: aus.media.enquiries@theguardian.com. Security vulnerabilities: icrt@theguardian.com 🌐 https://www.theguardian.com/info/2013/may/26/contact-guardian-australia
 
-For freelance pitching they direct you to the commissioning editor for the relevant section rather than a general address. 🌐 same
-
-Security vulnerabilities only: icrt@theguardian.com 🌐 https://www.theguardian.com/info/2013/may/26/contact-guardian-australia
+The Guardian's secure contact page is the most useful thing on this list beyond the addresses themselves. It sets out what they will and will not act on: they will not pursue vague or speculative leads, and they want specifics, names, locations, dates, a clear statement of what you know rather than what you suspect, and an account of how you know it and how they might verify it. 🌐 https://www.theguardian.com/tips
 
 ---
 
@@ -221,7 +226,8 @@ Security vulnerabilities only: icrt@theguardian.com 🌐 https://www.theguardian
 | SMH | ProtonMail | SMHinvestigations@protonmail.com 🌐 |
 | AFR | Postal | PO Box 506 Sydney NSW 2001 / PO Box 257 Melbourne VIC 3001 🌐 |
 | Guardian | SecureDrop / app Secure Messaging | theguardian.com/tips 🌐 |
-| Crikey | Signal | linked from crikey.com.au/tip-off 🌐 |
+| Crikey | Signal / WhatsApp | +61 494 644 259, Signal username CRIKEY.99 🌐 |
+| Guardian | Secure Messaging / SecureDrop | in the Guardian app, or theguardian.com/securedrop 🌐 |
 | Michael West Media | ProtonMail | arranged via contact page 🌐 |
 | The Saturday Paper | ProtonMail | thesaturdaypaper@protonmail.com 🌐 |
 | The Klaxon | ProtonMail | anthonyklan@protonmail.com 🌐 |
@@ -270,7 +276,7 @@ Crikey and Guardian Australia both maintain standing NDIS coverage streams rathe
 
 ## Gaps
 
-A second pass closed the AFR, The Australian, 9News, 10 News, The New Daily and Junkee. Still unresolved: National Indigenous Times, which blocks automated retrieval entirely, and The Conversation, whose team page lists editors by section but publishes no contact addresses. news.com.au publishes no tip address at all, which is a finding rather than a gap. 📐
+A third pass re-read every page where an earlier pass had claimed no email was published. That caught two errors, 9News and Guardian Australia, both now corrected. The remaining no-email findings were confirmed as genuine: SBS, news.com.au, 10 News, Crikey and Independent Australia publish forms, phones or postal addresses but no tip email. Still unresolved: National Indigenous Times, which blocks retrieval entirely, and The Conversation, whose team page lists editors by section without addresses. 📐
 
 One third-party contact-scraping site returned an ABC Four Corners address during the first pass. It was not corroborated by any ABC page and has been excluded. 🦄
 

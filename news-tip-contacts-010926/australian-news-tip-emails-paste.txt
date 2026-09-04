@@ -1,0 +1,32 @@
+Ready-to-paste address blocks, one per category. Comma separated.
+Do not mix encrypted addresses into a group send: a ProtonMail address in a To field alongside plain ones exposes every recipient to each other and defeats the point of using it.
+
+NATIONAL-NEWSROOM (11)
+mediawatch@abc.net.au, news@smh.com.au, investigations@smh.com.au, news@theage.com.au, newsdesk@afr.com, australia@theguardian.com, investigations.contact@theguardian.com, contact@9news.com.au, 7ndtips@seven.com.au, tips@dailytelegraph.com.au, weekendtele@news.com.au
+
+STATE-DESK (6)
+nsw@theaustralian.com.au, act@theaustralian.com.au, victoria@theaustralian.com.au, queensland@theaustralian.com.au, wa@theaustralian.com.au, online@theaustralian.com.au
+
+REGIONAL-NSW (4)
+news@newcastleherald.com.au, news@illawarramercury.com.au, kathy.sharpe@austcommunitymedia.com.au, media.release@canberratimes.com.au
+
+INDEPENDENT (8)
+enquiries@themonthly.com.au, nfrankland@thenewdaily.com.au, colley@thenewdaily.com.au, kdonaghey@thenewdaily.com.au, officemanager@thenewdaily.com.au, editor@theshot.net.au, editor@johnmenadue.com, hello@junkeemedia.com
+
+SECTOR (4)
+info@croakey.org, media@themandarin.com.au, fneale@themandarin.com.au, admin@probonoaustralia.com.au
+
+JOURNALIST-DISABILITY (4)
+eleanorbabctips@proton.me, kinsella.elise@abc.net.au, elisekinsella@proton.me, jpjt@protonmail.com
+
+JOURNALIST-INVESTIGATIONS (9)
+rorycallinan@protonmail.com, angelaheathcote@protonmail.com, AylaDarling@proton.me, markwillacy@protonmail.com, barbour.lucy@abc.net.au, lucybarbour@proton.me, rhiannonshine@proton.me, angedonnellan@proton.me, anthonyklan@protonmail.com
+
+ENCRYPTED-DESK (5)
+ABC730tips@protonmail.com, ABCinvestigations@protonmail.com, SMHinvestigations@protonmail.com, thesaturdaypaper@protonmail.com, DeclassifiedAus@protonmail.com
+
+LETTERS (4)
+letters@smh.com.au, letters@theaustralian.com.au, letters@themonthly.com.au, mediareleases@theshot.net.au
+
+ALL NON-ENCRYPTED NEWSROOM AND DESK ADDRESSES (33)
+mediawatch@abc.net.au, news@smh.com.au, investigations@smh.com.au, news@theage.com.au, newsdesk@afr.com, australia@theguardian.com, investigations.contact@theguardian.com, contact@9news.com.au, 7ndtips@seven.com.au, tips@dailytelegraph.com.au, weekendtele@news.com.au, nsw@theaustralian.com.au, act@theaustralian.com.au, victoria@theaustralian.com.au, queensland@theaustralian.com.au, wa@theaustralian.com.au, online@theaustralian.com.au, news@newcastleherald.com.au, news@illawarramercury.com.au, kathy.sharpe@austcommunitymedia.com.au, media.release@canberratimes.com.au, enquiries@themonthly.com.au, nfrankland@thenewdaily.com.au, colley@thenewdaily.com.au, kdonaghey@thenewdaily.com.au, officemanager@thenewdaily.com.au, editor@theshot.net.au, editor@johnmenadue.com, hello@junkeemedia.com, info@croakey.org, media@themandarin.com.au, fneale@themandarin.com.au, admin@probonoaustralia.com.au

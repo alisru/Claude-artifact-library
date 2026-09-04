@@ -1,0 +1,56 @@
+category,outlet,contact,email,notes
+national-newsroom,ABC News,Media Watch,mediawatch@abc.net.au,Media conduct only. ABC general tips are form-only.
+national-newsroom,Sydney Morning Herald,Newsroom,news@smh.com.au,
+national-newsroom,Sydney Morning Herald,Investigations desk,investigations@smh.com.au,Non-confidential route to the investigations team.
+national-newsroom,The Age,Newsroom,news@theage.com.au,
+national-newsroom,Australian Financial Review,Newsdesk,newsdesk@afr.com,
+national-newsroom,Guardian Australia,Tips and editorial,australia@theguardian.com,
+national-newsroom,Guardian UK,Investigations team,investigations.contact@theguardian.com,UK desk not Australia.
+national-newsroom,9News,Story submissions,contact@9news.com.au,Include name location and phone. Say if you want your name withheld.
+national-newsroom,7NEWS,Tips,7ndtips@seven.com.au,
+national-newsroom,The Daily Telegraph,Tips,tips@dailytelegraph.com.au,
+national-newsroom,The Daily Telegraph,Weekend desk,weekendtele@news.com.au,
+state-desk,The Australian,NSW bureau,nsw@theaustralian.com.au,Best desk for a regional NSW story.
+state-desk,The Australian,Canberra press gallery,act@theaustralian.com.au,
+state-desk,The Australian,Victoria bureau,victoria@theaustralian.com.au,
+state-desk,The Australian,Queensland bureau,queensland@theaustralian.com.au,
+state-desk,The Australian,WA bureau,wa@theaustralian.com.au,
+state-desk,The Australian,Online editor,online@theaustralian.com.au,Listed for errors but is an editorial address.
+regional-nsw,Newcastle Herald,Newsdesk,news@newcastleherald.com.au,
+regional-nsw,Illawarra Mercury,Newsdesk,news@illawarramercury.com.au,
+regional-nsw,Illawarra Mercury,Editor Kathy Sharp,kathy.sharpe@austcommunitymedia.com.au,
+regional-nsw,The Canberra Times,Story tips,media.release@canberratimes.com.au,
+independent,The Monthly,Editorial enquiries,enquiries@themonthly.com.au,
+independent,The New Daily,Editor Neil Frankland,nfrankland@thenewdaily.com.au,Also the story submission address.
+independent,The New Daily,Deputy editor Carley Olley,colley@thenewdaily.com.au,
+independent,The New Daily,Weekend AM editor Kat Donaghey,kdonaghey@thenewdaily.com.au,
+independent,The New Daily,General,officemanager@thenewdaily.com.au,
+independent,The Shot,Editor Dave Milner,editor@theshot.net.au,
+independent,Pearls and Irritations,Editor,editor@johnmenadue.com,Frame as an editorial submission.
+independent,Junkee,Pitches and general,hello@junkeemedia.com,
+sector,Croakey Health Media,General,info@croakey.org,Health and social determinants.
+sector,The Mandarin,Editorial and pitches,media@themandarin.com.au,Public sector and agency conduct.
+sector,The Mandarin,Felicity Neale,fneale@themandarin.com.au,
+sector,Pro Bono Australia,General,admin@probonoaustralia.com.au,
+journalist-disability,ABC News,Eleanor Beidatsch,eleanorbabctips@proton.me,Encrypted. Disability affairs.
+journalist-disability,ABC News,Elise Kinsella,kinsella.elise@abc.net.au,Investigative. Bylined on NDIS appeals and provider fraud.
+journalist-disability,ABC News,Elise Kinsella,elisekinsella@proton.me,Encrypted alternative for the above.
+journalist-disability,ABC News,Jesse Thompson,jpjt@protonmail.com,Encrypted. Mental health housing.
+journalist-investigations,ABC News,Rory Callinan,rorycallinan@protonmail.com,Encrypted.
+journalist-investigations,ABC News,Angela Heathcote,angelaheathcote@protonmail.com,Encrypted.
+journalist-investigations,ABC News,Ayla Darling,AylaDarling@proton.me,Encrypted.
+journalist-investigations,ABC News,Mark Willacy,markwillacy@protonmail.com,Encrypted. Sourced from a 2023 story so may be retired.
+journalist-investigations,ABC News,Lucy Barbour,barbour.lucy@abc.net.au,
+journalist-investigations,ABC News,Lucy Barbour,lucybarbour@proton.me,Encrypted alternative for the above.
+journalist-investigations,ABC News,Rhiannon Shine,rhiannonshine@proton.me,Encrypted. WA.
+journalist-investigations,ABC 7.30,Angelique Donnellan,angedonnellan@proton.me,Encrypted. South Australia.
+journalist-investigations,The Klaxon,Editor Anthony Klan,anthonyklan@protonmail.com,Encrypted.
+encrypted-desk,ABC 7.30,Program tips,ABC730tips@protonmail.com,Encrypted.
+encrypted-desk,ABC News,Investigations,ABCinvestigations@protonmail.com,Encrypted. From a 2019 story so reveal the current one on the ABC tips page first.
+encrypted-desk,Sydney Morning Herald,Investigations,SMHinvestigations@protonmail.com,Encrypted.
+encrypted-desk,The Saturday Paper,Secure tips,thesaturdaypaper@protonmail.com,Encrypted.
+encrypted-desk,Declassified Australia,Secure tips,DeclassifiedAus@protonmail.com,Encrypted. They ask you to set up over Tor.
+letters,Sydney Morning Herald,Letters,letters@smh.com.au,
+letters,The Australian,Letters,letters@theaustralian.com.au,
+letters,The Monthly,Letters,letters@themonthly.com.au,
+letters,The Shot,Media releases,mediareleases@theshot.net.au,

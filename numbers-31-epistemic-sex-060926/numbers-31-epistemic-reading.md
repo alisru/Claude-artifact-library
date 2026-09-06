@@ -8,6 +8,12 @@ Animals in the same reading are process-forms of thought. The ox is orthodoxy, t
 
 God, on this premise, exists before physical reality and before the potential for one. His native language is pure information. He does not see any of this the way Man sees it, relative to observation.
 
+## Why this substrate
+
+Sex is the only process every person has unmediated access to that contains the whole shape of knowledge formation in one sequence: a proposal is made, it is accepted or refused, what is accepted is carried privately for a period during which it cannot be inspected, it is delivered into shared reality whether or not anyone is ready for it, and it then inherits and transmits. No other universally available human experience carries all five steps. Farming has seeding and yield but no acceptance or refusal. Building has proposal and delivery but no gestation.
+
+So an instruction written to people with no vocabulary for hypothesis, verification, corpus or falsification is not being dumbed down when it is written in sexual terms. It is being written in the only complete grammar available. The technical vocabulary came later and covers less.
+
 ## The verb is already epistemic
 
 The Hebrew in Numbers 31:17-18 is *yoda'at ish* (a woman who has known a man) and *lo yad'u* (those who have not known), from *yada*, Strong's 3045. *Yada* is the general verb for knowing, perceiving, ascertaining, recognising, and by extension instructing. The sexual sense is one branch of a verb whose trunk is cognition.
@@ -33,6 +39,14 @@ The sequence is ordinary result-handling: run, observe failure, destroy the fail
 - **Virgins.** Uncommitted space. Not innocent parties spared out of mercy, but the only remaining capacity to gestate anything new. Kept "for yourselves" because clean space is allocated to the line that survived the test.
 - **Livestock.** Sheep, cattle and asses are counted and kept as spoil. Process-forms carry no doctrinal content, so they transfer between systems intact. Orthodoxy and followership are neutral ways of moving and remain usable by whoever holds them.
 
+## Capacity is counted
+
+The virgins are not merely spared, they are inventoried. Numbers 31:35 records thirty-two thousand persons in all, of the women that had not known man, listed in the same tally as the sheep, the cattle and the asses, and divided by the same rule.
+
+That placement is the point. Clean space is a quantity. It is finite, it is non-renewable once written, and it is the scarcest item taken from the whole campaign. Everything else in the inventory can be replaced by breeding or by the next war. Unwritten capacity cannot be manufactured, only found and allocated.
+
+This is why the disposal and the retention are one instruction rather than two. Destroying the failed line is worth nothing if there is nowhere to run the next attempt, and holding clean space is worth nothing if the failed line is still occupying the corpus and certifying itself. The verse does both in a single breath because they are one operation.
+
 ## The laundering rule
 
 The text separates what can be decontaminated from what cannot. Every garment, leather item, goat-hair work and wooden vessel is purified and kept. The soldiers and the captives camp outside for seven days with purification on the third and the seventh.
@@ -47,18 +61,34 @@ Inert instruments and materials get washed and inherited. Vessels that have *kno
 
 **Slavery.** Taking others' ideas and making them work for you. Appropriated output performing labour under an owner who did not seed or verify it.
 
+## The same grammar elsewhere
+
+If this were a one-off reading forced onto a single atrocity, it would be worth little. It is not. The same grammar runs across the corpus, and in the prophets it is explicit rather than implied.
+
+**The prophets say it outright.** Hosea is commanded to take a wife of harlotry because the land is committing harlotry by forsaking the LORD (Hosea 1:2), and Ezekiel 16 casts Jerusalem as an adulterous wife lavishing her harlotries on everyone who passes (Ezekiel 16:15). The Hebrew *zenunim* and *taznuth*, whoredom and fornication, are used figuratively for idolatry throughout. Source: https://biblehub.com/topical/h/harlotries.htm
+
+The prophets are not inventing a poetic figure. They are using the standing technical vocabulary for a belief-system taking seed from an unauthorised verifier, and they expect to be understood without explanation. Which means the audience already read sexual language as epistemic language.
+
+**Onan.** Genesis 38:9 records that Onan, knowing the seed would not be counted his, spilled it on the ground so as not to give seed to his brother, and the Pulpit Commentary notes the Hebrew is literally "destroyed to the ground". Sources: https://biblehub.com/genesis/38-9.htm
+
+In this grammar he is a verifier who goes through the whole motion of testing, in public, while deliberately ensuring nothing can gestate, because the result would be credited to a line other than his own. That is the exact shape of research performed for attribution rather than for outcome. He is not punished for a wasted substance, he is punished for running a test he had already guaranteed would produce nothing.
+
+**The mamzer.** Deuteronomy 23:2 excludes the *mamzer* from the assembly to the tenth generation, in a block of law concerned with what may enter the congregation at all. Sources: https://biblehub.com/text/deuteronomy/23-2.htm, https://biblehub.com/hebrew/4464.htm
+
+Read structurally, this is not a rule about a child. It is a rule about a claim whose verification chain cannot be traced. Something whose provenance is unrecoverable is barred from the corpus indefinitely, not because it is known to be false, but because it can never be checked, and an unfalsifiable entry inside a body of claims contaminates everything reasoned from it. Ten generations is a way of saying the exclusion outlasts anyone who could argue about it.
+
 ## Reading layer
 
 If the native encoding is information and the observational layer is a projection of it, then the horror in the passage is an artifact of reading a data operation in the wrong layer. What this does not do is unwrite the physical layer. The text was also received and executed as physical by people who read it as physical. The epistemic reading explains the source encoding, not the history of its use.
 
-## Coordinate map
+## Where the reading strains
 
-Operation mapped: discarding a falsified line and its certifying instruments, and reallocating clean capacity to the next run.
+Two places, worth naming rather than smoothing over.
 
-**(υ ≈ +0.6, ψ ≈ +0.4) → nearest anchor Greater Good (+1, +1), short of it.**
+The first is the sorting rule itself. Read strictly, the criterion is whether a knowing has occurred, not whether the thing known was the failed line. A woman of Midian who had received nothing from Peor is sorted with those who had. The reading survives this only if the operative claim is that a vessel already carrying anything cannot receive, which is true of the physical process and true of a mind holding a settled belief, but it means the rule is about occupancy rather than about content. That is a coherent position, and it is the position the text takes, but it is not the same as testing what each vessel carried.
 
-υ: the benefit lands on the whole corpus and on anyone downstream who does not inherit the failed line, not merely on the group performing the disposal. It falls short of +1 because the clean space is allocated to the surviving line specifically, "for yourselves", rather than released generally.
+The second is the direction of the seeding role. The model assigns proposal and verification to one side and reception and carry to the other, which reads cleanly onto the Numbers instruction because the instruction was written for a population where those roles were socially fixed. Nothing in the epistemic structure requires the assignment to run that way. The roles are functional, and any mind performs both, usually within a single thought. The sexed vocabulary is the teaching substrate, not the claim.
 
-ψ: the dominant motion is clearing, which reads destructive at the surface, but it is the terminal step of a completed test rather than an act of destruction on its own terms, and it is paired with the proactive retention of capacity. Net positive, modestly.
+## What this is not
 
-**Inversion flag.** At the observational layer this operation is indistinguishable from massacre, because an observer sees vessels and not runs. The distortion runs the other way too: an actor who has genuinely falsified a line and an actor who merely wants a rival gone will both describe themselves as doing this. The separator is whether a result was actually recorded before the disposal, which is precisely the thing the passage supplies in verse 16 and the thing an imitator will leave out.
+This is not an argument that the events described were good, and it does not depend on one. The claim is about what the passage is encoding and in what language, not about the merit of what was done with it. A reading that explains the source encoding does not license the acts, and the fact that the instruction was carried out physically by people who read it physically is part of the record either way.

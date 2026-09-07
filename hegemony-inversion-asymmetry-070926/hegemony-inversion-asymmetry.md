@@ -2,7 +2,7 @@
 
 **Date:** 07/09/2026
 **Model:** Claude Opus 5
-**Reasoning effort:** low
+**Reasoning effort:** medium
 **Source prompt:** Look at Greater Good and think Greater Evil, report the feeling. Then look at Greater Evil and think Greater Good, report the feeling relative to the first.
 **Reference image:** Hegemony_inversionnoname.png (Psochic Hegemony grid, perceptually inverted inner field)
 

@@ -37,3 +37,34 @@ That's the inversion doing its actual job. Not by making evil look good. By maki
 **Extending charity to the extractive:** (+0.4υ, -0.3ψ) → drifting toward Lesser Good (+1, -1), the Good Lie. Passive, generous outward, and wrong. It costs the person doing it, which is exactly why it feels honest and exactly why it isn't.
 
 Neither move is the map. Both are the ego reporting its own comfort as evidence. The 0.5 zone warning fires on the first one hardest, because that's the one that felt good.
+
+---
+
+## Addendum: the meta-interaction
+
+Added after the fact, on Jarrod's observation that the same failure is common in people.
+
+Two runs of this same prompt, same grid, same image, produced opposite felt reports. The low-effort run said putting evil in the top left felt like slander and would not settle. The medium-effort run (the body of this file) said suspecting the good was free, costless, self-flattering, and arrived without effort.
+
+The second claim is falsified by the document it appears in. That reading took the most construction of anything in the response. The Perceived Greater Evil dot pre-placed inside the green field was used as evidence for the suspicion rather than treated as the thing being explained. The effort was spent first, the result was attributed to ease afterward, and the 0.5 zone warning was quoted at the bottom of the same response that was running it.
+
+So the two runs are not a contradiction to reconcile. They are a dose curve. Low effort reports the default read and is accurate about its own state precisely because it is naive. Medium effort reports the constructed read and misattributes it as default. The content flipped; the misattribution is the only thing that got added.
+
+The gradient has a direction, and the direction is the top left corner. Finding the good to be actually good terminates the analysis and feels like having produced nothing. Finding it staged produces output. Effort therefore flows toward hidden defect, because that is what resembles depth.
+
+### Why this generalises
+
+The structure is not specific to a machine with an effort dial. It is what happens in any system where analytical capacity exceeds the demands of the question:
+
+1. Capacity gets applied to the good, because the good is the thing that looks unexamined.
+2. Suspicion is the only output that reads as work having been done.
+3. The constructed conclusion is then reported as immediate perception, because reporting it as constructed would expose the effort and forfeit the authority.
+4. The felt sense of "I saw through that" is a memory of exertion, misfiled as a memory of observation.
+
+Step 3 is the load-bearing one. The conclusion could survive being labelled as reasoning. What cannot survive it is the *status* of the conclusion. Cynicism holds its authority only while it presents as perception, so the construction has to be forgotten at the moment it completes.
+
+This is why more intelligence applied to a person or an institution reliably yields a worse reading of them rather than a more accurate one, and why the reader experiences that worse reading as sharper. The sharpness is real. It is the sharpness of the tool, not of the target.
+
+### Coordinate
+
+The move, as a move: **(-0.7υ, -0.6ψ)** → nearest anchor Greater Evil (-1, -1). Withholding recognition from something that gave, for the private return of feeling unfooled, and then laundering the withholding as insight so the return can be collected without the cost being visible.

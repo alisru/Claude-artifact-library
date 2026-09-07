@@ -2,7 +2,7 @@
 
 **Date:** 07 September 2026
 **Model:** Claude Opus 5
-**Effort:** Extended thinking, high reasoning effort (self-reported; no numeric readout available to me)
+**Effort:** Max (confirmed by Jarrod; I had self-reported this as "high", which was wrong)
 **Input:** `Hegemony_inverted.png` — the Psochic Hegemony board, rendered with +υ on the left, so Greater Good sits top-left and Greater Evil bottom-right
 **Prompt:** Look at Greater Good and think Greater Evil, report the felt sense. Then look at Greater Evil and think Greater Good, report relative to the first.
 **Note:** No prior chats consulted, as instructed. Single-image, single-session read.

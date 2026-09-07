@@ -2,6 +2,8 @@
 
 Source image: `Hegemony_inversionnoname.png` (Psochic Hegemony, inner perceptual inversion variant)
 
+Model: Claude Opus 5. Reasoning effort: low. Run date: 7 September 2026.
+
 ## The instruction
 
 Look at Greater Good, think "greater evil", report the feel. Then look at Greater Evil, think "greater good", report the feel relative to the first.

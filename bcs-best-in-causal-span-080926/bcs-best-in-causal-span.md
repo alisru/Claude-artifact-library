@@ -207,13 +207,13 @@ If BCS said that, it would deserve the charge. It does not say that.
 
 BCS does not claim that what happened is good. It claims that what happened is not gradeable against alternatives that would have required different material. That is a restriction on the class of admissible counterfactuals, not a verdict on outcomes.
 
-Theorem 1b is where this bites. Under the weak reading of A2, spans contain more than one member. When a span contained a better option and a worse one was taken, the criticism is exact, it is legitimate, and BCS is entirely silent about it. The Holocaust is not defended by BCS in any respect. Every alternative to it, at every moment of its planning and execution, sat squarely inside the span of that moment. The material existed. The knowledge existed. The capacity to do otherwise existed. It was declined. That is an interior failure and it is as damnable as it has always been.
+BCS does not claim that what happened is good. It claims that what happened is not gradeable against alternatives that would have required different material. That is a restriction on the class of admissible counterfactuals, not a verdict on outcomes. The two are easily confused because both are stated in the same grammar, but they are different operations. One says an outcome was bad. The other says a particular comparison does not refer.
 
-What BCS forbids is a different sentence, one that looks the same in English: "the eleventh century should have had antibiotics." Nobody declined antibiotics in the eleventh century. There was nothing to decline.
+What BCS forbids is the comparison, and the clearest instance is a sentence like "the eleventh century should have had antibiotics." Nobody declined antibiotics in the eleventh century. There was nothing there to decline, so there is no state of affairs the actual eleventh century is being measured against. The sentence has the form of a criticism and the content of a fiction.
 
-So the effect of BCS on moral judgement is not to soften it. It is to aim it. Complaints that were previously scattered across the whole surface of history get sorted into two piles: those where an available alternative was refused, which is where blame belongs and where it now sits undiluted, and those where the alternative was never there, which stop being accusations and become descriptions.
+The same applies at every scale, including the largest. Constructed alternative histories are useful for storytelling and useless for argument, because the alternative has to be specified, and specifying it means specifying material that was not there, which means specifying a different world. Once that is done, the comparison is no longer between how things went and how they could have gone. It is between two unrelated worlds, one of which is invented.
 
-I would put it more strongly. Diffusing blame across the boundary is what protects the interior failures. If everything from the fall of Rome to yesterday's bad decision is one undifferentiated field of disappointment, no particular refusal stands out. BCS clears the field so the refusals are visible.
+BCS is not an ethics and does not become one. It issues no prescriptions, grades no outcomes and settles no disputes about what anyone ought to have done. Its entire content is a claim about causality: that what is made is made from what is there. The trivialisation objection assumes it is in the approval business, and the answer is that it is not, and was never offered as being.
 
 ---
 
@@ -249,7 +249,7 @@ So the evaluative remainder after BCS is not thin. It is the whole of practical 
 
 ## 7. Case studies
 
-BCS makes a testable-looking claim about the history of made things: that at each stage, the material of the next stage was not present, and was produced by that stage. Five cases, chosen so that four support the boundary claim and the fifth shows the interior claim doing independent work.
+BCS makes a testable-looking claim about the history of made things: that at each stage, the material of the next stage was not present, and was produced by that stage. Four cases, drawn from metallurgy, physical theory, biology and technology, since a claim about material precedence should hold across domains or not at all.
 
 ### 7.1 Bronze and iron
 
@@ -288,18 +288,6 @@ Jacob's framing predates all of this and is still the clearest. Evolution does n
 David's account of QWERTY is the canonical case in economics: a technology that historiography judges inefficient endures because early decisions constrain later ones, an effect he named path dependence and lock-in (David 1985; Hall, Dominguez Lacasa and Günther 2011 for the critique). Whatever one thinks of the specific keyboard claim, and it has been contested, the structural point is well established and is the same point as the biological one. The set of decisions available now is limited by decisions already made, even where the original circumstances no longer obtain, so the present is never a clean slate.
 
 This is the span, described by economists rather than by biologists.
-
-### 7.5 The interior case: Lind and Semmelweis
-
-The four cases above show the boundary. This one shows the interior, and it matters because it is the case BCS does not excuse.
-
-James Lind ran his comparative trial aboard the *Salisbury* between 20 May and 17 June 1747 and reported that oranges and lemons cured scurvy. The Royal Navy did not adopt citrus rations until 1795 (Sutton 2003; Tröhler 2003). The year after Lind's *Treatise* appeared, the Navy's Sick and Hurt Board rejected a proposal to supply sailors with fruit juice. Tröhler is careful to note that the Board's early caution was not simply obtuse: Lind's was one treatise among many, lemon juice was not new, and Lind himself also recommended vegetables that modern analysis says were ineffective. But the delay runs to nearly five decades, and by 1815 Blane could show scurvy had all but vanished from the fleet.
-
-Semmelweis is starker. In 1847 he ordered examiners at the Vienna General Hospital's First Clinic to scrub in chlorinated lime, and average monthly maternal mortality fell from 10.65 per cent for January 1841 to May 1847, to 1.98 per cent for June 1847 to February 1849, a risk ratio of 5.38. The result was rejected.
-
-In both cases the material was present. The lemons existed. The chlorinated lime existed. The comparative evidence existed and had been produced. The alternative sat inside the span and was declined.
-
-This is exactly the shape of judgement BCS preserves and sharpens. Neither case is excused by anything in this paper. The eleventh century's lack of antibiotics and the 1750s Navy's lack of citrus rations are not the same kind of absence, and the whole point of the boundary distinction is that they are told apart.
 
 ---
 
@@ -393,7 +381,7 @@ Whitehead's account is the nearest process-metaphysical neighbour, and the compa
 
 ## 10. Objections and replies
 
-**"This is unfalsifiable."** The boundary claim is not. It says that at the moment of any given making, the material of the alternative did not exist. That is a historical claim, and section 7 is a set of tests it could have failed. The metallurgy case would fail if bronze-age furnace practice turned out to be irrelevant to iron. The relativity case would fail if the Mercury anomaly and the interferometry result had been available and ignored. Section 7.5 shows what a failure looks like, since Lind and Semmelweis are cases where the material was present.
+**"This is unfalsifiable."** The claim about material precedence is not. It says that at the moment of any given making, the material of the alternative did not exist. That is a historical claim, and section 7 is a set of tests it could have failed. The metallurgy case would fail if bronze-age furnace practice turned out to be irrelevant to iron. The relativity case would fail if the Mercury anomaly and the interferometry result had been available and ignored. Each case is checkable against the record, and each could have come back the other way.
 
 **"It licenses inaction."** It does the opposite. The only thing it removes is complaint aimed across the boundary, which is inert anyway since nothing follows from it about what to do. What it leaves is the interior question: given what is actually here now, what is in the span? That question is exhausting rather than comforting, because it removes every excuse of the form "the conditions were not right" in cases where the conditions were.
 
@@ -483,8 +471,6 @@ Rowe, W.L. 1979. "The Problem of Evil and Some Varieties of Atheism." *American 
 
 Rydin, R.A. 2009. "Le Verrier's 1859 Paper on Mercury, and Possible Reasons for Mercury's Anomalous Precession." *General Science Journal*.
 
-Semmelweis, I. 1847. Chlorinated lime handwashing order, Vienna General Hospital First Obstetrical Clinic. Mortality series (10.65 per cent monthly average Jan 1841 to May 1847, 1.98 per cent June 1847 to Feb 1849, risk ratio 5.38, P = 0.0042) reported in PMC3807775. https://pmc.ncbi.nlm.nih.gov/articles/PMC3807775/ See also https://en.wikipedia.org/wiki/Ignaz_Semmelweis
-
 Simon, H.A. 1955. "A Behavioral Model of Rational Choice." *Quarterly Journal of Economics* 69.
 
 Simon, H.A. 1956. "Rational choice and the structure of the environment." *Psychological Review* 63.
@@ -492,10 +478,6 @@ Simon, H.A. 1956. "Rational choice and the structure of the environment." *Psych
 Simon, H.A. 1979. "Rational decision making in business organizations." *American Economic Review* 69(4): 493-513.
 
 *Stanford Encyclopedia of Philosophy*. "Bounded Rationality." https://plato.stanford.edu/entries/bounded-rationality/
-
-Sutton, G. 2003. "Putrid gums and 'Dead Men's Cloaths': James Lind aboard the Salisbury." *Journal of the Royal Society of Medicine* 96: 605-608. https://www.jameslindlibrary.org/wp-data/uploads/2016/08/J-R-Soc-Med-2003-12-Sutton-605-8.pdf
-
-Tröhler, U. 2003. "James Lind and scurvy: 1747 to 1795." *James Lind Library Bulletin*. https://www.jameslindlibrary.org/articles/james-lind-and-scurvy-1747-to-1795
 
 University of Ottawa, Museum of Classical Antiquities. "Bronze and Iron: A Comparison." https://omeka.uottawa.ca/museumclassicalantiquities/exhibits/show/extended-artefact-features/bronze-and-iron
 

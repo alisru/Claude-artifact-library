@@ -13,7 +13,11 @@ I set out and defend a thesis I call BCS, best in causal span. The thesis is tha
 
 The thesis has one central structural consequence. It is a claim about the boundary of what can be produced at a moment, not a claim about which point inside that boundary was reached. This single distinction does two things at once. It dissolves an entire family of complaints about the world, including the standard problem of evil, by showing them to be boundary complaints disguised as interior complaints. And it leaves moral evaluation completely intact, because moral evaluation lives entirely inside the boundary, where genuine alternatives exist and are declined.
 
-I state BCS formally, prove four results from three axioms, distinguish it from four neighbouring positions it is likely to be confused with (Leibnizian optimism, Kauffman's adjacent possible, Simon's satisficing, and Panglossian adaptationism), test it against five case studies in metallurgy, physics, biology, technology and medicine, and then apply it to the problem of evil, to Rowe's fawn, to van Inwagen's no-minimum result, and to the omnipotence objection. I close by stating the price of the thesis honestly, which is a God who does not intervene selectively, and by showing what evaluative work remains once BCS has done its work.
+A second consequence follows once the account is extended to cover information as well as material. The information state at any moment is itself a made thing, produced by the moment before it, so no agent can act on a state better than the one its history has produced. Every act is therefore performed on a partial state, which makes suffering, understood as acting with a lack of understanding, a property of sequencing rather than an occasional intrusion into it. That result supplies a production mechanism the bare definition lacks, and it applies symmetrically to all parties, including those aiming at what they take to be good.
+
+BCS is a backward-looking operator throughout. Run forward it would be fatalism; run backward on a fully specified frame it is a completeness claim, which is why it cannot function as an excuse.
+
+I state BCS formally, prove five results from four axioms, distinguish it from four neighbouring positions it is likely to be confused with (Leibnizian optimism, Kauffman's adjacent possible, Simon's satisficing, and Panglossian adaptationism), test it against five case studies in metallurgy, physics, biology, technology and medicine, and then apply it to the problem of evil, to Rowe's fawn, to van Inwagen's no-minimum result, and to the omnipotence objection. I close by stating the price of the thesis honestly, which is a God who does not intervene selectively, and by showing what evaluative work remains once BCS has done its work.
 
 ---
 
@@ -64,6 +68,10 @@ I will state the thesis with enough precision to be attacked properly, because a
 **A2, Causal Sufficiency.** Every event is fully accounted for by what preceded it. There is no residue in an effect that is not traceable to its causes.
 
 **A3, Finitude.** Every made thing occupies, consumes, or excludes some portion of what exists. Nothing finite can come to be without something else being unable to be, in that place, of that material, at that time.
+
+**A4, Epistemic Closure.** The information held at a moment is itself a made thing, and is therefore subject to A1. Knowledge is produced from what was already present, by operations that were themselves produced. No agent can step outside its information state at the moment of acting in order to act on a better one, because acquiring information is an act, made from what is there.
+
+A4 closes a gap that A1 alone leaves open. Without it, an objector can grant that the material was constrained and then say the maker simply needed to know better, treating knowledge as a free variable that could have been set higher at no causal cost. It could not. The information state at t is the output of the span at t minus one, exactly as the material is.
 
 A1 and A3 are widely accepted and I will not labour them. A2 is contested, and I will treat it carefully, because the strength of my results turns on which reading of it I need. I will show in section 3.4 that the central result survives the weak reading, which is the reading a libertarian about free will can accept.
 
@@ -116,6 +124,34 @@ Everything BCS dissolves, it dissolves by showing the complaint to be a boundary
 *What suspending A1 costs.* If effects need not follow from their material, then no state is made of any prior state. If no state is made of any prior state, there is no sequence in which one thing leads to another. Growth, choice, consequence and time as succession all require that later states be constituted out of earlier ones. Remove A1 and what remains is not a kinder world running on the same rules. It is a still image. Movement and exposure are the same thing described from two sides.
 
 So the choice presented by the boundary complaint is not between this world and this world improved. It is between a world that runs on causality and a world that runs on fiat. Those are different worlds, not versions of one.
+
+### 3.7 Theorem 4: Suffering as a property of sequencing
+
+I define suffering as acting with a lack of understanding. It sits in the act, not in a sensation, which means it is never located in whoever it lands on. Pain lands. Suffering is done. I have argued for that definition elsewhere and here I take it as given, because what follows is a consequence of it rather than a defence of it.
+
+*Claim.* Under A4, suffering is not an occasional event within the sequence. It is a property of sequencing itself.
+
+*Proof.* By A4, the information state at any t is the output of the span at t minus one, and is therefore finite and partial: it contains what has been produced and nothing else. No agent at t possesses the information that later spans will produce, since that information does not yet exist to be possessed. Every act issuing from t is therefore an act performed on an incomplete information state. By the definition above, an act performed with a lack of understanding is suffering. Therefore every act at every frame is done with some lack of understanding, and suffering is produced continuously rather than intermittently. ∎
+
+Three things follow, and they matter more than the proof.
+
+**It supplies a mechanism the account otherwise lacks.** The definition says what suffering is. This says why it is produced at every frame rather than at some frames, and the answer is not malice, scarcity or misfortune. It is that acting from a partial state is the only kind of acting available inside time.
+
+**It relocates the question.** If suffering were an occasional intrusion, the right question would be why it intrudes, which is the question the problem of evil asks. If it is a property of sequencing, that question has no purchase, and the live question becomes how much of it a given act does relative to what the frame permitted, which is an interior question of exactly the kind section 6 handles.
+
+**It is symmetrical across actors.** Two parties can each be aiming at what they take to be good, each acting on the best state available to them, and harm is produced anyway, by both, with no override anywhere in the chain. This is the ordinary case rather than the tragic exception. Where it looks like one party is aiming at good and the other at bad, that reading is usually itself an artefact of a partial information state, held by whoever is doing the reading.
+
+### 3.8 The direction of application
+
+BCS is a backward-looking operator, and applying it forward inverts its character. The distinction is worth stating explicitly because the same sentence does opposite work in the two directions.
+
+**Applied retrospectively**, to a frame that is now completely specified, BCS says that what issued from that frame was the exact output of it, that no other outcome was available from that exact material, operations and information state, and that the event was therefore necessary in the only sense of necessity that causality supports. This is a completeness claim about the frame. It is not a verdict on the outcome and it is not an excuse for anyone.
+
+**Applied prospectively**, to a frame not yet specified, the same words become fatalism, and fatalism is false here for a structural reason rather than a moral one. From inside a moment, the frame is not fully specified, because part of what specifies it is what the agent is about to do. An agent reasoning "whatever I do will have been the exact output" is not reading the frame, it is declining to be one of the things that constitutes it.
+
+This is why BCS cannot function as an excuse, and the reason is formal rather than rhetorical. An excuse is prospective. It is offered by an agent about a choice they are making or are about to make. A completeness claim about a fully specified frame is not available to an agent standing inside an unspecified one. By the time the claim is true, the acting is over and there is nothing left to excuse.
+
+It is also why the interior evaluation of section 6 survives intact. Interior evaluation is done retrospectively, on the same completely specified frame, and asks a different question of it: given everything that was in that frame, where in the span did the output land. Both questions are asked backward. They are not in competition.
 
 ---
 
@@ -276,6 +312,8 @@ The standard complaint is not about suffering as such but about suffering held t
 "Necessary" means caused by what came before it. Inside a world that runs that way, "unnecessary suffering" is not a subclass of suffering; it is a description of suffering whose scope, magnitude, method, cause or effect someone objects to. The word "unnecessary" only carries weight if a second world is quietly introduced, one where the suffering could be removed without changing anything else.
 
 Under Theorem 3, that introduction is the boundary complaint. It requires that a state be produced without its material, which is a suspension of A1, which removes succession, which removes the world being complained about.
+
+Theorem 4 makes the same point from the other direction, and the two together close the position. The complaint treats suffering as an intrusion into an otherwise unsuffering sequence, so that the right question is why it was let in. If suffering is instead what acting from a partial state amounts to, and if by A4 no state is ever complete, then there is no unsuffering sequence for it to have intruded upon. The question "why is there any" has the same standing as asking why a sequence has succession in it.
 
 ### 8.2 Rowe's fawn
 

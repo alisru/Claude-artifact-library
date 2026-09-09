@@ -141,17 +141,29 @@ Three things follow, and they matter more than the proof.
 
 **It is symmetrical across actors.** Two parties can each be aiming at what they take to be good, each acting on the best state available to them, and harm is produced anyway, by both, with no override anywhere in the chain. This is the ordinary case rather than the tragic exception. Where it looks like one party is aiming at good and the other at bad, that reading is usually itself an artefact of a partial information state, held by whoever is doing the reading.
 
-### 3.8 The direction of application
+### 3.8 Completion, and why the operator runs backward
 
-BCS is a backward-looking operator, and applying it forward inverts its character. The distinction is worth stating explicitly because the same sentence does opposite work in the two directions.
+BCS evaluates completed frames only, and this is the mechanism from which its backward-looking character follows rather than a separate stipulation about direction.
 
-**Applied retrospectively**, to a frame that is now completely specified, BCS says that what issued from that frame was the exact output of it, that no other outcome was available from that exact material, operations and information state, and that the event was therefore necessary in the only sense of necessity that causality supports. This is a completeness claim about the frame. It is not a verdict on the outcome and it is not an excuse for anyone.
+A frame is completed when every one of its components has been filled: what the thing is, where the material stood, why the act was available, how it could be performed, what chain produced the state, and what followed. Until the last of those is filled the frame is still filling, and a frame still filling is not an object BCS can be applied to, because the claim it makes is about the exactness of an output relative to its inputs, and the output is not yet an output.
 
-**Applied prospectively**, to a frame not yet specified, the same words become fatalism, and fatalism is false here for a structural reason rather than a moral one. From inside a moment, the frame is not fully specified, because part of what specifies it is what the agent is about to do. An agent reasoning "whatever I do will have been the exact output" is not reading the frame, it is declining to be one of the things that constitutes it.
+Three positions follow, and only one of them is a position of action.
 
-This is why BCS cannot function as an excuse, and the reason is formal rather than rhetorical. An excuse is prospective. It is offered by an agent about a choice they are making or are about to make. A completeness claim about a fully specified frame is not available to an agent standing inside an unspecified one. By the time the claim is true, the acting is over and there is nothing left to excuse.
+**A completed frame** admits the claim in full. What issued from it was the exact output of it, no other outcome was available from that exact material, those operations and that information state, and the event was necessary in the only sense of necessity that causality supports. This is a completeness claim about the frame. It is not a verdict on the outcome.
 
-It is also why the interior evaluation of section 6 survives intact. Interior evaluation is done retrospectively, on the same completely specified frame, and asks a different question of it: given everything that was in that frame, where in the span did the output land. Both questions are asked backward. They are not in competition.
+**A filling frame** is where acting happens, and it is the only such position. It admits no BCS claim at all, since the tuple is open and part of what will close it is what the actor is about to do. An agent reasoning "whatever I do will have been the exact output" has mistaken an open frame for a closed one, which is not reading the frame but declining to be one of the things that completes it. That mistake is what fatalism consists of here, and it is a category error rather than a moral failing.
+
+**A frame not yet begun** is not a frame. It is the space the current one will produce.
+
+This is why BCS cannot function as an excuse, and the reason is structural. An excuse is offered from the filling position, about an act still being performed or about to be. BCS does not reach that position. It is not that using it as an excuse is forbidden; the operation simply does not run there. By the time the claim is true, the frame has closed and there is nothing left to excuse.
+
+It is also why the evaluation of section 6 survives intact. That evaluation is performed on the same completed frame and asks a different question of it: given everything that was in that frame, where in the span did the output land. Both questions are asked of closed frames. They are not in competition.
+
+**The order of filling is not free.** A frame does not close by having its components filled in any sequence. What the thing is has to be fixed before the rest will bind, because the remaining components are all components of something, and an unindividuated something has no location, no mechanism, no reason and no consequence to fill in. Components can certainly be gathered ahead of it, but gathered out of order they do not hold: they are misattributed, rejected, or come back empty, and the frame stays open.
+
+Three cases show the three failure modes. Le Verrier filled *what* correctly for Uranus, computed *where* from it, and Galle found Neptune within one degree of the predicted position in September 1846; filling *what* incorrectly for Mercury, as a planet he named Vulcan, produced a *where* that was empty and a frame that never closed. Wegener filled *what* and *where* for continental drift in 1912 and could not fill *how*, since the driving forces he proposed were calculated to be orders of magnitude too weak, and the frame stayed open until seafloor spreading supplied the mechanism decades later. Semmelweis filled *effect* and *how* at the Vienna General Hospital in 1847 while *what* remained unstable, and the frame did not close until germ theory supplied it.
+
+None of these needs a separate category. They are one mechanism: a frame whose components were filled out of order, which therefore did not close, which therefore never passed into the completed position where BCS applies.
 
 ### 3.9 Micro-span, and the shape of a span
 
@@ -431,19 +443,29 @@ Whitehead's account is the nearest process-metaphysical neighbour, and the compa
 
 ---
 
-## 11. Conclusion
+## 11. Mistakes are possible, regret is not
 
 BCS says one thing, and the rest is consequence.
 
 What is new can only be made from what already is, and what comes out is the exact output of exactly that. So "best in causal span" is not a grade awarded after a comparison. It is the observation that the comparison has no second term.
 
-The single most useful thing the thesis does is separate two complaints that ordinary language runs together. One says an available alternative was declined. The other says an unavailable alternative should have been produced anyway. The first is the whole of moral and practical criticism, and BCS leaves it untouched and better aimed. The second is a request that effects stop following from causes, which is a request for a different world, and not a version of this one with a fix applied.
+Everything the thesis removes, it removes for that one reason. The complaint that a state should have obtained without its material has the form of a criticism and no state of affairs on the other side of it. The eleventh century and antibiotics is the small instance. The demand for a world of agents who never harm, matter that never scarcifies, or bodies that cannot fail is the same move at the largest scale, and it is much harder to see there. Constructed alternative histories are the same move in the middle range, and they are good for stories and useless as argument, because specifying the alternative means specifying material that was not there, which specifies a different world, at which point the comparison is between two unrelated things, one of them invented.
 
-The problem of evil, in nearly every form it takes, is the second complaint wearing the clothes of the first. Rowe's fawn, the demand for a minimum, the objection from omnipotence, the appeal to a kinder universe: each of them needs an alternative that was co-available with the world's actual material, and none of them supplies one.
+Turned inward on a single actor, this has a consequence sharper than anything it does at world scale.
 
-What is left over is not small. Taking is unavoidable, but taking is not one thing. What regrows in time and what does not are different, and the difference is measurable. Where a span held more than one option and the worse was taken, that is a failure, and it is now more visible rather than less, because it is no longer buried under a general disappointment with history.
+**Mistakes are entirely possible.** A mistake is a property of one completed frame, readable off that frame alone, requiring no second frame to establish. Le Verrier's Vulcan is a mistake: *what* was filled wrongly, so *where* never filled, and the frame never closed. That verdict needs no alternative history to license it. It needs only the frame and its own contents. BCS does not touch it, and nothing in this paper makes any error less of an error.
 
-The last thing worth saying is what BCS does not deliver. It does not show the world is good. It does not compensate anyone for anything. It does not supply a reason why any particular suffering had to occur, and it explicitly declines the skeptical theist's move of gesturing at goods we cannot see. It shows that one specific accusation cannot be made, and it leaves the world exactly as it found it, minus one argument.
+**Regret is not possible.** Regret is not a property but a relation. It sets a completed frame against a second completed frame that would have issued from the same conditions, and the second term is precisely what does not exist. The frame is what produced the outcome, exactly and without remainder, so any alternative requires different conditions, and different conditions are a different frame. Regret therefore has the grammar of a comparison and no second term. It does not refer.
+
+The structure makes this stricter still. Regret is an act performed from the filling position, the only position where acting occurs, and directed at a completed frame, the one position that takes no further filling. It is the single operation the account structurally forbids: work done in the only place work happens, aimed at the only place it cannot land. And by Theorem 4 it is worse than idle, since it is an act performed from a partial state, which makes it a producer of the very thing it is reacting to.
+
+What survives is correction, which uses the same material in the other position. Correction operates on the open frame and takes the closed one as input, which is nothing more than A1 restated: what was made becomes what the next thing is made from. The difference between the two is the whole of it. Regret treats a closed frame as though it were still fillable. Correction treats it as stock.
+
+None of this is absolution, and it should not be mistaken for it. Absolution is a verdict, and BCS issues none. The claim is narrower and harder: the operation does not run.
+
+What is left over after that is not small. Taking is unavoidable, but taking is not one thing, and what regrows in time and what does not are different in a way that is measurable. The information state that any act proceeds from is partial, always, which makes suffering a property of sequencing rather than an intrusion into it, and which puts the live question at how much of it an act does relative to what its frame permitted.
+
+The last thing worth saying is what BCS does not deliver. It does not show the world is good. It compensates nobody for anything. It supplies no reason why any particular suffering had to occur, and it explicitly declines the skeptical theist's move of gesturing at goods we cannot see. It shows that one specific accusation cannot be made, and it leaves the world exactly as it found it, minus one argument.
 
 ---
 

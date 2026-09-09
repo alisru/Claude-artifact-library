@@ -1,6 +1,6 @@
 # Best in Causal Span
 
-## A non-comparative account of novelty, and what it does to the problem of evil
+## A non-comparative account of novelty, and what follows for the problem of evil and for regret
 
 Jarrod Hamilton (alisru)
 08 September 2026
@@ -11,13 +11,13 @@ Jarrod Hamilton (alisru)
 
 I set out and defend a thesis I call BCS, best in causal span. The thesis is that anything new is the exact output of exactly what was present at the moment of its making, and that "best" applied to such a thing is not a comparative grade but an identity claim. Nothing falls short, because there is no co-available alternative it fell short of.
 
-The thesis has one central structural consequence. It is a claim about the boundary of what can be produced at a moment, not a claim about which point inside that boundary was reached. This single distinction does two things at once. It dissolves an entire family of complaints about the world, including the standard problem of evil, by showing them to be boundary complaints disguised as interior complaints. And it leaves moral evaluation completely intact, because moral evaluation lives entirely inside the boundary, where genuine alternatives exist and are declined.
+The thesis is not an ethics and issues no prescriptions. What it removes is a single move: the comparison of what was made against an alternative that would have required material, operations or knowledge that were not there. That comparison has the grammar of a criticism and no second term, and an entire family of complaints about the world, the standard problem of evil among them, consists of nothing else.
 
 A second consequence follows once the account is extended to cover information as well as material. The information state at any moment is itself a made thing, produced by the moment before it, so no agent can act on a state better than the one its history has produced. Every act is therefore performed on a partial state, which makes suffering, understood as acting with a lack of understanding, a property of sequencing rather than an occasional intrusion into it. That result supplies a production mechanism the bare definition lacks, and it applies symmetrically to all parties, including those aiming at what they take to be good.
 
-BCS is a backward-looking operator throughout. Run forward it would be fatalism; run backward on a fully specified frame it is a completeness claim, which is why it cannot function as an excuse.
+BCS applies only to completed frames, and its backward-looking character follows from that rather than being stipulated. A frame closes when all of its components have been filled, and the order of filling is not free: what a thing is must be fixed before its location, mechanism, reason or consequence will bind. Frames filled out of order do not close. Because the operator does not reach the position from which acting occurs, it cannot serve as an excuse, and because it does not reach an unclosed frame, mistakes remain fully possible while regret has no object.
 
-I state BCS formally, prove five results from four axioms, distinguish it from four neighbouring positions it is likely to be confused with (Leibnizian optimism, Kauffman's adjacent possible, Simon's satisficing, and Panglossian adaptationism), test it against five case studies in metallurgy, physics, biology, technology and medicine, and then apply it to the problem of evil, to Rowe's fawn, to van Inwagen's no-minimum result, and to the omnipotence objection. I close by stating the price of the thesis honestly, which is a God who does not intervene selectively, and by showing what evaluative work remains once BCS has done its work.
+I state BCS formally, prove five results from four axioms, distinguish it from four neighbouring positions it is likely to be confused with (Leibnizian optimism, Kauffman's adjacent possible, Simon's satisficing, and Panglossian adaptationism), test it against four case studies in metallurgy, physical theory, biology and technology, and then apply it to the problem of evil, to Rowe's fawn, to van Inwagen's no-minimum result, and to the omnipotence objection. I state the price of the thesis honestly, which is a God who does not intervene selectively, and close on the one consequence that bears directly on how a person stands to their own past.
 
 ---
 
@@ -29,7 +29,7 @@ Why is the world not better than it is? Why did the good thing take so long? Why
 
 These look like several questions. They are one. Each of them asserts, without arguing for it, that a better outcome was available at the moment in question and was not taken. That assertion is the whole load-bearing member. Remove it and every one of these questions changes from an accusation into a description.
 
-My claim is that the assertion is almost always false, and false for a structural reason rather than a contingent one. What was available at any moment was bounded by what existed at that moment. Not bounded loosely, bounded exactly. And within that bound, what came out was the exact output of what went in.
+My claim is that the assertion is almost always false, and false for a structural reason rather than a contingent one. What was available at any moment was bounded by what existed at that moment. Not bounded loosely, bounded exactly. That bound covers more than material: the operations an actor can perform, the things an actor has picked out as things at all, and the information an actor holds are themselves made, and are therefore bounded in exactly the same way. And within that bound, what came out was the exact output of what went in.
 
 I call this BCS, best in causal span. It applies to a hand axe, a theory of gravitation, a species, an institution, a person, and to the universe itself, which was new once and is not exempt from the rule that governs newness.
 
@@ -46,6 +46,8 @@ This is not an observation about scarcity or difficulty. It is a claim about wha
 From that, the rest follows quickly.
 
 At any moment, the set of things that can be produced is fixed by what is there. Call that set the span. The span is not a rough estimate of what was feasible. It is exact. Everything in the state of affairs at that moment counts, and nothing outside it counts at all.
+
+What is there is not only stock. An operation is a made thing: addition had to be invented, and so did zero, and an actor holding all the material for a thing while lacking the operation that combines it is bounded as firmly as one holding no material. So is an individuation: nothing can be aimed at until it has been picked out as a something. So is knowledge. Each of these was produced from what came before it, which means each is inside the bound rather than free to be set at will.
 
 What actually comes out of that moment is the exact resultant of the causes operating on exactly that material. Perfect cause, perfect effect, no remainder, no waste, no missing part. Not "roughly what was available", exactly what was available.
 
@@ -83,47 +85,45 @@ A1 and A3 are widely accepted and I will not labour them. A2 is contested, and I
 
 **D3, Making.** A making is a transition from Σ(t) to some x present at a later time, where x was not present at t.
 
-**D4, BCS.** For any made thing x arising from Σ(t): x is a member of S(t), and x is the resultant of the causes operating on Σ(t).
+**D4, BCS.** For any made thing x arising from Σ(t): x is a member of S(a, t), and x is the resultant of the causes operating on Σ(t).
 
 ### 3.3 Theorem 1: Non-comparativity
 
 *Claim.* Where A2 holds in its strong form, there is no y such that x fell short of y.
 
-*Proof.* "x fell short of y" requires three things to be simultaneously true. First, that y was producible from Σ(t), that is, y is in S(t). Second, that the causes operating on Σ(t) could have produced y. Third, that they produced x instead. Under strong A2, the causes operating on Σ(t) produced exactly x, without remainder. Any y distinct from x therefore requires causes distinct from those operating on Σ(t). But those causes are constituents of Σ(t). Distinct causes therefore entail a distinct state, Σ'(t), and hence a distinct span, S'(t). So y is a member of S'(t), not of S(t). The second condition fails. There is no shortfall. ∎
+*Proof.* "x fell short of y" requires three things to be simultaneously true. First, that y was producible from Σ(t), that is, y is in S(a, t). Second, that the causes operating on Σ(t) could have produced y. Third, that they produced x instead. Under strong A2, the causes operating on Σ(t) produced exactly x, without remainder. Any y distinct from x therefore requires causes distinct from those operating on Σ(t). But those causes are constituents of Σ(t). Distinct causes therefore entail a distinct state, Σ'(t), and hence a distinct span, S'(a, t). So y is a member of S'(a, t), not of S(a, t). The second condition fails. There is no shortfall. ∎
 
 *Corollary.* Where strong A2 holds, "x is the best in its causal span" and "x is what came out of its causal span" are the same statement. The evaluative-sounding claim carries no evaluative content. This is a feature, not an embarrassment, and section 6 explains why.
 
-### 3.4 Theorem 1b: The boundary result
+### 3.4 Theorem 1b: The result under weak causal sufficiency
 
-The interesting question is what survives if A2 is read weakly, so that Σ(t) underdetermines what follows and more than one member of S(t) was genuinely available.
+The interesting question is what survives if A2 is read weakly, so that Σ(t) underdetermines what follows and more than one member of S(a, t) was genuinely producible.
 
-*Claim.* Even under weak A2, no y outside S(t) is an alternative that x fell short of.
+*Claim.* Even under weak A2, there is no y such that x fell short of y.
 
-*Proof.* Under weak A2, the second condition of the shortfall claim may be satisfiable: the causes at t may have been able to produce some y other than x. But this is only possible for y within S(t), since by A1 nothing outside S(t) is producible from Σ(t) at all. For any y outside S(t), the first condition fails directly. ∎
+*Proof.* Two cases. For any y outside S(a, t), the first condition of the shortfall claim fails directly, since by A1 nothing outside the span is producible from Σ(t) at all. For any y inside S(a, t), the claim requires that y was producible, was passed over, and was the better option. But by A4 the information state at t is itself the output of the prior span, and selection among producible options proceeds on that state and no other. An actor who produced x rather than y did so because x was what looked better on the information held. Declining an option is itself an act of selection performed on that information, not an exemption from it. So there is no member of the span that was available, was better on the state the actor actually had, and was passed over anyway. ∎
 
-This is the load-bearing result of the whole paper, and I want to name it plainly.
-
-**BCS is a boundary thesis, not an interior thesis.** It is silent about which point in the span was reached. It is absolute about where the span ends.
-
-Everything BCS dissolves, it dissolves by showing the complaint to be a boundary complaint. Everything BCS leaves standing, it leaves standing because the complaint is an interior complaint. The two look identical when stated in ordinary language, which is why the confusion is so durable.
+*What this shows.* The conclusion of Theorem 1 does not depend on strong determinism, and this matters for who can accept it. Under strong A2 the span holds one member and there is nothing to select among. Under weak A2 the span holds several, and A4 fixes which is selected. Either way the shortfall claim has no second term. A libertarian about free will can therefore accept the result, since it does not require that the actor could not have done otherwise, only that whatever they did was what looked better on what they had.
 
 ### 3.5 Theorem 2: The necessity of iteration
 
 *Claim.* If x requires material m, and m does not exist at t, then x is not producible at t, and no quantity of power, knowledge or intention changes this.
 
-*Proof.* By A1, x is made from what exists at t. If m is not in Σ(t), then m is not available to the making. If x cannot be made without m, x is not in S(t). Since m is itself a made thing, m has its own material requirement m', and so on. Therefore the production of x requires an ordered sequence of makings, each of which brings into being the material of the next. ∎
+*Proof.* By A1, x is made from what exists at t. If m is not in Σ(t), then m is not available to the making. If x cannot be made without m, x is not in S(a, t). Since m is itself a made thing, m has its own material requirement m', and so on. Therefore the production of x requires an ordered sequence of makings, each of which brings into being the material of the next. ∎
 
 *Corollary.* Iteration is not a method chosen over a faster alternative. It is the mechanism by which the material of any end state comes to exist. There is no version of the end that arrives before the sequence, because the end is made of the sequence's outputs.
 
 ### 3.6 Theorem 3: Dissolution of the perfection complaint
 
-*Claim.* The complaint "state P should have obtained at t0" is either an interior complaint, in which case it is legitimate and BCS does not touch it, or a boundary complaint, in which case it is a request to suspend A1.
+*Claim.* The complaint "state P should have obtained at t0" is a request to suspend either A1 or A4.
 
-*Proof.* Either P is in S(t0) or it is not. If it is, the complaint is that an available alternative was declined, which is exactly the shape of an ordinary moral or practical criticism, and Theorem 1b leaves it fully intact. If P is not in S(t0), then by A1 P was not producible from Σ(t0), and the complaint asserts that it should have been produced anyway. To produce something not made from what exists is to violate A1. ∎
+*Proof.* Either P is in S(a, t0) or it is not. If it is not, then by A1 P was not producible from Σ(t0), and the complaint asserts that it should have been produced anyway, which is to make something out of what is not there. If P is in S(a, t0) and was not produced, then by Theorem 1b it was not selected, because it was not what looked better on the information the actor held, and the complaint asserts that the actor should have selected on some information state other than the one its own history produced. That is a suspension of A4. ∎
+
+Both branches are the same request in different clothing, which is why no distinction between them does any work. One asks for material that was not there. The other asks for knowledge that was not there. In neither case is there a second state of affairs for the comparison to refer to.
 
 *What suspending A1 costs.* If effects need not follow from their material, then no state is made of any prior state. If no state is made of any prior state, there is no sequence in which one thing leads to another. Growth, choice, consequence and time as succession all require that later states be constituted out of earlier ones. Remove A1 and what remains is not a kinder world running on the same rules. It is a still image. Movement and exposure are the same thing described from two sides.
 
-So the choice presented by the boundary complaint is not between this world and this world improved. It is between a world that runs on causality and a world that runs on fiat. Those are different worlds, not versions of one.
+So the choice presented by such a complaint is not between this world and this world improved. It is between a world that runs on causality and a world that runs on fiat. Those are different worlds, not versions of one.
 
 ### 3.7 Theorem 4: Suffering as a property of sequencing
 
@@ -137,7 +137,7 @@ Three things follow, and they matter more than the proof.
 
 **It supplies a mechanism the account otherwise lacks.** The definition says what suffering is. This says why it is produced at every frame rather than at some frames, and the answer is not malice, scarcity or misfortune. It is that acting from a partial state is the only kind of acting available inside time.
 
-**It relocates the question.** If suffering were an occasional intrusion, the right question would be why it intrudes, which is the question the problem of evil asks. If it is a property of sequencing, that question has no purchase, and the live question becomes how much of it a given act does relative to what the frame permitted, which is an interior question of exactly the kind section 6 handles.
+**It relocates the question.** If suffering were an occasional intrusion, the right question would be why it intrudes, which is the question the problem of evil asks. If it is a property of sequencing, that question has no purchase, and the live question becomes how much of it a given act does relative to what the frame permitted, which is the question section 6 handles.
 
 **It is symmetrical across actors.** Two parties can each be aiming at what they take to be good, each acting on the best state available to them, and harm is produced anyway, by both, with no override anywhere in the chain. This is the ordinary case rather than the tragic exception. Where it looks like one party is aiming at good and the other at bad, that reading is usually itself an artefact of a partial information state, held by whoever is doing the reading.
 
@@ -145,7 +145,7 @@ Three things follow, and they matter more than the proof.
 
 BCS evaluates completed frames only, and this is the mechanism from which its backward-looking character follows rather than a separate stipulation about direction.
 
-A frame is completed when every one of its components has been filled: what the thing is, where the material stood, why the act was available, how it could be performed, what chain produced the state, and what followed. Until the last of those is filled the frame is still filling, and a frame still filling is not an object BCS can be applied to, because the claim it makes is about the exactness of an output relative to its inputs, and the output is not yet an output.
+A frame is completed when every one of its components has been filled. Those components are the six set out in section 3.9: what the thing is, where the material stood, why the act was available, how it could be performed, what chain produced the state, and what followed. Will is not among them, for the reason given there. Until the last of those is filled the frame is still filling, and a frame still filling is not an object BCS can be applied to, because the claim it makes is about the exactness of an output relative to its inputs, and the output is not yet an output.
 
 Three positions follow, and only one of them is a position of action.
 
@@ -161,7 +161,7 @@ It is also why the evaluation of section 6 survives intact. That evaluation is p
 
 **The order of filling is not free.** A frame does not close by having its components filled in any sequence. What the thing is has to be fixed before the rest will bind, because the remaining components are all components of something, and an unindividuated something has no location, no mechanism, no reason and no consequence to fill in. Components can certainly be gathered ahead of it, but gathered out of order they do not hold: they are misattributed, rejected, or come back empty, and the frame stays open.
 
-Three cases show the three failure modes. Le Verrier filled *what* correctly for Uranus, computed *where* from it, and Galle found Neptune within one degree of the predicted position in September 1846; filling *what* incorrectly for Mercury, as a planet he named Vulcan, produced a *where* that was empty and a frame that never closed. Wegener filled *what* and *where* for continental drift in 1912 and could not fill *how*, since the driving forces he proposed were calculated to be orders of magnitude too weak, and the frame stayed open until seafloor spreading supplied the mechanism decades later. Semmelweis filled *effect* and *how* at the Vienna General Hospital in 1847 while *what* remained unstable, and the frame did not close until germ theory supplied it.
+Three cases show the three failure modes. Le Verrier filled *what* correctly for Uranus, computed *where* from it, and Galle found Neptune on 23 September 1846 within one degree of the predicted position (Galle 1846; NASA 2021); filling *what* incorrectly for Mercury, as a planet he named Vulcan, produced a *where* that was empty and a frame that never closed. Wegener filled *what* and *where* for continental drift in 1912 and could not fill *how*, since the driving forces he proposed were calculated to be orders of magnitude too weak, and the frame stayed open until Hess supplied the mechanism with seafloor spreading decades later (Hess 1962). Semmelweis filled *effect* and *how* at the Vienna General Hospital in 1847, ordering examiners to scrub in chlorinated lime and recording the fall in maternal mortality that followed, while *what* remained unstable, and the frame did not close until germ theory supplied it (Semmelweis 1847, as reported in Kadar 2019).
 
 None of these needs a separate category. They are one mechanism: a frame whose components were filled out of order, which therefore did not close, which therefore never passed into the completed position where BCS applies.
 
@@ -195,7 +195,7 @@ The state therefore has to be decomposed. I use seven categories, which correspo
 
 The first pair sets what is materially at hand against what has been individuated. A span can be wide in matter and narrow in possibility, which is the state of holding everything needed and not yet knowing what one is holding. It can equally be the reverse, knowing exactly what is wanted and having none of it, which is the eleventh century and antibiotics.
 
-The second pair sets meaning against consistency. A span can be wide in meaning and narrow in mechanism, where a pattern is legible and no account of how it works is available. Wegener's continental drift is the clean instance: the fit of the coastlines, the fossil distributions and the matching structures were all in hand by 1912, and the proposed driving forces were calculated to be orders of magnitude too weak, so the hypothesis was set aside for decades until seafloor spreading supplied the mechanism (Wegener 1912; see Continental drift, and Hess on seafloor spreading).
+The second pair sets meaning against consistency. A span can be wide in meaning and narrow in mechanism, where a pattern is legible and no account of how it works is available. Wegener's continental drift is the clean instance: the fit of the coastlines, the fossil distributions and the matching structures were all in hand by 1912, and the proposed driving forces were calculated to be orders of magnitude too weak, so the hypothesis was set aside for decades until seafloor spreading supplied the mechanism (Wegener 1912; Hess 1962).
 
 The third pair sets sequence against consequence. A span can be wide in traceable causes and narrow in foreseeable effects, or the reverse, and an actor with a long view backward and none forward is bounded differently from one with the opposite profile.
 
@@ -219,7 +219,7 @@ The two theses also have opposite relations to optimism. Leibniz's conclusion is
 
 ### 4.2 It is not the adjacent possible
 
-Kauffman introduced the adjacent possible to describe how biological evolution explores what is available to it at each stage, defined as the set of possibilities open to an entity at a given point in its development (Kauffman 1996, 2000; Björneborn 2020). Kauffman's biospheres, on his account, enter their adjacent possible as fast as they can sustain, and each entry reconfigures the space, so the topology of what comes next is not statable in advance.
+Kauffman introduced the adjacent possible to describe how biological evolution explores what is available to it at each stage, defined as the set of possibilities open to an entity at a given point in its development (Kauffman 2000; Björneborn 2020). Kauffman's biospheres, on his account, enter their adjacent possible as fast as they can sustain, and each entry reconfigures the space, so the topology of what comes next is not statable in advance.
 
 The boundary in Kauffman's account and the span in mine are the same boundary. I take that as confirmation rather than as a problem. Where the accounts part is in what they are for.
 
@@ -240,10 +240,6 @@ The two do meet in one place. Simon's constraint is the agent's capacity to sear
 Gould and Lewontin attacked an adaptationist programme that broke organisms into traits and told a separate adaptive story for each, with trade-offs as the only brake on perfection, so that non-optimality itself came out as a result of adaptation (Gould and Lewontin 1979). They argued instead that organisms must be read as wholes whose body plans are so constrained by inherited history, developmental pathways and general layout that the constraints matter more than the selective forces.
 
 This is easy to confuse with BCS, because both are constraint-first positions and both refuse to grade against an unreachable ideal. The difference is that Gould and Lewontin were attacking a claim of optimisation, whereas BCS is not making one. Their target was the belief that what exists is the best solution to a problem. BCS says nothing about solutions or problems; it says what exists is what the material admitted. If anything, Gould and Lewontin's constraint programme is evidence for the span, since developmental constraint is what a span looks like when a biologist describes it.
-
-### 4.5 It is not fatalism, and it is not quietism
-
-This is the objection that will occur to most readers first, so it gets its own section.
 
 ---
 
@@ -269,7 +265,7 @@ BCS is not an ethics and does not become one. It issues no prescriptions, grades
 
 If BCS empties out one scale, it needs to say what scale is left. Otherwise it has removed a bad instrument and supplied nothing.
 
-Two measures survive, and both are strictly interior.
+Two measures survive.
 
 **The first is position within the span.** Given what was actually there, what came out? This is a real question with a real answer whenever a span holds more than one option, which is most of the time for anything with agency. It is where every ordinary moral judgement lives.
 
@@ -279,7 +275,7 @@ That second measure gives the correct treatment of taking, which is the point at
 
 By A3, nothing finite exists without taking. Eating a plant ends a living process. The plant, before that, was drawing on soil, water and light that something else could have used. Occupying ground is itself a form of taking, since ground used for one thing cannot be used for another. Even photosynthesis draws down a supply the plant did not make. There is no way to be a finite thing in a finite place that does not exclude something.
 
-The instinct that herbivory escapes this is the boundary complaint again, one round further in. It does not escape it, and the attempt to find something that does escape it terminates in section 9.
+The instinct that herbivory escapes this is the same complaint again, one round further in. It does not escape it, and the attempt to find something that does escape it terminates in section 9.
 
 But it does not follow that all taking is equivalent, and this is where the second measure does its work. Taking is assessable by two properties of what is taken.
 
@@ -347,7 +343,7 @@ The standard complaint is not about suffering as such but about suffering held t
 
 "Necessary" means caused by what came before it. Inside a world that runs that way, "unnecessary suffering" is not a subclass of suffering; it is a description of suffering whose scope, magnitude, method, cause or effect someone objects to. The word "unnecessary" only carries weight if a second world is quietly introduced, one where the suffering could be removed without changing anything else.
 
-Under Theorem 3, that introduction is the boundary complaint. It requires that a state be produced without its material, which is a suspension of A1, which removes succession, which removes the world being complained about.
+Under Theorem 3, that introduction requires that a state be produced without its material, which is a suspension of A1, which removes succession, which removes the world being complained about.
 
 Theorem 4 makes the same point from the other direction, and the two together close the position. The complaint treats suffering as an intrusion into an otherwise unsuffering sequence, so that the right question is why it was let in. If suffering is instead what acting from a partial state amounts to, and if by A4 no state is ever complete, then there is no unsuffering sequence for it to have intruded upon. The question "why is there any" has the same standing as asking why a sequence has succession in it.
 
@@ -417,7 +413,7 @@ By A1 and A3, every made thing takes from what already is. Either the sequence o
 
 Three things about this result matter.
 
-**It is a requirement, not an identification.** BCS shows the slot exists. It does not fill it. The uncaused term could be God, understood as ground of being. It could be a brute initial condition with no further explanation. It could be an unresolved feature of a beginningless chain. BCS is neutral, and its neutrality is a strength: the boundary results in sections 3 and 8 hold on any of these readings, which means the argument is not smuggling theism in as a premise.
+**It is a requirement, not an identification.** BCS shows the slot exists. It does not fill it. The uncaused term could be God, understood as ground of being. It could be a brute initial condition with no further explanation. It could be an unresolved feature of a beginningless chain. BCS is neutral, and its neutrality is a strength: the results in sections 3 and 8 hold on any of these readings, which means the argument is not smuggling theism in as a premise.
 
 **It sits well with what the classical tradition already said.** Aristotle argued that actuality is prior to potentiality even in time, since the seed is preceded by an adult of the same kind, and that what is eternal must be fully actual, since what exists only potentially is capable of not being and hence perishable (*Metaphysics* Θ.8, 1049b to 1051a). Aquinas took this over as *actus purus*, pure act, actuality unmixed with potentiality. That is what an uncaused term would have to be: nothing in it waiting to be brought about by something else.
 
@@ -431,11 +427,11 @@ Whitehead's account is the nearest process-metaphysical neighbour, and the compa
 
 **"This is unfalsifiable."** The claim about material precedence is not. It says that at the moment of any given making, the material of the alternative did not exist. That is a historical claim, and section 7 is a set of tests it could have failed. The metallurgy case would fail if bronze-age furnace practice turned out to be irrelevant to iron. The relativity case would fail if the Mercury anomaly and the interferometry result had been available and ignored. Each case is checkable against the record, and each could have come back the other way.
 
-**"It licenses inaction."** It does the opposite. The only thing it removes is complaint aimed across the boundary, which is inert anyway since nothing follows from it about what to do. What it leaves is the interior question: given what is actually here now, what is in the span? That question is exhausting rather than comforting, because it removes every excuse of the form "the conditions were not right" in cases where the conditions were.
+**"It licenses inaction."** It does not, because the only thing it removes is inert anyway. A comparison with no second term settles nothing about what to do, so removing it takes away no guidance that was ever there. What remains is a question asked of the present rather than of the past: given what is actually here, what is in the span. That question is more demanding than the one it replaces, not less, because it cannot be answered by pointing at what someone else failed to do.
 
-**"The span is not sharply bounded, so the whole thing is vague."** The span's edge is fuzzy in practice, in the way any historical counterfactual is fuzzy. But the argument does not need a sharp edge. It needs only cases that are clearly outside, and there are plenty: antibiotics in 1080, transistors in 1850, general relativity in 1687. The dissolution in section 8 works on the clear cases, and the unclear cases are where interior evaluation resumes, which is the right place for them.
+**"The span is not sharply bounded, so the whole thing is vague."** The span's edge is fuzzy in practice, in the way any historical counterfactual is fuzzy. But the argument does not need a sharp edge. It needs only cases that are clearly outside, and there are plenty: antibiotics in 1080, transistors in 1850, general relativity in 1687. The results in section 8 work on those, and nothing in the paper turns on adjudicating the unclear middle.
 
-**"You have proved too little. Nobody thinks God should have given the eleventh century antibiotics."** They think something with the same shape. The complaint that a world should have arisen containing agents who never harm, or matter that never scarcifies, or bodies that cannot fail, is the boundary complaint at world scale. The eleventh-century antibiotics case is the small, obvious instance of a move that is much harder to see when it is made about the world as a whole.
+**"You have proved too little. Nobody thinks God should have given the eleventh century antibiotics."** They think something with the same shape. The complaint that a world should have arisen containing agents who never harm, or matter that never scarcifies, or bodies that cannot fail, is the same move at world scale. The eleventh-century case is the small and obvious instance of something much harder to see when it is made about the world as a whole, which is exactly why the small instance is worth stating first.
 
 **"This makes the world's badness unaddressable."** No. It makes one bad addressing method unavailable and points at two live ones: position within the span, and effect on future spans. Section 6 is where that work goes, and it is not less demanding than what it replaces.
 
@@ -505,11 +501,17 @@ Edgar, S.E., Kirk, C.A., Rogers, Q.R. and Morris, J.G. 1998. "Taurine Status in 
 
 Elmer, K.R. and Clobert, J. 2025. "Dollo's law of irreversibility in the post-genomic age." *Trends in Ecology and Evolution*. https://www.sciencedirect.com/science/article/pii/S0169534724002490
 
+Galle, J.G. 1846. "Account of the discovery of Le Verrier's planet Neptune, at Berlin, Sept. 23, 1846." *Monthly Notices of the Royal Astronomical Society* 7: 153. https://ui.adsabs.harvard.edu/abs/1846MNRAS...7..153G/abstract
+
 Gould, S.J. and Lewontin, R.C. 1979. "The spandrels of San Marco and the Panglossian paradigm: a critique of the adaptationist programme." *Proceedings of the Royal Society B* 205(1161): 581-598. https://doi.org/10.1098/rspb.1979.0086
+
+Hess, H.H. 1962. "History of Ocean Basins." On its role in supplying the mechanism Wegener's hypothesis lacked, see United States Geological Survey, "Harry Hammond Hess: Spreading the seafloor," *This Dynamic Earth*. https://pubs.usgs.gov/gip/dynamic/HHH.html
 
 Jacob, F. 1977. "Evolution and Tinkering." *Science* 196(4295): 1161-1166. https://www.science.org/doi/10.1126/science.860134
 
 Kauffman, S.A. 2000. *Investigations*. Oxford University Press. https://archive.org/details/investigations00kauf
+
+Kadar, N. 2019. On Semmelweis's 1847 chlorine washings at the Vienna General Hospital and the mortality series they produced. https://pmc.ncbi.nlm.nih.gov/articles/PMC3807775/
 
 Leftow, B. 2005. "No best world: moral luck." *Religious Studies* 41(2): 165-181. https://www.cambridge.org/core/journals/religious-studies/article/no-best-world-moral-luck/A6F405FE3A5C00E1CD64743D10D42195
 
@@ -522,6 +524,8 @@ Li, X. et al. 2009. "Analyses of Sweet Receptor Gene (Tas1r2) and Preference for
 Marshall, C.R. 1994. "Dollo's law and the death and resurrection of genes." *PNAS*. https://pmc.ncbi.nlm.nih.gov/articles/PMC45421
 
 McAllister, B., Church, I., Rezkalla, P. and Nguyen, L. Forthcoming. "Empirical Challenges to the Evidential Problem of Evil." *Oxford Studies in Experimental Philosophy*. https://philarchive.org/archive/MCAECT
+
+NASA. 2021. "175 Years Ago: Astronomers Discover Neptune, the Eighth Planet." https://www.nasa.gov/history/175-years-ago-astronomers-discover-neptune-the-eighth-planet
 
 Plantinga, A. 1977. *God, Freedom, and Evil*. See also *Alvin Plantinga's free-will defense*. https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense
 

@@ -79,7 +79,7 @@ A1 and A3 are widely accepted and I will not labour them. A2 is contested, and I
 
 **D1, State.** Σ(t) is the total state of affairs at time t. This includes material, arrangement, capacities, and whatever knowledge is instantiated in the things present.
 
-**D2, Span.** S(t) is the set of things producible from Σ(t) by any operation that satisfies A1. The span is the reach of a moment.
+**D2, Span.** S(a, t) is the set of things producible from Σ(t) by an actor a, using any operation that satisfies A1. The span is the reach of a moment as it stands to whoever is acting in it. Section 3.9 sets out why the actor index is not optional and what internal structure the span has.
 
 **D3, Making.** A making is a transition from Σ(t) to some x present at a later time, where x was not present at t.
 
@@ -152,6 +152,42 @@ BCS is a backward-looking operator, and applying it forward inverts its characte
 This is why BCS cannot function as an excuse, and the reason is formal rather than rhetorical. An excuse is prospective. It is offered by an agent about a choice they are making or are about to make. A completeness claim about a fully specified frame is not available to an agent standing inside an unspecified one. By the time the claim is true, the acting is over and there is nothing left to excuse.
 
 It is also why the interior evaluation of section 6 survives intact. Interior evaluation is done retrospectively, on the same completely specified frame, and asks a different question of it: given everything that was in that frame, where in the span did the output land. Both questions are asked backward. They are not in competition.
+
+### 3.9 Micro-span, and the shape of a span
+
+**The indexing problem.** A span indexed to a time alone is not a span, it is a period, and periods are not option sets. "The span of 1838" bundles a minister drafting instructions in London with an assigned stockman on a frontier run and pretends the two faced one set of options. They shared no material, no operations, no information state and no incentives. Anything said about what "was available" at that time is therefore either true of one of them and false of the other, or true of neither.
+
+So Σ must be indexed to an actor's actual position, not to a date. Call this the micro-span. Its practical effect is that the sentence "the alternative was available" stops being assertable about an era and has to be made about a person at a place, which is checkable.
+
+This also removes an unfalsifiability that runs in both directions. Without the index, either every historical outcome is a failure to take an available option, or every apparent failure can be redescribed as somebody's absent option, and no evidence distinguishes the two. With the index, the coordinates have to be given and then the question has an answer.
+
+**The shape problem.** A set has only a size. But spans are not equally open in all respects, and two spans of the same size can be closed in entirely different places. This is not captured by treating Σ as an undifferentiated stock, and it is what makes the difference between a moment that is rich and produces nothing and a moment that is thin and produces a great deal.
+
+The state therefore has to be decomposed. I use seven categories, which correspond to the seven interrogatives: who, what, where, why, how, cause and effect. Six of them bound a span. The seventh does not, and its exclusion is the substantive result here rather than an oversight.
+
+**Where** is matter and distance: what is physically at hand and how far away the rest of it is. This is the content A1 has carried on its own so far.
+
+**How** is count and consistency: which operations the actor can actually perform. Operations are made things like any other. Addition had to be invented, and so did zero. An actor holding all the required material and lacking the operation that combines it is as bounded as one holding no material at all, and this is a distinct closure that A1 does not describe.
+
+**What** is possibility and probability: whether the thing in question has been individuated at all. An actor cannot aim at something not yet picked out as a something.
+
+**Cause** is sequence: how much of the chain producing the present state the actor can trace.
+
+**Effect** is consequence: what the actor can foresee following from an act, and what the setting will do to them for performing it.
+
+**Why** is meaning and resonance: whether a reason for the act is available and legible in that setting, which is a real constraint on whether an act can be performed at all rather than merely conceived.
+
+**Who** is will and direction, and it is not a boundary. It is what selects among what the other six leave open. This is why it drops out of the list of constraints: a span is the space, and will is the direction of travel through it. Treating will as a coordinate of the span would make the actor a feature of their own option set, which collapses the distinction the whole section is built to draw.
+
+**Three axes, three characteristic closures.** The six bounding categories pair naturally into three oppositions, and each pair describes a way a span can be lopsided.
+
+The first pair sets what is materially at hand against what has been individuated. A span can be wide in matter and narrow in possibility, which is the state of holding everything needed and not yet knowing what one is holding. It can equally be the reverse, knowing exactly what is wanted and having none of it, which is the eleventh century and antibiotics.
+
+The second pair sets meaning against consistency. A span can be wide in meaning and narrow in mechanism, where a pattern is legible and no account of how it works is available. Wegener's continental drift is the clean instance: the fit of the coastlines, the fossil distributions and the matching structures were all in hand by 1912, and the proposed driving forces were calculated to be orders of magnitude too weak, so the hypothesis was set aside for decades until seafloor spreading supplied the mechanism (Wegener 1912; see Continental drift, and Hess on seafloor spreading).
+
+The third pair sets sequence against consequence. A span can be wide in traceable causes and narrow in foreseeable effects, or the reverse, and an actor with a long view backward and none forward is bounded differently from one with the opposite profile.
+
+None of this changes any theorem above. It makes them applicable, by specifying what has to be given before a claim about a span can be evaluated at all: whose span, at what position, and open in which respects.
 
 ---
 
@@ -486,6 +522,8 @@ van Inwagen, P. 1988. "The magnitude, duration, and distribution of evil: a theo
 van Inwagen, P. 1991. "The Problem of Evil, the Problem of Air, and the Problem of Silence." *Philosophical Perspectives* 5: 135-165.
 
 van Inwagen, P. 2006. *The Problem of Evil* (Gifford Lectures 2003). Oxford University Press. https://giffordarchives.org/books/problem-evil
+
+Wegener, A. 1912. *Die Entstehung der Kontinente und Ozeane*. On the rejection of the hypothesis for want of a mechanism, and its later vindication by seafloor spreading and paleomagnetic striping, see https://en.wikipedia.org/wiki/Continental_drift
 
 Whitehead, A.N. 1929. *Process and Reality*. The Free Press. https://en.wikipedia.org/wiki/Process_and_Reality
 

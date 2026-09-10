@@ -155,7 +155,19 @@ Attempting to skip steps violates causal sufficiency. Attempting to translate wi
 
 Fill order and continuous translation are related but distinct. Fill order governs which component must resolve before the others can bind. Continuous translation governs movement within each component once it is in play.
 
-### 3.4 A Frame Has a Shape
+### 3.4 Tools Are Limited Too
+
+A tool is a made thing, so A1 and A4 apply to it exactly as they apply to anything else. Anything that can be used as a tool is of the universe to begin with, which means there is no lever standing outside a frame. Every instrument available for changing a frame is already inside it.
+
+Some tools build themselves. A muscle is made stronger by use, and use requires the muscle. So it can only be developed from wherever it already is, a step at a time. This is section 3.3 applied to the tool rather than to the thing being moved: no jump from weak to strong, every intermediate state occupied, force applied at each step.
+
+The seven planes are seven bodies, and each has strength that can be built or left unbuilt. So a frame is not only open or closed on a plane. It is strong or weak on it.
+
+This closes something section 3.3 leaves open. Translation requires applied force, but the force is not simply available. It comes from a tool, and the tool is limited. So there is a way of being stuck that neither missing material nor missing knowledge describes: the direction is right, the target is individuated, the path is continuous, and there is not enough strength to walk it.
+
+A man cannot use his forgiveness arm if it is weak.
+
+### 3.5 A Frame Has a Shape
 
 A set has only a size. Frames are not equally open in all respects, and two frames of the same size can be closed in entirely different places. That is the difference between a moment that is rich and produces nothing and a moment that is thin and produces a great deal.
 
@@ -259,6 +271,8 @@ Mapped onto the two-axis measure, where υ tracks who an act benefits and ψ tra
 
 To all effect the universe acts like a wand. A locus. A focus where everyone's infinite potential and God's can be gathered and expressed in any form of order at all.
 
+The wand is itself of the universe, so it is limited like every other tool. It gathers and focuses what is there. It does not supply anything from outside.
+
 Man does the same thing through simulations, making universes inside the universe with no rules or laws except self-imposed ones. That is man copying the act that made him, not arriving at it independently. And man does not build a simulation on a whim. He builds it for reasons, and they are the same reasons the universe was made, because the reason is part of what is being copied.
 
 ---
@@ -321,6 +335,10 @@ Because hindsight reveals the actions that would have produced the most good, we
 
 **Why anything can be forgiven.** Forgiveness is the rational recognition that a closed frame cannot be altered. It releases the futile demand for an unpayable debt, acknowledging that the damage occurred under closed causal constraints. Under causal realism there is no category of past action that is inherently unforgivable, because holding an ongoing grievance against a locked past is an argument against reality itself.
 
+**Whether a thing can be forgiven and whether a person can presently forgive it are two questions.** The first is structural and is settled above: the frame is closed, so the demand is unpayable. The second is a matter of strength. Forgiveness is done with a tool like anything else, and understanding does not supply that tool. A person can accept every step of the argument, agree the past frame was locked, and still be unable to perform the forgiving, because that arm has not been built.
+
+That is not a failure of reasoning and it is not refusal. It is an undeveloped capacity, and like any other it is built by use, from wherever it currently is, under applied force over time. Treating it as a conclusion someone should simply reach asks for a jump with no force behind it.
+
 **Why refusal to recognise being forgiven cannot be forgiven.** There is exactly one boundary, and it is a matter of definition. Forgiveness is not a unilateral decree that exists in empty space. It is the clearing of an offense between conscious actors. If an individual actively refuses to recognise that they have caused harm, denies the need for reconciliation, or rejects the forgiveness being offered, the act of forgiveness cannot take place.
 
 You cannot forgive someone who refuses to accept being forgiven. This is not a moral penalty or cosmic punishment. It is what the word means. An offer that is rejected cannot be consummated, so the actor remains unforgiven by definition.
@@ -356,6 +374,8 @@ That is the ordinary case, not the tragic exception. Where it looks as though on
 The better question is whether a tool can be made that cannot be used to create suffering in others. Since the universe is that locus, the question is about the universe.
 
 The answer follows from the definition. The tool never creates suffering, because the tool has no understanding to lack. Only the one holding it does. There is nothing that could be built into the wand to fix this, because the thing that produces suffering was never in the wand.
+
+Understanding is itself a tool, built by use from wherever it already is. So the gap between the understanding a person holds and the understanding an act requires is where suffering is produced, and it cannot be closed by being told to close it.
 
 ---
 

@@ -45,6 +45,20 @@ The terminology is awkward and the awkwardness is worth stating plainly, because
 
 A worked instance: a bridge collapses under load. The collapse is the best in its causal span. That means the steel, the loads, the corrosion and the design constraints produced exactly that failure and could not have produced another. It does not mean the collapse was good, acceptable, or the best available engineering outcome. Those are different questions about different objects.
 
+**The observer is not outside the account.** A judgment about an act is itself an act, assembled from the materials, tools and information present in the judge's state. So when an observer says an actor did not do the best thing, that judgment is the exact output of the observer's state in precisely the sense the act was the exact output of the actor's.
+
+This is not a sceptical move and it does not make judgments worthless. It relocates what is happening. An observer is not comparing an act against a standard held outside the world. They are producing one causally bound output and setting it against another, and what they perceive as the space of alternatives is bounded by their own state, not by the actor's. Disagreement between observers about the same act is therefore expected rather than anomalous, and it is evidence about the observers' states as much as about the act.
+
+The practical consequence is that "they should have seen it" is a claim with two states in it, and the one supplying the "should" is usually the speaker's. Section 7.1 develops this as the actor index, and section 8.2 gives the tiers along which the confusion runs.
+
+**The hardest case is the actor who appears to act for no reason.** If "best" names an exact resultant, the account has to cover actors who seem to escape resultants entirely: the person acting for chaos's sake, the self-destructive act, the one that serves nobody including the actor.
+
+These do not constitute an exception, and the reason is that acting against justification is still acting on a chain. An actor who sets out to produce chaos has a discernible reason for doing so, sustained by a history that made it a reason. An actor whose stated justification is the rejection of justification has taken up a position, and positions have sources. There is no acausal act available, because an act with nothing behind it would have nothing to be assembled from.
+
+What is true of these cases is that the problem being resolved is more often internal than external, and less often legible from outside. Circumstances made that option appear to the actor as the one that would resolve something, and the something may be a state of the actor rather than a state of the world. That is what makes such acts read as unmotivated: the observer is looking for an external problem the act would solve, finds none, and concludes there was no chain.
+
+So "best" carries no exception for the irrational, the malicious or the self-destructive. It is not a claim that the actor chose well, or served their own interests, or would endorse the act later. It is the claim that the act was the exact output of what the actor was and held, which holds of the person who burns something down for reasons they could not articulate exactly as it holds of the engineer.
+
 ### 1.4 Causality Is Information Moving Forward
 
 A past state is complete. Nothing can be added to it, because everything it was going to produce has been produced.

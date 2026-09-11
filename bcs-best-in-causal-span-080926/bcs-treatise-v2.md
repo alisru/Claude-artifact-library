@@ -427,6 +427,10 @@ Regret treats a completed state as though it were still open. Correction treats 
 
 ## References
 
+1 Corinthians 8:6, Greek text and prepositions: https://biblehub.com/text/1_corinthians/8-6.htm
+
+Genesis 1:2, Hebrew lexicon, tohu wa-bohu and the Spirit hovering: https://biblehub.com/lexicon/genesis/1-2.htm
+
 Bronze and iron metallurgy, comparative working temperatures: Museum of Classical Antiquities, University of Ottawa, "Bronze and Iron: A Comparison." https://omeka.uottawa.ca/museumclassicalantiquities/exhibits/show/extended-artefact-features/bronze-and-iron
 
 Bloomery operating temperatures, solid-state reduction below the melting point of iron, slag liquefaction near 1200°C: Cavallini, M., "Theoretical and practical aspects of iron smelting in a bloomery furnace." https://www.academia.edu/12866474/Theoretical_and_practical_aspects_of_iron_smelting_in_a_bloomery_furnace and EXARC Journal, "Smelting Conditions and Smelting Products." https://exarc.net/issue-2020-2/ea/development-bloomery-furnaces

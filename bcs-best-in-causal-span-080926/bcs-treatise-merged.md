@@ -13,7 +13,7 @@ This paper presents Best in Causal Span (BCS), an objective account of causality
 
 It formalises this through the Totality Event Frame, establishes why target individuation ("What") must precede spatial, mechanistic and causal determination, and formulates the principle of continuous translation across the seven planes: just as matter cannot teleport across space, an actor or system cannot jump across states of identity, potential, location, logic, meaning, history or emotional consequence without traversing every intermediate step under an applied force.
 
-It shows that historical critiques demanding faster innovation or alternate outcomes violate physical or informational closure. It examines material precedence through metallurgy, physics and biology, traces the epistemic origin sequence of creation, defines suffering as an operational byproduct of sequential time, establishes the hindsight action spectrum, resolves the mechanical boundary of forgiveness, and defines the structural difference between empirical errors and logical impossibilities.
+It shows that historical critiques demanding faster innovation or alternate outcomes violate physical or informational closure. It examines material precedence through metallurgy, physics and biology, traces the epistemic origin sequence of creation, establishes that tools are themselves limited and that capacity on each plane must be built, defines suffering as an operational byproduct of sequential time, establishes the hindsight action spectrum, resolves the mechanical boundary of forgiveness, and defines the structural difference between empirical errors and logical impossibilities.
 
 ---
 
@@ -125,7 +125,7 @@ Three ways this goes wrong.
 
 **What filled wrongly: Neptune and Vulcan.** In 1846 Urbain Le Verrier noticed Uranus deviating from its calculated Newtonian orbit. He correctly defined the What as an unseen outer planet, calculated its Where, and sent the coordinates to Johann Galle. Galle found Neptune within one degree of the predicted position on the first night, 23 September 1846.
 
-In 1859 Le Verrier observed an anomaly in Mercury's perihelion. Using the identical mathematical method, he assumed the What was again an undiscovered planet and named it Vulcan. Astronomers searched the calculated Where for over fifty years and found nothing.
+In 1859 Le Verrier observed an anomaly in Mercury's perihelion. Using the identical mathematical method, he assumed the What was again an undiscovered planet and named it Vulcan. Astronomers searched the calculated Where for decades and found nothing.
 
 The mathematical procedure had not failed. Because the What was wrong, calculating Where yielded empty space. Mercury was not being tugged by a hidden planet; it was moving through spacetime curved by the mass of the Sun. The frame could not close until Einstein supplied the correct What in 1915.
 
@@ -185,7 +185,7 @@ Historians sometimes ask why humanity spent over a thousand years in a Bronze Ag
 
 The usual answer, that iron simply needs a hotter fire, is wrong, and the correct answer is a stronger case for BCS.
 
-Copper melts at 1085°C, and bronze alloys lower still. Bronze technology is therefore a melt-and-cast technology, achievable with simple furnaces, basic fuel and natural or modest forced airflow. The metal becomes liquid and is poured.
+Copper melts at 1085°C and bronze alloys lower still, so bronze is a melt-and-cast technology. The metal becomes liquid and is poured, and everything downstream follows from that: moulds, pouring, finishing.
 
 Iron melts at 1538°C. Ancient furnaces topped out around 1100 to 1200°C and could not reach it. Iron was therefore never melted at all in this period. A bloomery reduces iron ore in the solid state, well below the melting point, producing a spongy bloom mixed with slag. The slag must liquefy, at around 1200°C, to keep the reduced iron protected and the process moving.
 
@@ -193,7 +193,9 @@ So the barrier was not a temperature that needed to be reached. It was that the 
 
 This is A4 rather than A1. The limitation was not missing material. It was a missing operation, and operations must be built.
 
-The high-temperature furnaces, tuyeres, refractory clay linings and charcoal-burning methods that made bloomery smelting possible were themselves developed through centuries of bronze casting. Society could not leap to iron because neither the physical tools nor the operational knowledge existed. Bronze was the necessary prerequisite that produced the material for iron.
+What bronze working handed forward was therefore not mainly heat. The temperature gap between casting copper and running a bloomery is around a hundred degrees, which is not the difficulty. What centuries of bronze casting built was the furnace practice itself: refractory clay linings that survive long runs, tuyeres that admit air where it is wanted, bellows and draught control, and charcoal made reliably at scale and close to pure carbon, which supplies the reducing atmosphere that pulls oxygen off the ore.
+
+Those are the prerequisites, and none of them is a temperature. Society could not leap to iron because the practice that produces a sustained, controlled, reducing furnace did not exist, and that practice was built by casting bronze.
 
 ### 4.2 Newton Before Einstein
 
@@ -229,7 +231,7 @@ Every causal chain traced backward eventually reaches an initial boundary: the o
 
 Evaluating the creation frame epistemically clarifies the necessary ordering.
 
-Before the physical universe exists, what is present is pure informational potential. By A1, whatever is made first must be constructed strictly from what is already present in that frame. Since information is the only available material, the first thing made is light.
+Before the physical universe exists, what is present is pure informational potential. This is the uncaused term, and section 5.2 derives why one is required. By A1, whatever is made first must be constructed strictly from what is already present in that frame. Since information is the only available material, the first thing made is light.
 
 Light is information.
 
@@ -335,7 +337,7 @@ Because hindsight reveals the actions that would have produced the most good, we
 
 **Why anything can be forgiven.** Forgiveness is the rational recognition that a closed frame cannot be altered. It releases the futile demand for an unpayable debt, acknowledging that the damage occurred under closed causal constraints. Under causal realism there is no category of past action that is inherently unforgivable, because holding an ongoing grievance against a locked past is an argument against reality itself.
 
-**Whether a thing can be forgiven and whether a person can presently forgive it are two questions.** The first is structural and is settled above: the frame is closed, so the demand is unpayable. The second is a matter of strength. Forgiveness is done with a tool like anything else, and understanding does not supply that tool. A person can accept every step of the argument, agree the past frame was locked, and still be unable to perform the forgiving, because that arm has not been built.
+**Whether a thing can be forgiven and whether a person can presently forgive it are two questions.** The first is structural and is settled above: the frame is closed, so the demand is unpayable. The second is a matter of strength. Forgiveness is worked on the emotive plane, which section 3.3 already identifies as the one where states cannot jump and must translate under applied force over time. It is done with a tool like anything else, and understanding does not supply that tool. A person can accept every step of the argument, agree the past frame was locked, and still be unable to perform the forgiving, because that arm has not been built.
 
 That is not a failure of reasoning and it is not refusal. It is an undeveloped capacity, and like any other it is built by use, from wherever it currently is, under applied force over time. Treating it as a conclusion someone should simply reach asks for a jump with no force behind it.
 
@@ -401,7 +403,7 @@ Under BCS this is structurally empty. Returning to the exact same situation mean
 
 Regret attempts to judge a past decision using knowledge acquired after the event, knowledge that did not exist in the actor's mind at the moment of choice. It demands two contradictory frames at once.
 
-It is also misdirected work. Regret is an act performed from the present, the only position where action occurs, and aimed at a closed frame, the only position that takes no further filling. And by section 8 it is an act launched from a partial state, which makes it a producer of the very thing it is reacting to.
+It is also misdirected work. By section 8, regret is an act launched from a partial state, which makes it a producer of the very thing it is reacting to.
 
 ### 9.3 Correction as Material Conversion
 
@@ -434,5 +436,3 @@ Semmelweis 1847, chlorinated lime, mortality series: https://pmc.ncbi.nlm.nih.go
 Taurine in cats, cysteinesulfinic acid trial: Edgar, S.E., Kirk, C.A., Rogers, Q.R., and Morris, J.G. (1998). *Journal of Nutrition* 128(4): 751-757. https://doi.org/10.1093/jn/128.4.751
 
 Dollo's law: Elmer, K.R., and Clobert, J. (2025). *Trends in Ecology and Evolution*. https://www.sciencedirect.com/science/article/pii/S0169534724002490
-
-Path dependence: David, P.A. (1985). "Clio and the Economics of QWERTY." *American Economic Review* 75(2): 332-337.

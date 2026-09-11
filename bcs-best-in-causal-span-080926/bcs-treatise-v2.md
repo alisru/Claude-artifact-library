@@ -11,7 +11,7 @@ September 2026
 
 This paper presents Best in Causal Span (BCS), an objective account of causality, material limits, and human action across time. BCS holds that any new entity, event, or decision can only be assembled from the exact physical materials, operational tools, and information present in its immediate prior state.
 
-Each of those three inputs is itself a made thing, produced by an earlier state and limited by it. The paper establishes that this holds not only for matter but on every kind of state a thing can be in: identity, potential, location, meaning, logic, history and consequence. On each of these, nothing jumps. Every change is a continuous translation through intermediate states, driven by force supplied by a tool that is itself finite and had to be built.
+Each of those three inputs is itself a made thing, produced by an earlier state and limited by it. They are the three relations anything made stands in to what made it: what it is made from, what it is made through, and what was present to inform it. The paper establishes that this holds not only for matter but on every kind of state a thing can be in: identity, potential, location, meaning, logic, history and consequence. On each of these, nothing jumps. Every change is a continuous translation through intermediate states, driven by force supplied by a tool that is itself finite and had to be built.
 
 From this follow the origin of the universe as the one state with nothing before it, why historical actors could not have acted on knowledge they did not hold, why suffering is a structural feature of sequential time rather than a defect in it, the exact boundary of forgiveness, and why mistakes are real while regret is not.
 
@@ -76,6 +76,18 @@ An actor's knowledge at any moment is bounded by the inputs, conditioning and hi
 Information is an output of prior states, exactly like iron or stone.
 
 This includes individuation. An entity or problem cannot be aimed at, solved or manipulated until it has been picked out and recognised as a distinct thing, and picking out is work done with a tool.
+
+### 2.4 From, Through, and Present At
+
+The three inputs are not an arbitrary list. They are the three relations anything made stands in to what made it: what it is made from, what it is made through, and what was present to inform it.
+
+The Trinitarian mapping is materials to the Father, tools to the Son, information to the Spirit, and the distinction is carried in Scripture by prepositions rather than inference. 1 Corinthians 8:6 marks the first two with different words: of the Father, ἐξ οὗ τὰ πάντα, from whom all things; of the Son, δι' οὗ τὰ πάντα, through whom all things. ἐκ is out-of, source, what a thing comes from. διά is through, by means of, agency. John 1:3 uses the same διά of the Son: all things were made through him.
+
+So the Son leg is not the pattern or the plan. It is the instrument, which is what section 4 means by a tool, and what 4.1 means by saying there is no route around one.
+
+The Spirit leg is placed at the origin state directly. Genesis 1:2 has the earth formless and void, darkness over the deep, and the Spirit of God hovering over the waters, and only then, in 1:3, does God speak. Information is present before anything is made, which is what section 6.1 says of the origin state.
+
+The mapping is not a sequence of stages. The three are conditions that must all hold for anything to be made at all, and a state short on any one produces nothing.
 
 ---
 
@@ -226,6 +238,8 @@ Every causal chain traced backward reaches a state with nothing before it. This 
 ### 6.1 Information Before Light
 
 Before the physical universe exists, what is present is informational potential. This is the uncaused term, and 6.2 derives why one is required.
+
+Genesis 1:2 states this as the condition preceding the first act: the earth formless and void, darkness over the deep, and the Spirit of God hovering over the waters. Only then, in 1:3, does God speak. By the mapping of 2.4, the information leg is what is present at the formless state, and speech is what is made from it.
 
 By the rule, whatever is made first must be assembled from what is already present. Since information is the only available material, the first thing made is light.
 

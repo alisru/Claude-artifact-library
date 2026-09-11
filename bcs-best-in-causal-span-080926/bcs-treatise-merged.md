@@ -13,7 +13,7 @@ This paper presents Best in Causal Span (BCS), an objective account of causality
 
 It formalises this through the Totality Event Frame, establishes why target individuation ("What") must precede spatial, mechanistic and causal determination, and formulates the principle of continuous translation across the seven planes: just as matter cannot teleport across space, an actor or system cannot jump across states of identity, potential, location, logic, meaning, history or emotional consequence without traversing every intermediate step under an applied force.
 
-It shows that historical critiques demanding faster innovation or alternate outcomes violate physical or informational closure. It examines material precedence through metallurgy, physics and biology, traces the epistemic origin sequence of creation, establishes that tools are themselves limited and that capacity on each plane must be built, defines suffering as an operational byproduct of sequential time, establishes the hindsight action spectrum, resolves the mechanical boundary of forgiveness, and defines the structural difference between empirical errors and logical impossibilities.
+It shows that historical critiques demanding faster innovation or alternate outcomes violate physical or informational closure. It examines material precedence through metallurgy, physics and biology, traces the epistemic origin sequence of creation, devotes a section to tools, showing that every instrument is itself made and limited, that the force driving any translation comes from one, and that capacity on each plane must be built from wherever it already is, defines suffering as an operational byproduct of sequential time, establishes the hindsight action spectrum, resolves the mechanical boundary of forgiveness, and defines the structural difference between empirical errors and logical impossibilities.
 
 ---
 
@@ -37,7 +37,7 @@ Its primary purpose is to eliminate meaningless counterfactual claims, of which 
 
 Every claim of this type relies on an imaginary alternative. Specifying that alternative requires introducing materials, tools or knowledge that were not locally present. Changing the inputs changes the frame, which means the critic is no longer evaluating this reality but an invented universe with an unrelated causal lineage.
 
-Alternative history serves fiction well. Treated as serious analysis it halts productive discourse, and it terminates in the same place every time, which is a critique of the origin of the universe itself. Section 5 treats that terminus.
+Alternative history serves fiction well. Treated as serious analysis it halts productive discourse, and it terminates in the same place every time, which is a critique of the origin of the universe itself. Section 6 treats that terminus.
 
 BCS looks directly at the past and declares: what happened was one hundred per cent causally bound to occur exactly as it did.
 
@@ -109,31 +109,27 @@ Time is the repeated closing of these frames. Once a future frame is completely 
 
 **The three slots are one register in three completion states.** Past holds complete tuples. Future holds the tuple currently being filled toward. The difference between them is completion, not certainty and not kind. This matters, because reading it as a difference in kind produces a different and wrong account of why BCS evaluates only closed frames. It evaluates closed frames because closure is what makes a tuple past.
 
-**Present is not a slot. It is the operation.** Past and future hold tuples; present is where filling happens. So the present is the only position at which a tuple is incomplete and action occurs anyway. Everything done is done from there, on a state that is by definition unfinished. Section 8 draws the consequence.
+**Present is not a slot. It is the operation.** Past and future hold tuples; present is where filling happens. So the present is the only position at which a tuple is incomplete and action occurs anyway. Everything done is done from there, on a state that is by definition unfinished. Section 9 draws the consequence.
 
-### 3.2 The Fill Order: Why "What" Precedes All
+### 3.2 Why "What" Comes First
 
-A frame cannot close if its components are resolved out of order. Causal closure requires a strict sequence:
+The components of a frame are not independent. Five of them are attributes of an entity, and one of them names the entity. Until the naming is done, the rest have nothing to be about.
 
-What, then Where, Why, How, Cause, Effect.
+Where is it? Where is what. How does it work? How does what work. Why did it happen? Why did what happen.
 
-What must always be established first, because the other six are attributes of an entity. If an entity has not been individuated, the other questions have no referent. Where is what? How does what work? Why did what happen?
+So What is prior, and the priority is a dependency rather than a schedule. The paper does not claim that Where must be resolved before Why, or How before Cause. Those can be worked in any order, and usually are. The claim is narrower and stronger: nothing else binds until What is fixed.
 
-Data can certainly be gathered before the What is known. Measurements, anomalies and correlations can pile up for years. But until the What is correctly identified, that data cannot bind to reality. The frame remains open, and action based on it fails.
+Data can certainly be gathered before the What is known. Measurements, anomalies and correlations pile up for years. But that data attaches to nothing until the entity is individuated, and action taken on it fails.
 
-Three ways this goes wrong.
+**Wrong What, empty Where.** In 1846 Urbain Le Verrier noticed Uranus deviating from its calculated Newtonian orbit. He defined the What as an unseen outer planet, calculated its Where, and sent the coordinates to Johann Galle, who found Neptune within one degree of the predicted position on the first night, 23 September 1846.
 
-**What filled wrongly: Neptune and Vulcan.** In 1846 Urbain Le Verrier noticed Uranus deviating from its calculated Newtonian orbit. He correctly defined the What as an unseen outer planet, calculated its Where, and sent the coordinates to Johann Galle. Galle found Neptune within one degree of the predicted position on the first night, 23 September 1846.
+In 1859 Le Verrier observed an anomaly in Mercury's perihelion. Using the identical method, he assumed the What was again an undiscovered planet and named it Vulcan. Astronomers searched the calculated Where for decades and found nothing.
 
-In 1859 Le Verrier observed an anomaly in Mercury's perihelion. Using the identical mathematical method, he assumed the What was again an undiscovered planet and named it Vulcan. Astronomers searched the calculated Where for decades and found nothing.
+The procedure did not fail, and the order was not violated. The What was simply false, and a Where computed from a false What is empty rather than merely inaccurate. Mercury was moving through spacetime curved by the mass of the Sun. The frame could not close until Einstein supplied the correct What in 1915.
 
-The mathematical procedure had not failed. Because the What was wrong, calculating Where yielded empty space. Mercury was not being tugged by a hidden planet; it was moving through spacetime curved by the mass of the Sun. The frame could not close until Einstein supplied the correct What in 1915.
+**No What at all.** Semmelweis measured an Effect and ran a How at the Vienna General Hospital in 1847. He ordered examiners to scrub in chlorinated lime, and maternal mortality fell sharply and stayed down. What remained "cadaverous particles". The Effect was real and the How was repeatable, and the frame still did not close, because the thing being acted on had not been individuated. It closed when germ theory supplied the What.
 
-**How left empty: continental drift.** Wegener filled What and Where in 1912. The coastline fit, the fossil distributions across separated landmasses and the matching geological structures were in hand and were not disputed as observations. How was empty: the driving forces he proposed, polflucht and tidal friction, were calculated as orders of magnitude too weak to move continents through ocean floor. The frame stayed open for fifty years. It closed when Hess published seafloor spreading in 1962, in which continents are carried as the floor spreads rather than ploughing through it. The observations did not improve in the interval. The missing component was filled.
-
-**What left unstable: puerperal fever.** Semmelweis filled Effect and How at the Vienna General Hospital in 1847. He ordered examiners to scrub in chlorinated lime, and the maternal mortality series fell sharply and stayed down. What remained "cadaverous particles". The Effect was measured and the How was repeatable, and the frame still did not close, because the thing being acted on had not been individuated. It closed when germ theory supplied the What.
-
-These are one mechanism, not three categories. Components filled out of order do not bind, so the frame does not close.
+The two cases show the two halves of the same dependency. A false What produces results that point nowhere. An absent What produces results that cannot be transferred, defended or built on.
 
 ### 3.3 Continuous Translation and Applied Force
 
@@ -155,31 +151,69 @@ Attempting to skip steps violates causal sufficiency. Attempting to translate wi
 
 Fill order and continuous translation are related but distinct. Fill order governs which component must resolve before the others can bind. Continuous translation governs movement within each component once it is in play.
 
-### 3.4 Tools Are Limited Too
+---
 
-A tool is a made thing, so A1 and A4 apply to it exactly as they apply to anything else. Anything that can be used as a tool is of the universe to begin with, which means there is no lever standing outside a frame. Every instrument available for changing a frame is already inside it.
+## 4. Tools
 
-Some tools build themselves. A muscle is made stronger by use, and use requires the muscle. So it can only be developed from wherever it already is, a step at a time. This is section 3.3 applied to the tool rather than to the thing being moved: no jump from weak to strong, every intermediate state occupied, force applied at each step.
+### 4.1 Everything Is a Tool, and Every Tool Is Limited
 
-The seven planes are seven bodies, and each has strength that can be built or left unbuilt. So a frame is not only open or closed on a plane. It is strong or weak on it.
+A tool is a made thing, so A1 and A4 apply to it exactly as they apply to anything else.
 
-This closes something section 3.3 leaves open. Translation requires applied force, but the force is not simply available. It comes from a tool, and the tool is limited. So there is a way of being stuck that neither missing material nor missing knowledge describes: the direction is right, the target is individuated, the path is continuous, and there is not enough strength to walk it.
+Anything that can be used as a tool is of the universe to begin with. There is no lever standing outside a frame, and no instrument that was not itself produced by an earlier frame. Every means of changing a state is already inside the state being changed.
 
-A man cannot use his forgiveness arm if it is weak.
+This makes A4 a special case rather than a separate rule. The three domains A4 binds are all tools. An operation is a tool for combining. An individuation is a tool for picking out. An information state is a tool for deciding. A4 says these are made and therefore limited, which is what section 4.1 says of tools generally.
 
-### 3.5 A Frame Has a Shape
+### 4.2 Force Comes From a Tool
 
-A set has only a size. Frames are not equally open in all respects, and two frames of the same size can be closed in entirely different places. That is the difference between a moment that is rich and produces nothing and a moment that is thin and produces a great deal.
+Section 3.3 establishes that translation across any plane requires applied force. It does not say where the force comes from, which leaves the impression that force is simply available and only the path is constrained.
 
-The paired axes make this readable. A frame can be wide in matter and narrow in individuation, which is Semmelweis: everything needed in hand, and no correct account of what is being held. It can be wide in meaning and narrow in mechanism, which is Wegener: a pattern legible with no account of how it works. Naming which axis a frame is short on identifies what has to be produced before it can close.
+Force is always supplied by a tool. Muscle moves matter. An operation moves a calculation. Attention and memory move an information state. Regulation moves an emotional state. Each is a made thing with a finite capacity, produced by prior frames.
+
+So every translation is gated twice: once by the continuity of the path, and once by the strength of the tool that has to drive it. A path can be perfectly continuous and still not be walked.
+
+This is a distinct way of being stuck, and neither missing material nor missing knowledge describes it. The direction is right, the target is individuated, the route is continuous, and there is not enough strength to cover it.
+
+### 4.3 Self-Developing Tools
+
+Some tools build themselves through use.
+
+A muscle is made stronger by being used, and using it requires the muscle. So it can only be developed from wherever it already is, in increments it can currently sustain. The same holds for an operation practised into fluency, for attention, and for emotional regulation.
+
+This is section 3.3 applied to the tool rather than to the thing the tool moves. No jump from weak to strong. Every intermediate state occupied. Force applied at each step, drawn from the tool as it currently stands.
+
+The consequence is that capability has the same shape as everything else in BCS. You cannot train from a strength you do not have, any more than you can build from material you do not have.
+
+### 4.4 Strength on Each Plane
+
+The seven planes are seven bodies, and each has a tool with a strength that can be built or left unbuilt.
+
+This makes a frame readable in a way that listing its contents does not. A frame is not only open or closed on a plane. It is strong or weak on it, and weakness is a different problem from absence, because weakness can be trained and absence has to be supplied from outside.
+
+It also sharpens what it means to say two frames of the same size differ. A frame with everything needed in hand and no correct account of what is being held is strong on the physical plane and weak on the possible one. A frame where a pattern is legible with no account of how it works is strong on the lyrical and weak on the logical. Naming which body is weak names what has to be trained, rather than only what is missing.
+
+### 4.5 A Tool Applied to the Wrong Plane
+
+Because tools are plane-specific, a strong tool can be brought to a problem it cannot touch.
+
+Semmelweis is the case. His procedural tool was excellent: he designed a controlled intervention, enforced it and measured the result. The weakness was on the possible plane, where the entity had not been individuated. A stronger procedure could not fix that, because procedure is a logical-plane tool and the gap was elsewhere. He applied more force along an axis that was not the constrained one.
+
+This is a common failure and it looks like effort rather than error, which is why it persists. Force is being applied, sometimes a great deal of it, on the plane where the actor happens to be strong rather than the plane where the frame is shut.
+
+### 4.6 Tools Are Lost
+
+Tools do not only fail to be built. They are also lost, and a lost tool is not recovered by wanting it.
+
+Dollo's law describes this at the biological scale. Once the developmental pathway underlying a complex trait is gone, the trait does not return in its original form. The lineage did not decide against it. The tool was discarded under conditions that made it unnecessary, and rebuilding it would require translating back along a route for which no force now exists.
+
+The same holds for operations that fall out of practice and for institutions that lose the ability to do what they once did routinely. The record of a capability is not the capability.
 
 ---
 
-## 4. Material Precedence
+## 5. Material Precedence
 
 Progress is not an arbitrary series of clever ideas. It is the physical assembly of prerequisites.
 
-### 4.1 Bronze Before Iron
+### 5.1 Bronze Before Iron
 
 Historians sometimes ask why humanity spent over a thousand years in a Bronze Age before moving to iron, given that iron ore is far more abundant in the Earth's crust than copper and tin.
 
@@ -197,7 +231,7 @@ What bronze working handed forward was therefore not mainly heat. The temperatur
 
 Those are the prerequisites, and none of them is a temperature. Society could not leap to iron because the practice that produces a sustained, controlled, reducing furnace did not exist, and that practice was built by casting bronze.
 
-### 4.2 Newton Before Einstein
+### 5.2 Newton Before Einstein
 
 Newton's classical mechanics was not a flawed attempt at General Relativity. It represented the outer limit of what could be observed and computed in 1687.
 
@@ -211,27 +245,25 @@ Maxwell's 1865 field equations unified electricity and magnetism.
 
 Einstein's physics was assembled out of the precise empirical contradictions that Newtonian mechanics took two centuries to produce.
 
-### 4.3 Carnivory: Precedence in Biology
+### 5.3 Carnivory: Precedence in Biology
 
 Carnivores did not choose meat in any deliberate sense.
 
 Cats cannot synthesise taurine in sufficient quantity and must take it from diet. Feeding cysteinesulfinic acid as a putative precursor produces no significant increase in taurine in plasma, whole blood or muscle. They cannot make arginine. They cannot convert beta-carotene to vitamin A and so require retinol from meat.
 
-Dollo's law names the general case. Once the developmental pathway or genetic structure underlying a complex trait is lost, the trait does not reappear in its original form.
-
-Choice here means accumulated causal commitment. A lineage specialised around available fuel, and once specialised the route back closed. This is continuous translation running over generations: no lineage jumps between dietary states, and the reverse translation requires an applied force that no longer exists in the genome.
+Choice here means accumulated causal commitment. A lineage specialised around available fuel, and once specialised the route back closed. This is continuous translation running over generations, and it is tool loss in the sense of section 4.6: no lineage jumps between dietary states, and the reverse translation requires an applied force that no longer exists in the genome.
 
 ---
 
-## 5. The Origin Frame
+## 6. The Origin Frame
 
 Every causal chain traced backward eventually reaches an initial boundary: the origin of the universe. This is not one application of BCS among others. It is the only frame with no predecessor, and every other frame in this paper is downstream of it.
 
-### 5.1 The Epistemic Sequence
+### 6.1 The Epistemic Sequence
 
 Evaluating the creation frame epistemically clarifies the necessary ordering.
 
-Before the physical universe exists, what is present is pure informational potential. This is the uncaused term, and section 5.2 derives why one is required. By A1, whatever is made first must be constructed strictly from what is already present in that frame. Since information is the only available material, the first thing made is light.
+Before the physical universe exists, what is present is pure informational potential. This is the uncaused term, and section 6.2 derives why one is required. By A1, whatever is made first must be constructed strictly from what is already present in that frame. Since information is the only available material, the first thing made is light.
 
 Light is information.
 
@@ -241,7 +273,7 @@ This sequence is not an arbitrary narrative. It is the only ordering A1 and A4 p
 
 The transition from formless potential to structured reality took the span it took because each stage had to generate the raw materials for the next.
 
-### 5.2 The Uncaused Term
+### 6.2 The Uncaused Term
 
 By A1 and A3, every made thing takes from what already is. So the sequence either runs back without end, or it terminates in something that makes without taking.
 
@@ -249,7 +281,7 @@ Only something uncaused, depending on nothing before itself, could make without 
 
 This follows from the axioms rather than being assumed by them. The slot is required. What fills it is a separate question, and every result in this paper holds whichever way that question is answered.
 
-### 5.3 Taking as the Price of Finitude
+### 6.3 Taking as the Price of Finitude
 
 Philosophical critiques of existence often demand a world where no entity inflicts costs on another. Under A1 and A3 this is a physical impossibility.
 
@@ -257,7 +289,7 @@ Biological life requires consuming other organised systems to resist entropy. A 
 
 Taking is not a design flaw. It is the thermodynamic cost of being a distinct, finite entity in time, and it is the price of anything besides the uncaused term existing separately at all.
 
-### 5.4 Taking Is Not One Quantity
+### 6.4 Taking Is Not One Quantity
 
 That taking is unavoidable does not make all taking equivalent. Two properties of what is taken decide where a particular taking sits.
 
@@ -269,7 +301,7 @@ Taking from something abundant and fast-regrowing and taking from something scar
 
 Mapped onto the two-axis measure, where υ tracks who an act benefits and ψ tracks what the energy is doing, taking does not sit at the destructive end of ψ merely because it is unavoidable. Where it sits depends on whether the take outruns what can regrow, given how scarce the thing actually is there. Viability decides the placement, not the bare fact of taking.
 
-### 5.5 The Universe as Locus
+### 6.5 The Universe as Locus
 
 To all effect the universe acts like a wand. A locus. A focus where everyone's infinite potential and God's can be gathered and expressed in any form of order at all.
 
@@ -279,15 +311,15 @@ Man does the same thing through simulations, making universes inside the univers
 
 ---
 
-## 6. Human Action, Culture, and History
+## 7. Human Action, Culture, and History
 
-### 6.1 The Actor Index
+### 7.1 The Actor Index
 
 A causal frame cannot be indexed to an entire historical era. Speaking of what was "possible in 1838" bundles unrelated people into a single imaginary option set.
 
 Consider the colonisation of Australia. A government official drafting policy in London and a frontier pastoralist facing immediate survival pressures in the Australian bush shared no common physical materials, immediate information, survival incentives or tools. Claiming that a specific choice was "available in 1838" is an error. A frame must always be indexed to the actor at their exact coordinates.
 
-### 6.2 Intention and Conditioning
+### 7.2 Intention and Conditioning
 
 Human actors decide on three bounded parameters: the information they physically hold at that moment, the conditioning and cultural worldview installed by their history, and their environmental incentive structure balancing self-benefit against group- or other-benefit.
 
@@ -299,11 +331,11 @@ Every actor acted on what seemed viable, necessary or advantageous given their s
 
 ---
 
-## 7. Past Necessity, Hindsight, and Forgiveness
+## 8. Past Necessity, Hindsight, and Forgiveness
 
 A common confusion about BCS is the claim that recognising causal necessity serves as an excuse or moral pardon for harmful actions. It does not. It is a description of physical mechanics.
 
-### 7.1 Objective Necessity Is Not an Excuse
+### 8.1 Objective Necessity Is Not an Excuse
 
 One can argue in hindsight that an actor should have done infinite other things in infinite other ways. But the actor did not, because they were acting on, and acted upon by, the exact internal and external information present at that moment.
 
@@ -315,21 +347,25 @@ Acknowledging that the past could not have unfolded differently does not mean ce
 
 There is also a structural reason BCS cannot function as an excuse. An excuse is offered from the present, about an act being performed or about to be. BCS applies only to closed frames. It does not reach the present, so by the time the claim holds, the frame has closed and there is nothing left to excuse.
 
-### 7.2 The Hindsight Spectrum of Action
+### 8.2 The Hindsight Spectrum of Action
 
 When an event is evaluated in hindsight, an entire spectrum of hypothetical choices becomes visible that was not accessible to the actor in real time.
 
-**The Best Impossible Action.** An imaginary optimal outcome requiring physical laws, energy, materials or mechanisms not present in the universe or the local frame. Blocked by A1.
+The four tiers are distinguished by tools, and section 4 makes the boundaries exact rather than a matter of degree.
 
-**The Best Improbable Action.** An action theoretically permitted by physical laws, but practically unreachable given extreme survival threat, heavy neurological conditioning, panic or social pressure.
+**The Best Impossible Action.** No tool for it exists anywhere in the frame, and none could, because it would require laws, energy, materials or mechanisms not present in the universe. Blocked by A1.
 
-**The Best Possible Action.** The option that retrospective analysis claims was sitting right there to produce the most good, had the actor weighed values differently or possessed a wider perspective.
+**The Best Improbable Action.** The tool exists somewhere, but this actor's is too weak to drive the translation. Survival threat, conditioning, panic and social pressure are not separate explanations here. They are descriptions of a tool operating at or beyond its capacity.
 
-**The Best Certain Action.** What was actually executed. The single resultant determined by the exact materials, tools, cultural conditioning and informational limits present at that second.
+**The Best Possible Action.** The actor's tool was strong enough for the translation, on the plane where the frame was actually constrained.
+
+**The Best Certain Action.** What the tool actually did. The single resultant determined by the exact materials, tool strengths, conditioning and informational limits present at that second.
+
+The line between Improbable and Possible is where nearly all retrospective judgment goes wrong, and it is not a moral line. It is a measurement of a specific capacity in a specific person at a specific moment, and it is not readable from the outcome.
 
 Looking backward from an accumulated future frame, it is obvious that alternative actions were theoretically possible, and we naturally agree that the actor should have chosen the action leading to the most good across that spectrum. But asserting that an actor could have made that leap without the necessary information, tools or emotional state requires an effect without its cause. It also requires a jump across planes with no applied force to drive it, which is exactly what section 3.3 rules out.
 
-### 7.3 The Mechanics of Forgiveness
+### 8.3 The Mechanics of Forgiveness
 
 The hindsight spectrum establishes why forgiveness exists as a mechanical necessity, and where its exact boundary lies.
 
@@ -337,7 +373,7 @@ Because hindsight reveals the actions that would have produced the most good, we
 
 **Why anything can be forgiven.** Forgiveness is the rational recognition that a closed frame cannot be altered. It releases the futile demand for an unpayable debt, acknowledging that the damage occurred under closed causal constraints. Under causal realism there is no category of past action that is inherently unforgivable, because holding an ongoing grievance against a locked past is an argument against reality itself.
 
-**Whether a thing can be forgiven and whether a person can presently forgive it are two questions.** The first is structural and is settled above: the frame is closed, so the demand is unpayable. The second is a matter of strength. Forgiveness is worked on the emotive plane, which section 3.3 already identifies as the one where states cannot jump and must translate under applied force over time. It is done with a tool like anything else, and understanding does not supply that tool. A person can accept every step of the argument, agree the past frame was locked, and still be unable to perform the forgiving, because that arm has not been built.
+**Whether a thing can be forgiven and whether a person can presently forgive it are two questions.** The first is structural and is settled above: the frame is closed, so the demand is unpayable. The second is a matter of strength. Forgiveness is worked on the emotive plane, where by section 3.3 states cannot jump and must translate under applied force, and by section 4.2 that force comes from a tool with a finite capacity. Understanding does not supply that tool. It is a logical-plane instrument, and applying it harder to an emotive-plane constraint is the misapplication of section 4.5. A person can accept every step of the argument, agree the past frame was locked, and still be unable to perform the forgiving, because that arm has not been built.
 
 That is not a failure of reasoning and it is not refusal. It is an undeveloped capacity, and like any other it is built by use, from wherever it currently is, under applied force over time. Treating it as a conclusion someone should simply reach asks for a jump with no force behind it.
 
@@ -347,9 +383,9 @@ You cannot forgive someone who refuses to accept being forgiven. This is not a m
 
 ---
 
-## 8. Suffering as an Operational Consequence of Time
+## 9. Suffering as an Operational Consequence of Time
 
-### 8.1 The Definition
+### 9.1 The Definition
 
 Suffering is acting with a lack of understanding.
 
@@ -357,7 +393,7 @@ Pain is an incoming sensory signal sent by the nervous system when tissue is dam
 
 Suffering is located in the action itself. It is the friction, error, unintended harm and downstream wreckage generated when an actor acts inside an incomplete information state. It is never located in whoever it lands on. Pain lands. Suffering is done.
 
-### 8.2 Why Suffering Is Built Into Time
+### 9.2 Why Suffering Is Built Into Time
 
 Under A4, an actor's information state is bounded by the history accumulated up to that moment. No actor operating in the present can possess the knowledge that will only be produced by future frames.
 
@@ -365,27 +401,27 @@ Because all action occurs in the present, and the present is by definition the p
 
 Suffering is not the result of cosmic malice or random bad luck. It is the structural consequence of living inside a sequential timeline where knowledge must be earned step by step through physical trial and error.
 
-### 8.3 It Is Symmetrical
+### 9.3 It Is Symmetrical
 
 Two parties can each be aiming at what they take to be good, each acting on the best information available to them, and harm is produced by both, with nothing overriding anywhere in the chain.
 
 That is the ordinary case, not the tragic exception. Where it looks as though one party is aiming at good and the other at bad, that reading is generally an artefact of a partial information state held by whoever is doing the reading.
 
-### 8.4 The Tool Question
+### 9.4 The Tool Question
 
 The better question is whether a tool can be made that cannot be used to create suffering in others. Since the universe is that locus, the question is about the universe.
 
 The answer follows from the definition. The tool never creates suffering, because the tool has no understanding to lack. Only the one holding it does. There is nothing that could be built into the wand to fix this, because the thing that produces suffering was never in the wand.
 
-Understanding is itself a tool, built by use from wherever it already is. So the gap between the understanding a person holds and the understanding an act requires is where suffering is produced, and it cannot be closed by being told to close it.
+Understanding is itself a tool, and by section 4.3 it is built by use from wherever it already is. So the gap between the understanding a person holds and the understanding an act requires is where suffering is produced, and it cannot be closed by being told to close it.
 
 ---
 
-## 9. Mistakes versus Regret
+## 10. Mistakes versus Regret
 
 BCS establishes a strict operational distinction between an empirical error and the psychological state of regret.
 
-### 9.1 The Nature of a Mistake
+### 10.1 The Nature of a Mistake
 
 A mistake is an objective error located inside a single closed frame.
 
@@ -393,7 +429,7 @@ When Le Verrier proposed Vulcan, he made an empirical mistake in the What compon
 
 A mistake is closed, inspectable and informative.
 
-### 9.2 The Logical Impossibility of Regret
+### 10.2 The Logical Impossibility of Regret
 
 Regret is not an empirical evaluation. It is an impossible comparison.
 
@@ -403,9 +439,9 @@ Under BCS this is structurally empty. Returning to the exact same situation mean
 
 Regret attempts to judge a past decision using knowledge acquired after the event, knowledge that did not exist in the actor's mind at the moment of choice. It demands two contradictory frames at once.
 
-It is also misdirected work. By section 8, regret is an act launched from a partial state, which makes it a producer of the very thing it is reacting to.
+It is also misdirected work. By section 9, regret is an act launched from a partial state, which makes it a producer of the very thing it is reacting to.
 
-### 9.3 Correction as Material Conversion
+### 10.3 Correction as Material Conversion
 
 The only functional response to an error is correction.
 

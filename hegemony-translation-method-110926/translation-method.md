@@ -95,3 +95,25 @@ RESULT: one-line verdict
 ## 13. The pipeline in order
 
 Text, state the bare relation (section 2), run Q2 through Q7, let Q1 emerge, semantic and transformational structure (section 3), four-way correspondence against the target, falsifiability gate, grade with TBE Xi TS, RPN frame-transition trajectory and Perceptual Inversion check, invariant extraction if three or more traditions, round-trip audit, tag remainder as distorted or blocked, render only the section 12 output block.
+
+## Appendix: Worked example
+
+SOURCE: Christianity, Romans 11:36, "from him, through him and to him are all things." Q.q.c: Q2 all things, origin and destination held by one agent. Q3 cosmic, not local. Q4 doxological, closing an argument on God's inscrutable judgment. Q5 three-part mechanism, from / through / to, agent as origin, means, and end simultaneously. Q6 climax of Romans 11:33-35. Q7 praise, submission. Q1 emerges: an agent standing in a three-fold origin/means/end relation to everything. Transformational structure: hearer uncertain of God's ways, to declaration of total origin/means/end, to hearer moved to doxology.
+
+TARGET: Hinduism, Bhagavad Gita 10.8, "I am the source of all; from Me everything flows." Q.q.c: Q2 all activity and beings. Q3 cosmic. Q4 self-revelation so Arjuna worships correctly. Q5 two-part mechanism, source and flow, origin only, not also means or end. Q6 Krishna's discourse on his own manifestations. Q7 devotion. Q1 emerges: an agent as originating source of activity. Transformational structure: Arjuna uncertain of Krishna's nature, to self-declaration as source, to Arjuna moved toward devotion.
+
+CORRESPONDENCE: Lexical low, no shared words. Relational high, both are agent-as-origin-of-all-things. Functional partial, Romans' How is three-part, Gita's is two-part, a real mismatch localized to Q5. Trajectory high, both move the hearer toward worship.
+
+FALSIFIABILITY: Who pass. What pass. Why pass. How fail. Cause weak, different supporting arguments. Effect pass. Trajectory pass. Five of seven clear cleanly. Gate passed, not on all planes.
+
+GRADE: ==. Confirmed on Who/What/Why/Effect/Trajectory, not ===, because How fails and Cause is weak, so there is residue.
+
+TRAJECTORY: Single frame-collapse in each text, the hearer's frame of "one candidate object of devotion among others" collapses to "sole, total origin." No Perceptual Inversion, both read positive on the surface and trend toward the same coordinate region.
+
+INVARIANT: Not applicable, only two traditions compared here.
+
+DIVERGENCE: Romans' "through him" makes a means/vehicle claim, not just an origin claim. Gita 10.8 makes no such claim, it is silent on mechanism beyond source.
+
+REMAINDER: Distorted, not blocked. The instrumental "through him" component has no counterpart in this specific verse, but the Gita elsewhere, 9.4-9.6, carries a sustaining/pervading doctrine, so the concept exists in the tradition, just not in this passage.
+
+RESULT: Real == correspondence. Both declare a single agent as absolute origin of all things, driving the hearer toward worship. Romans additionally claims that agent as active means, a claim this Gita verse does not make.

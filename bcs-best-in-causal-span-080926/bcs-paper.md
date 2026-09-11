@@ -59,7 +59,23 @@ What is true of these cases is that the problem being resolved is more often int
 
 So "best" carries no exception for the irrational, the malicious or the self-destructive. It is not a claim that the actor chose well, or served their own interests, or would endorse the act later. It is the claim that the act was the exact output of what the actor was and held, which holds of the person who burns something down for reasons they could not articulate exactly as it holds of the engineer.
 
-### 1.4 Causality Is Information Moving Forward
+### 1.4 The Judge Is Inside the Account
+
+Four things follow from the observer being bound, and they are the parts of the account most worth having.
+
+**Condemnation is only possible from a different state.** A judge who shares the actor's state, the same information, tools and conditioning, produces the same act. So every "they should have" carries an implicit claim: my state differs from theirs in a way that made the alternative available. That is a claim about the judge's tools, and it can be checked. Does the judge actually hold the capacity they are demanding? Frequently they are demanding a strength from a state that never had to exercise it. Ought-implies-can, turned around: would you have done it from there.
+
+**A "should have" is only capable of being wrong once it has been converted.** As stated, a "should have" is not about anything checkable, so it cannot be false. Converted into "the actor's tool on that body was strong enough to lift that," it becomes a claim about a capacity, and capacity claims can be wrong. The observer who wants a judgment that can fail has to do the conversion, and section 8.2 is the conversion table.
+
+**Reported absence of reason measures distance, not absence.** "Chaos for chaos's sake" is the case where the observer's state most confidently reports no reason. That confidence is a measure of the gap between the two states, not of the chain's absence. The chain is there; it is illegible from where the judge stands. So the more unmotivated an act looks, the more the judgment says about the judge. What presents as chaos from outside is, examined from the actor's position, highly ordered, and the order is what the observer's tools cannot resolve.
+
+**The account applies to its own reception.** A reader's decision to continue past this point is an act, assembled from what they hold. They will assume the paper has use only if they already have the prerequisite tools for seeing that use, and they will read on only if something in their state is asking for change: an outlook they want to shift, a source of answers they want to replace, a tool of theirs that is breaking on a problem, or a standing reason for wanting better tools. The paper cannot supply that condition. It can only be what falls on it.
+
+The parable of the sower has the four cases. Seed on the path is taken before it can root, which is the reader for whom the account has nothing to attach to. Seed on thin soil over rock springs up at once and withers when tested, which is the reader who takes the account with enthusiasm and drops it at the first hard case. Seed among thorns grows and is choked, which is the reader whose state is fertile but already fully occupied. Seed on good ground yields, and yields differently, thirtyfold and sixtyfold and a hundredfold, which is the reader whose ground has been worked and is ready for generation.
+
+None of these is a verdict on the reader. They are descriptions of ground, and ground is a state, and states are what the account is about. The paper's claim to be read is therefore no stronger than any other claim it permits: a chain the reader can follow, from wherever they are.
+
+### 1.5 Causality Is Information Moving Forward
 
 A past state is complete. Nothing can be added to it, because everything it was going to produce has been produced.
 
@@ -69,7 +85,7 @@ Causality is the flow between them. What a completed state holds becomes the mat
 
 This is why BCS evaluates completed states only. The claim it makes is about the fit between an output and its inputs, and until the output exists there is nothing for the claim to be about. Section 8.1 draws the consequence for excuses.
 
-### 1.5 What BCS Is For
+### 1.6 What BCS Is For
 
 BCS is not a system of moral judgment and does not sort blame into categories. It is a claim about the mechanics of causality, and its use is narrow.
 
@@ -81,7 +97,7 @@ Alternative history serves fiction. Treated as analysis it halts discourse, beca
 
 The class is larger than it looks. "The eleventh century should have had nuclear power" is transparently empty. "The 1940s should have had modern moral sensibilities," "that institution should have known better," and "I should have seen it coming" are the same move with the missing input hidden rather than obvious.
 
-### 1.6 Relation to Existing Accounts
+### 1.7 Relation to Existing Accounts
 
 BCS occupies ground adjacent to several established positions and is not identical to any of them. Naming the differences is faster than letting them be inferred.
 
@@ -429,7 +445,7 @@ An excuse tries to absolve by pointing at mitigating factors. It concedes that t
 
 A wildfire that burns a town is causally necessary given heat, dry timber, wind and a spark. Saying so is not an excuse for the fire, does not make the destruction desirable, and does not suggest the town should not be rebuilt with firebreaks. A destructive human act is likewise the exact output of the actor's conditioning, information and pressures, and the same three observations hold of it.
 
-There is also a structural reason the account cannot serve as an excuse, which is independent of anyone's intentions in using it. An excuse is offered from the present, about an act being performed or about to be. BCS applies to completed states, for the reason given in 1.4. It does not reach the present. So by the time the claim holds, the state has closed and there is nothing left to excuse, and an actor who reasons "whatever I do will have been the exact output" has mistaken an open state for a closed one, which is not reading the situation but declining to be one of the things that completes it.
+There is also a structural reason the account cannot serve as an excuse, which is independent of anyone's intentions in using it. An excuse is offered from the present, about an act being performed or about to be. BCS applies to completed states, for the reason given in 1.5. It does not reach the present. So by the time the claim holds, the state has closed and there is nothing left to excuse, and an actor who reasons "whatever I do will have been the exact output" has mistaken an open state for a closed one, which is not reading the situation but declining to be one of the things that completes it.
 
 ### 8.2 The Hindsight Spectrum
 
@@ -451,6 +467,8 @@ The work this section does is to show that the Improbable tier is on the same si
 
 This is the line where nearly all retrospective judgment goes wrong, and it is not a moral line. It is a measurement of a specific capacity in a specific person at a specific moment, and it is not readable from the outcome. The outcome tells you the action taken. It does not tell you whether the untaken action was within the actor's strength, and assuming it was is the error.
 
+The observer drawing these tiers is drawing them from their own state, by 1.4. The spectrum is itself a hindsight product, and two observers with different tools will place the same act at different tiers. That does not make the tiers arbitrary. It makes them claims that can be checked against the actor rather than against the observer, which is the whole point of stating them as capacities.
+
 A reader may press: does this not dissolve responsibility altogether? Three things limit the damage.
 
 First, the argument is about ability, not about determinism. It does not claim the actor could not have done otherwise in the metaphysical sense. It claims that a specific alternative was beyond a specific capacity, which is an empirical claim about that person and can be false.
@@ -463,7 +481,7 @@ Third, and most directly, capacities are built. The Improbable tier is not a per
 
 The spectrum establishes why forgiveness has a mechanical basis, and where its boundary lies.
 
-Hindsight reveals the actions that would have produced the most good, so the damage is clearly identifiable. Yet the actor was bound by their state. They could not have executed the best possible action, because the necessary information, tool strength or conditioning did not exist in them at that moment. Demanding the past have unfolded differently demands a world that never existed.
+Hindsight reveals the actions that would have produced the most good, as the judge's state measures good, so the damage is clearly identifiable from where the judge stands. Yet the actor was bound by their state. They could not have executed the best possible action, because the necessary information, tool strength or conditioning did not exist in them at that moment. Demanding the past have unfolded differently demands a world that never existed.
 
 **Why anything can be forgiven.** Forgiveness is the recognition that a completed state cannot be altered. It releases the demand for an unpayable debt. There is no category of past action inherently unforgivable, because holding a grievance against a locked state is a demand made of something that cannot answer it.
 
@@ -496,6 +514,8 @@ Suffering is acting with a lack of understanding.
 Pain is an incoming sensory signal sent when tissue is damaged. Pain lands from the outside.
 
 Suffering is located in the action. It is the friction, error, unintended harm and downstream wreckage generated when an actor acts inside an incomplete information state. It is never located in whoever it lands on. Pain lands. Suffering is done.
+
+The lack of understanding is on specific bodies rather than global. The actor who sets out to produce chaos understands their motive perfectly well. What they lack is on the Effect body, the consequence of the act, or on the What body, the identity of the problem they are actually solving, which is more often internal than the act suggests. Suffering is done where the understanding held falls short of the understanding the act requires, on whichever body that shortfall sits, and 4.3 gives the reading of which body it is.
 
 ### 9.2 Defending the Definition
 
@@ -543,7 +563,7 @@ A mistake is an objective error located inside a single completed state.
 
 When Le Verrier proposed Vulcan he made an empirical mistake in the What. His model did not match the universe. Identifying that requires no alternate reality and no counterfactual. It is demonstrated by comparing his prediction against the actual sky.
 
-A mistake is closed, inspectable and informative, and nothing in this paper makes any error less of an error.
+A mistake is closed, inspectable and informative, and nothing in this paper makes any error less of an error. It survives 1.4 because it is checked against the world rather than against a judgment. Vulcan is not there, and that is a fact about the sky, not about the observer's state.
 
 ### 10.2 Regret
 

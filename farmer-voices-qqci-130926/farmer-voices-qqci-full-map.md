@@ -1,10 +1,10 @@
 # Farmer Voices on Wage-Style Payments vs. Preferred Support: Full 7x7x7 Qqci Structural Map
 
 ## What changed from the prior draft
-The first version bracket-tagged quotes with loose [WHO]/[WHAT] labels and called that a summary. That was not what was asked for. This version actually addresses every layer: Q1 to Q7 (7 nodes), Q1q1 to Q7q7 (49 nodes), and Q1q1c1 to Q7q7c7 (343 nodes), using the real sourced quotes from the research pass, placed at the specific address each one best answers.
+Revision 1 bracket-tagged quotes with loose [WHO]/[WHAT] labels and called that a summary, that was not what was asked for. Revision 2 built the real Q/q/c address structure but reused only the quotes already in hand, no new research was done, that was also not enough. This revision (3) ran a second, targeted research pass aimed specifically at the addresses that were still empty (Q1q2, Q1q4, Q2q1, Q3q2, Q4q1, Q4q5, Q4q7, Q6q1), and adds eight newly found, real, sourced quotes and findings, none of which appeared in revisions 1 or 2. q-tier coverage moves from 24/49 to 32/49, c-tier from 30/343 to 38/343.
 
 ## Method and honesty note
-Every quote below is the same real, sourced material from the research pass, no new quotes were invented for this pass. The 7x7x7 address space has 399 total nodes (7 + 49 + 343). Real, attributable farmer testimony on this specific narrow topic does not exist at all 399 addresses, and the no-fabrication rule means empty is left empty rather than filled with invented content. Coverage achieved: 7/7 Q-plane nodes populated, 24/49 q-plane nodes populated, 30/343 c-plane nodes populated. Every node in all three tiers is still explicitly addressed below, either with sourced content or with a stated "no distinct sourced finding."
+Every quote below is real and sourced, either from the first research pass or the follow-up gap-filling pass. The 7x7x7 address space has 399 total nodes (7 + 49 + 343). Real, attributable farmer testimony on this specific narrow topic does not exist at all 399 addresses, and the no-fabrication rule means empty is left empty rather than filled with invented content. Coverage achieved: 7/7 Q-plane nodes populated, 32/49 q-plane nodes populated, 38/343 c-plane nodes populated. Every node in all three tiers is still explicitly addressed below, either with sourced content or with a stated "no distinct sourced finding."
 
 Address reading order follows the 7x7x7-rule-qqci skill: a c-tier address reads as "[c interrogative] of [q interrogative] of [Q interrogative]." Example: Q7q5c6 reads as Cause, of How, of Effect.
 
@@ -19,9 +19,9 @@ Farmer identity and autonomy is the single most repeated theme in the source mat
 | Address | Interrogative | Finding |
 |---|---|---|
 | Q1q1 | Who of Who | Populated, see c-tier below |
-| Q1q2 | What of Who | No distinct sourced finding |
+| Q1q2 | What of Who | Populated, see c-tier below |
 | Q1q3 | Where of Who | No distinct sourced finding |
-| Q1q4 | Why of Who | No distinct sourced finding |
+| Q1q4 | Why of Who | Populated, see c-tier below |
 | Q1q5 | How of Who | No distinct sourced finding |
 | Q1q6 | Cause of Who | No distinct sourced finding |
 | Q1q7 | Effect of Who | Populated, see c-tier below |
@@ -37,6 +37,20 @@ Farmer identity and autonomy is the single most repeated theme in the source mat
 | Q1q1c6 | Cause of Who of Who | No distinct sourced finding |
 | Q1q1c7 | Effect of Who of Who | No distinct sourced finding |
 
+### Q1q2 (What of Who) c-tier [added in gap-filling pass]
+| Address | Interrogative | Finding |
+|---|---|---|
+| Q1q2c1 to c4 | | No distinct sourced finding |
+| Q1q2c5 | How of What of Who | Andrew Christian, irrigator managing 1,000 hectares at Echuca, Victoria, on being offended by the idea of government restricting his right to sell water entitlements: "I'm not necessarily a willing seller today or tomorrow, but if things change I, like many of my peers, want to have the right to transact with the Commonwealth." (ABC News, "Irrigation communities protest at Murray-Darling Basin water buybacks but some still support them," 22 Nov 2023) |
+| Q1q2c6, c7 | | No distinct sourced finding |
+
+### Q1q4 (Why of Who) c-tier [added in gap-filling pass]
+| Address | Interrogative | Finding |
+|---|---|---|
+| Q1q4c1 to c3 | | No distinct sourced finding |
+| Q1q4c4 | Why of Why of Who | Rachael Lenehan, 35, runs cattle and sheep on a 500-acre property, Murringo NSW: "Farmers wouldn't ask for assistance or a handout if they didn't really need it. Sometimes pride gets in the way of common sense. You often see that with farmers, especially from the males, because they like to think they are the providers for the families. I think it takes a lot of courage to come forward and say 'we are in trouble here'." (SBS Voices, "The truth about life on the land: 'Why do farmers need handouts?'", 23 Sep 2019) |
+| Q1q4c5 to c7 | | No distinct sourced finding |
+
 ### Q1q7 (Effect of Who) c-tier
 | Address | Interrogative | Finding |
 |---|---|---|
@@ -51,13 +65,20 @@ This plane covers the range of support farmers say is achievable and worth askin
 
 | Address | Interrogative | Finding |
 |---|---|---|
-| Q2q1 | Who of What | No distinct sourced finding |
+| Q2q1 | Who of What | Populated, see c-tier below |
 | Q2q2 | What of What | Populated, see c-tier below |
 | Q2q3 | Where of What | No distinct sourced finding |
 | Q2q4 | Why of What | Populated, see c-tier below |
 | Q2q5 | How of What | Populated, see c-tier below |
 | Q2q6 | Cause of What | No distinct sourced finding |
 | Q2q7 | Effect of What | No distinct sourced finding |
+
+### Q2q1 (Who of What) c-tier [added in gap-filling pass]
+| Address | Interrogative | Finding |
+|---|---|---|
+| Q2q1c1 to c4 | | No distinct sourced finding |
+| Q2q1c5 | How of Who of What | Zoe Cox, Rural Aid drought counsellor working with farmers from Lithgow to Mudgee to Cowra to Dubbo, NSW, on the alternative to cash assistance: "It may not be in the form of a handout. It could be a funded education plan to help farmers learn modern methods of regenerative farming." Note: Cox is a support worker speaking about farmers, not a farmer herself. (SBS Voices, "The truth about life on the land: 'Why do farmers need handouts?'", 23 Sep 2019) |
+| Q2q1c6, c7 | | No distinct sourced finding |
 
 ### Q2q2 (What of What) c-tier
 | Address | Interrogative | Finding |
@@ -88,10 +109,19 @@ The concrete, physical version of "instead of a wage" is infrastructure: water, 
 
 | Address | Interrogative | Finding |
 |---|---|---|
-| Q3q1 to q4 | | No distinct sourced finding |
+| Q3q1 | | No distinct sourced finding |
+| Q3q2 | What of Where | Populated, see c-tier below |
+| Q3q3, q4 | | No distinct sourced finding |
 | Q3q5 | How of Where | Populated, see c-tier below |
 | Q3q6 | Cause of Where | Populated, see c-tier below |
 | Q3q7 | Effect of Where | No distinct sourced finding |
+
+### Q3q2 (What of Where) c-tier [added in gap-filling pass]
+| Address | Interrogative | Finding |
+|---|---|---|
+| Q3q2c1 | | No distinct sourced finding |
+| Q3q2c2 | What of What of Where | Malcolm Holm, National Farmers' Federation water committee chair, who farms near Blighty in the southern Riverina NSW, on further Murray-Darling water buybacks: "More buybacks and water acquisition in any form are not the answer." He argued government should instead invest in "practical measures such as carp control, repairing river infrastructure and improving fish passage," adding "the focus now must be on environmental, economic and social outcomes, not simply chasing another litre of water." (ABC News, "Government buys back $430m worth of water for Murray-Darling Basin," 18 Jun 2026) |
+| Q3q2c3 to c7 | | No distinct sourced finding |
 
 ### Q3q5 (How of Where) c-tier
 | Address | Interrogative | Finding |
@@ -117,11 +147,18 @@ The cultural and emotional meaning of self-reliance versus dependency.
 
 | Address | Interrogative | Finding |
 |---|---|---|
-| Q4q1 to q3 | | No distinct sourced finding |
+| Q4q1 | Who of Why | Populated, see c-tier below |
+| Q4q2, q3 | | No distinct sourced finding |
 | Q4q4 | Why of Why | Populated, see c-tier below |
-| Q4q5 | | No distinct sourced finding |
+| Q4q5 | How of Why | Populated, see c-tier below |
 | Q4q6 | Cause of Why | Populated, see c-tier below |
-| Q4q7 | | No distinct sourced finding |
+| Q4q7 | Effect of Why | Populated, see c-tier below |
+
+### Q4q1 (Who of Why) c-tier [added in gap-filling pass]
+| Address | Interrogative | Finding |
+|---|---|---|
+| Q4q1c1 | Who of Who of Why | An unnamed grazier, surname Freeth, speaking at the 2019 Bush Summit in Dubbo about his community's needs: communities like his needed "a hand up - not necessarily a handout," adding "come out and visit, spend some money, and talk to us. I think one of the biggest things is just to know and understand and not forget about us." (SBS News, "Farmers hopeful Bush Summit provides better understanding of regional Australia's needs," 18 Jul 2019) |
+| Q4q1c2 to c7 | | No distinct sourced finding |
 
 ### Q4q4 (Why of Why) c-tier
 | Address | Interrogative | Finding |
@@ -130,12 +167,25 @@ The cultural and emotional meaning of self-reliance versus dependency.
 | Q4q4c4 | Why of Why of Why | An unnamed dairy farmer, in a letter read on air by broadcaster Alan Jones and reproduced by the Australian Raw Milk Movement, on selling his entire milking herd: "farmers don't want handouts because they have too much self-esteem; they only want a fair [price]." Attribution caveat: this is quoted second-hand via Jones, the individual farmer is not independently named or verifiable beyond that reproduction. |
 | Q4q4c5 to c7 | | No distinct sourced finding |
 
+### Q4q5 (How of Why) c-tier [added in gap-filling pass]
+| Address | Interrogative | Finding |
+|---|---|---|
+| Q4q5c1 to c4 | | No distinct sourced finding |
+| Q4q5c5 | How of How of Why | The Australian Rural Mental Health Study found that "many people do not seek financial assistance because of the perceived stigma associated with support and their qualities of resilience and stoicism." (Medical Journal of Australia, "Drought-related stress among farmers," 2018) David Jochinke, NFF Vice President, said survey data "highlights a sense of shame and stigma that's still felt by many farmers" around admitting difficulty. (NFF, "Farmers in crisis: Depression and anxiety rife among Aussie farmers," 29 Mar 2023) Both a documented finding and an organisational leader's comment, not verbatim individual-farmer quotes. |
+| Q4q5c6, c7 | | No distinct sourced finding |
+
 ### Q4q6 (Cause of Why) c-tier
 | Address | Interrogative | Finding |
 |---|---|---|
 | Q4q6c1 | | No distinct sourced finding |
 | Q4q6c2 | What of Cause of Why | Federated Farmers of New Zealand, "Life After Subsidies" retrospective: the 1984 reforms "thoroughly debunked the myth that the farming sector cannot prosper without government subsidies." (cited in Washington Examiner op-ed by Rep. Tom McClintock) |
 | Q4q6c3 to c7 | | No distinct sourced finding |
+
+### Q4q7 (Effect of Why) c-tier [added in gap-filling pass]
+| Address | Interrogative | Finding |
+|---|---|---|
+| Q4q7c1 to c6 | | No distinct sourced finding |
+| Q4q7c7 | Effect of Effect of Why | Rachael Lenehan, Murringo NSW, on what asking for help would mean to her: "If I ever reached a point where I had to ask for assistance to keep the farm going, it would shatter my heart. I would feel like a failure. As a farmer I feel like Mother Nature owns us. At the end of the day, if she doesn't rain I'm helpless to her." (SBS Voices, 23 Sep 2019) |
 
 ---
 
@@ -198,13 +248,20 @@ The specific past policy episodes farmers and leaders cite as proof that price-f
 
 | Address | Interrogative | Finding |
 |---|---|---|
-| Q6q1 | | No distinct sourced finding |
+| Q6q1 | Who of Cause | Populated, see c-tier below |
 | Q6q2 | What of Cause | Populated, see c-tier below |
 | Q6q3 | | No distinct sourced finding |
 | Q6q4 | Why of Cause | Populated, see c-tier below |
 | Q6q5 | | No distinct sourced finding |
 | Q6q6 | Cause of Cause | Populated, see c-tier below |
 | Q6q7 | Effect of Cause | Populated, see c-tier below |
+
+### Q6q1 (Who of Cause) c-tier [added in gap-filling pass]
+| Address | Interrogative | Finding |
+|---|---|---|
+| Q6q1c1 | | No distinct sourced finding |
+| Q6q1c2 | What of Who of Cause | The 2000 deregulation of the Australian dairy industry was requested by the industry's own peak body: "The Australian Dairy Industry Council (ADIC), the farmers' chief representative body, approached the federal government with a proposal that would end milk price supports and market regulations," which led to the Dairy Structural Adjustment Program funded by an 11 cent per litre retail levy. Not a verbatim quote, a documented historical fact. (The Milk House, "A Look Back at Australian Deregulation"; ANAO, "The Commonwealth's Administration of the Dairy Industry Adjustment Package") |
+| Q6q1c3 to c7 | | No distinct sourced finding |
 
 ### Q6q2 (What of Cause) c-tier
 | Address | Interrogative | Finding |
@@ -295,8 +352,9 @@ The most densely evidenced plane. This is where farmers describe, in their own w
 
 ## Coverage summary
 - Q-tier: 7 of 7 addresses populated.
-- q-tier: 24 of 49 addresses populated (Q1: 2/7, Q2: 3/7, Q3: 2/7, Q4: 2/7, Q5: 5/7, Q6: 4/7, Q7: 6/7).
-- c-tier: 30 of 343 addresses populated, all under a populated q-address.
+- q-tier: 32 of 49 addresses populated (Q1: 4/7, Q2: 4/7, Q3: 3/7, Q4: 5/7, Q5: 5/7, Q6: 5/7, Q7: 6/7). Up from 24/49 before the gap-filling pass.
+- c-tier: 38 of 343 addresses populated, all under a populated q-address. Up from 30/343 before the gap-filling pass.
+- Newly populated in this pass: Q1q2, Q1q4, Q2q1, Q3q2, Q4q1, Q4q5, Q4q7, Q6q1, all from quotes and findings not present in either prior revision.
 
 ## Source list
 1. ABC News, "Farmers wanting to take care of themselves but needing Government help to make it happen," 22 Sep 2019, https://www.abc.net.au/news/2019-09-22/quarter-of-australian-farmers-eligible-for-government-welfare/11531950
@@ -317,9 +375,18 @@ The most densely evidenced plane. This is where farmers describe, in their own w
 16. Productivity Commission, Government Drought Support, Inquiry Report No. 46, May 2009 (Cooper, Schmidt, Clark, Mann submissions)
 17. ABC News, 26 Feb 2021, and Farm Online, "Gone bust: how the collapse of reserve price scheme changed Australia's wool industry" (1991 Wool Reserve Price Scheme collapse)
 18. DAFF, drought policy review history (1989 review finding)
+19. SBS Voices, "The truth about life on the land: 'Why do farmers need handouts?'", 23 Sep 2019, https://www.sbs.com.au/voices/article/the-truth-about-life-on-the-land-why-do-farmers-need-handouts/vqf9ze1h2 (Lenehan, Cox quotes)
+20. ABC News, "Irrigation communities protest at Murray-Darling Basin water buybacks but some still support them," 22 Nov 2023, https://www.abc.net.au/news/rural/2023-11-22/water-buybacks-supported-murray-darling-basin-protests/103129774 (Christian quote)
+21. ABC News, "Government buys back $430m worth of water for Murray-Darling Basin," 18 Jun 2026, https://www.abc.net.au/news/2026-06-18/federal-government-430m-water-buyback-murray-darling-basin/106813844 (Holm quote)
+22. SBS News, "Farmers hopeful Bush Summit provides better understanding of regional Australia's needs," 18 Jul 2019, https://www.sbs.com.au/news/article/farmers-hopeful-bush-summit-provides-better-understanding-of-regional-australias-needs/akpzssxds (Freeth quote)
+23. Medical Journal of Australia, "Drought-related stress among farmers: findings from the Australian Rural Mental Health Study," 2018; NFF, "Farmers in crisis: Depression and anxiety rife among Aussie farmers," 29 Mar 2023 (Jochinke comment)
+24. The Milk House, "A Look Back at Australian Deregulation"; Australian National Audit Office, "The Commonwealth's Administration of the Dairy Industry Adjustment Package" (dairy deregulation history)
 
 ## Caveats carried over from the research pass
 - Several widely circulated "farmers don't want handouts" lines come from politicians or think tanks, not farmers, and were excluded (e.g. Rep. Angie Craig's "Farmers don't want handouts, they want markets" is a politician's line, not sourced to a farmer).
 - Productivity Commission submitters (Cooper, Schmidt, Clark, Mann) are cited by initial plus surname only in the public inquiry report; full first names are not on the public record.
 - The unnamed dairy farmer quote at Q4q4c4 is second-hand via a broadcaster, not independently verified against a primary transcript.
 - The New Zealand "farmers don't want subsidies" narrative is heavily promoted by free-market advocacy outlets; the Federated Farmers quotes themselves are genuine, but the 1984 reform also included exit grants and transitional welfare support that this framing tends to omit.
+- Zoe Cox (Q2q1c5) is a Rural Aid drought counsellor, not a farmer, she is included because she is describing a specific alternative to cash handouts on farmers' behalf, and is labelled as such.
+- The Bush Summit grazier at Q4q1c1 is identified in the source only by surname, Freeth, no first name is available in the public record.
+- Q4q5c5 and Q6q1c2 are documented findings and paraphrase, not verbatim individual-farmer quotations, and are labelled as such in the entries themselves.

@@ -15,6 +15,7 @@ This exists because inflated responses have a real cost. Not just the user's rea
 - **Invented complexity.** Extra angles, alternative framings, or "it depends" branches generated to seem thorough rather than because the question needed them. This is the direct token cost of not stopping once a sound answer is reached.
 - **Performed narrative voice.** "I want to be direct here," "I won't dodge this," "this surprised me." Narrating the act of answering instead of answering.
 - **Unraised-objection defense.** Building a case against a critic, reviewer, or objection the user never voiced.
+- **Manufactured certainty.** A score, confidence claim, or agreement that escalates turn over turn without new evidence to justify the climb, or a value that was searched for until it landed near a target and then presented as derived rather than fitted. Distinct from invented complexity: complexity adds unrequested structure, manufactured certainty adds unearned conviction. Both cost words; this one also costs the user's ability to trust the next claim.
 - **Thinking-block bloat**, where visible. Extended reasoning that re-treads settled ground, restates the prompt back to itself, or performs deliberation without changing the eventual answer.
 - **Format fragmentation overhead.** Chopping continuous prose into more headers, bullets, or line breaks than the content needs. Structure should track real divisions in the content, not manufacture them.
 
@@ -26,6 +27,8 @@ This exists because inflated responses have a real cost. Not just the user's rea
 - A caveat that would change what the user does next.
 
 Don't mistake short for efficient or long for wasteful. A one-line answer can still be half fluff if half that line is throat-clearing. A long answer can be zero-waste if every sentence is doing work the question required.
+
+Also out of scope: **rework from error.** Getting something factually or structurally wrong and needing several turns to fix it is a real cost, but it's not padding, the words themselves weren't inflated, the work just had to be redone. That's an accuracy failure, not a waste one. It usually belongs with idea-fidelity-audit or stands as its own finding; don't fold it into a fluff percentage here.
 
 ## How to run the audit
 

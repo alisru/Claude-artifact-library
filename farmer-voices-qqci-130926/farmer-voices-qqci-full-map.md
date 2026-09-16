@@ -12,15 +12,15 @@ The 7 planes: 1 Who (Metaphysical), 2 What (Possible), 3 Where (Physical), 4 Why
 
 The problem at this plane is who holds decision power over farming: who sets the price, who writes the rules, who will still be farming in twenty years.
 
-| Address | Interrogative | Status |
+| Address | Interrogative | Answer |
 |---|---|---|
-| Q1q1 | Who of Who | Populated |
-| Q1q2 | What of Who | No distinct sourced finding |
-| Q1q3 | Where of Who | No distinct sourced finding |
-| Q1q4 | Why of Who | Populated |
-| Q1q5 | How of Who | Populated |
-| Q1q6 | Cause of Who | No distinct sourced finding |
-| Q1q7 | Effect of Who | Populated |
+| Q1q1 | Who of Who | Supermarkets and processors hold the deciding will. Two retailers set terms and individual growers negotiate against them alone. |
+| Q1q2 | What of Who | What power farmers hold is collective, not individual. It sits in commodity bodies (ADIC, NFF commodity councils, state farming organisations), which is why price fights are fought at body level rather than farm level. |
+| Q1q3 | Where of Who | Decision power sits at the point of sale, the supermarket contract and the processor's opening price announcement, not on the farm. |
+| Q1q4 | Why of Who | Farmers argue they should hold more of it on stewardship grounds: they manage more than half of Australia's environment and bear the cost of rules written elsewhere. |
+| Q1q5 | How of Who | It is exercised through contract design: weekly rather than long-term buying, unilateral price setting, and terms weighted to the buyer. |
+| Q1q6 | Cause of Who | Concentration. Australian grocery retail is among the most concentrated in the world, which converts an ordinary buyer into a price-setter. |
+| Q1q7 | Effect of Who | Who farms next is decided by land price rather than capability. Young entrants cannot buy in and the farming population ages. |
 
 ### Q1q1 (Who of Who) c-tier
 | Address | Finding |
@@ -56,15 +56,15 @@ The problem at this plane is who holds decision power over farming: who sets the
 
 The problem at this plane is which markets and which risk products are actually available to a farmer.
 
-| Address | Interrogative | Status |
+| Address | Interrogative | Answer |
 |---|---|---|
-| Q2q1 | Who of What | No distinct sourced finding |
-| Q2q2 | What of What | Populated |
-| Q2q3 | Where of What | No distinct sourced finding |
-| Q2q4 | Why of What | No distinct sourced finding |
-| Q2q5 | How of What | Populated |
-| Q2q6 | Cause of What | No distinct sourced finding |
-| Q2q7 | Effect of What | Populated |
+| Q2q1 | Who of What | What is possible for a farmer is largely set by parties outside farming: foreign governments imposing tariffs, domestic legislators closing trades, insurers declining to write products. |
+| Q2q2 | What of What | The live question is which markets are open. China's barley market closed in 2020 and reopened in 2023; growers responded by widening the rotation rather than waiting. |
+| Q2q3 | Where of What | Export demand is geographically concentrated, so a single country's policy decision can remove a market outright. That concentration is the vulnerability. |
+| Q2q4 | Why of What | Diversification is pursued because single-market dependence proved catastrophic once, not as general prudence. |
+| Q2q5 | How of What | The instrument that should make volatility survivable, multi-peril crop insurance, is not viably available in Australia. Parametric and index products are the emerging partial answer. |
+| Q2q6 | Cause of What | Political decisions, not market ones, closed the two biggest recent doors: the 2020 barley tariff and the legislated 2028 live sheep export phase-out. |
+| Q2q7 | Effect of What | Precedent fear. Producers across unrelated commodities defend a trade they do not use, because the mechanism that closed it could close theirs. |
 
 ### Q2q2 (What of What) c-tier
 | Address | Finding |
@@ -92,15 +92,15 @@ The problem at this plane is which markets and which risk products are actually 
 
 The problem at this plane is physical: what it costs to move things, what comes out of the ground, and whether there is water.
 
-| Address | Interrogative | Status |
+| Address | Interrogative | Answer |
 |---|---|---|
-| Q3q1 | Who of Where | No distinct sourced finding |
-| Q3q2 | What of Where | Populated |
-| Q3q3 | Where of Where | Populated |
-| Q3q4 | Why of Where | No distinct sourced finding |
-| Q3q5 | How of Where | Populated |
-| Q3q6 | Cause of Where | No distinct sourced finding |
-| Q3q7 | Effect of Where | Populated |
+| Q3q1 | Who of Where | The farmer carries the physical cost personally. Nobody else carts the water, buys the urea, or pays to move the grain. |
+| Q3q2 | What of Where | Fuel, fertiliser, fodder and freight, roughly 27 per cent of total cash costs across all Australian farms, with fertiliser the single largest at 13 per cent. |
+| Q3q3 | Where of Where | Water is the binding physical constraint, and it is contested twice over: against drought, and between irrigators who disagree about buybacks. |
+| Q3q4 | Why of Where | Distance is the structural Australian condition. Production sits far from port, processing and population, so physical cost is unavoidable rather than mismanaged. |
+| Q3q5 | How of Where | Freight is the mechanism that converts distance into cost, at roughly $2.1 billion a year for grain alone, the single largest cost of production. |
+| Q3q6 | Cause of Where | Ageing regional road and bridge infrastructure, much of it load-limited by councils, forces inefficient vehicle configurations and longer routes. |
+| Q3q7 | Effect of Where | Global shocks transmit directly to the farm gate within days. A Middle East conflict shows up as a doubled fuel bill in a single season. |
 
 ### Q3q2 (What of Where) c-tier
 | Address | Finding |
@@ -140,15 +140,15 @@ The problem at this plane is physical: what it costs to move things, what comes 
 
 The problem at this plane is being acted upon without being consulted, and what farming is understood to be for.
 
-| Address | Interrogative | Status |
+| Address | Interrogative | Answer |
 |---|---|---|
-| Q4q1 | Who of Why | Populated |
-| Q4q2 | What of Why | No distinct sourced finding |
-| Q4q3 | Where of Why | No distinct sourced finding |
-| Q4q4 | Why of Why | Populated |
-| Q4q5 | How of Why | Populated |
-| Q4q6 | Cause of Why | No distinct sourced finding |
-| Q4q7 | Effect of Why | Populated |
+| Q4q1 | Who of Why | The grievance is about who was in the room. Farmers say decisions affecting them were made without them being spoken to at all. |
+| Q4q2 | What of Why | Farmers frame what is at stake as national rather than sectoral: food security, not farm income. That framing is the claim to standing. |
+| Q4q3 | Where of Why | "The bush" is invoked as a place with its own standing, distinct from and overruled by metropolitan decision-making. |
+| Q4q4 | Why of Why | The deeper claim is that a workforce or a trade being essential to feeding the country should outweigh the political convenience of removing it. |
+| Q4q5 | How of Why | The complaint is procedural as much as substantive: rules described as complex, uncertain and counterintuitive, written without agriculture at the table. |
+| Q4q6 | Cause of Why | Environmental and animal-welfare politics are decided by an urban electorate whose votes do not carry the cost of the decision. |
+| Q4q7 | Effect of Why | Communities describe themselves as sold out and gutted. The damage registered is to standing and trust, not only to revenue. |
 
 ### Q4q1 (Who of Why) c-tier
 | Address | Finding |
@@ -182,15 +182,15 @@ The problem at this plane is being acted upon without being consulted, and what 
 
 This is the densest plane for farmer-originated solutions: the specific instruments farmers and their bodies have designed or demanded.
 
-| Address | Interrogative | Status |
+| Address | Interrogative | Answer |
 |---|---|---|
-| Q5q1 | Who of How | Populated |
-| Q5q2 | What of How | Populated |
-| Q5q3 | Where of How | No distinct sourced finding |
-| Q5q4 | Why of How | Populated |
-| Q5q5 | How of How | Populated |
-| Q5q6 | Cause of How | No distinct sourced finding |
-| Q5q7 | Effect of How | Populated |
+| Q5q1 | Who of How | Existing landholders are themselves the mechanism for generational entry. Share-farming lets a young farmer start without first buying land. |
+| Q5q2 | What of How | Tax and finance instruments: stamp duty exemption for first-time farm buyers, and improvements to AgriStarter and Farm Investment Loan programs. |
+| Q5q3 | Where of How | On-farm storage is the physical mechanism farmers ask for, water and grain both, so a bad season is buffered rather than survived. |
+| Q5q4 | Why of How | Schemes fail when designed for the wrong sector. A labour scheme built for horticulture does not staff broadacre machinery, and farmers say they said so repeatedly. |
+| Q5q5 | How of How | The mechanism that worked is a mandatory code of conduct with real penalties, covering good faith, contract timelines, collective bargaining protection and dispute resolution. |
+| Q5q6 | Cause of How | Mandatory codes exist because voluntary ones failed first. A code without penalties leaves the regulator unable to act. |
+| Q5q7 | Effect of How | Where farmers do want money involved, they ask for it as interest rate relief on repayable debt rather than as payment, so the obligation stays with them. |
 
 ### Q5q1 (Who of How) c-tier
 | Address | Finding |
@@ -236,15 +236,15 @@ This is the densest plane for farmer-originated solutions: the specific instrume
 
 The problem at this plane is what specific past decisions produced the current conditions.
 
-| Address | Interrogative | Status |
+| Address | Interrogative | Answer |
 |---|---|---|
-| Q6q1 | Who of Cause | No distinct sourced finding |
-| Q6q2 | What of Cause | Populated |
-| Q6q3 | Where of Cause | No distinct sourced finding |
-| Q6q4 | Why of Cause | No distinct sourced finding |
-| Q6q5 | How of Cause | Populated |
-| Q6q6 | Cause of Cause | Populated |
-| Q6q7 | Effect of Cause | No distinct sourced finding |
+| Q6q1 | Who of Cause | The causes farmers name are decisions made by governments and retailers. Very little of the current condition is attributed by farmers to farming itself. |
+| Q6q2 | What of Cause | A single tariff decision: 80.5 per cent on Australian barley from May 2020, lifted August 2023, costing roughly $50 a tonne while it ran. |
+| Q6q3 | Where of Cause | The exposure was built by letting one country become the dominant buyer for a commodity. Concentration on the demand side created the vulnerability. |
+| Q6q4 | Why of Cause | The barley tariff was a geopolitical instrument, not an agricultural one. Farmers absorbed the cost of a dispute that was not about them. |
+| Q6q5 | How of Cause | Damage arrives incrementally rather than at once. Services are withdrawn one at a time, which farmers describe as death by a thousand cuts. |
+| Q6q6 | Cause of Cause | The $1-per-litre milk era set the underlying condition by devaluing the product on the shelf, and the value never returned up the chain. |
+| Q6q7 | Effect of Cause | Each withdrawal compounds the last, so the cumulative position is worse than any single decision would suggest in isolation. |
 
 ### Q6q2 (What of Cause) c-tier
 | Address | Finding |
@@ -273,15 +273,15 @@ The problem at this plane is what specific past decisions produced the current c
 
 The problem at this plane is what actually happens on the farm as a result: crops abandoned, debt rising, money going out faster than it comes in.
 
-| Address | Interrogative | Status |
+| Address | Interrogative | Answer |
 |---|---|---|
-| Q7q1 | Who of Effect | Populated |
-| Q7q2 | What of Effect | Populated |
-| Q7q3 | Where of Effect | No distinct sourced finding |
-| Q7q4 | Why of Effect | Populated |
-| Q7q5 | How of Effect | Populated |
-| Q7q6 | Cause of Effect | No distinct sourced finding |
-| Q7q7 | Effect of Effect | Populated |
+| Q7q1 | Who of Effect | The individual farm business absorbs it. Family finances are redirected into keeping livestock alive, with nothing left for the business itself. |
+| Q7q2 | What of Effect | Crops are abandoned unharvested and produce is sold below the cost of growing it, while the retail price stays high. |
+| Q7q3 | Where of Effect | The loss lands in the paddock and at the farm gate. The consumer never sees the abandoned crop or the gap between the two prices. |
+| Q7q4 | Why of Effect | Because input costs and interest compound on the farm while the price is set off the farm, the squeeze operates from both ends at once. |
+| Q7q5 | How of Effect | It registers as debt and land value. Sector debt above $145 billion, foreclosures doubled, borrowing rising to cover input prices rather than to invest. |
+| Q7q6 | Cause of Effect | The consequence is downstream of the power and cost problems above, not a separate failure. Nothing at this plane originates here. |
+| Q7q7 | Effect of Effect | The second-order response is self-directed technical change: off-grid solar, robotics, virtual fencing, producing more from the same land and rainfall. |
 
 ### Q7q1 (Who of Effect) c-tier
 | Address | Finding |

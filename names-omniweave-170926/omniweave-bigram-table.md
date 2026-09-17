@@ -484,14 +484,37 @@ Cluster: the lit world. Light, daybreak and the world as one unit, with cloud he
 
 The table is being filled systematically rather than only on demand. Structural classes and current coverage:
 
-- VV, vowel pairs: 13 of 20. Outstanding: EI, EO, EU, IU, UE, UI, UO.
-- VC, vowel then consonant: 41 of 105.
+- VV, vowel pairs: 18 of 20. Outstanding: AU and UE, both searched across three tools in this pass without surfacing a standalone attestation; left pending rather than filled from memory.
+- VC, vowel then consonant: 41 of 105. Next class to be worked.
 - CV, consonant then vowel: 40 of 105.
 - CC, consonant clusters: filled opportunistically as names require them; no fixed target, since most are structural rather than citation-bearing.
 
 Working order: outstanding debts from prior weave runs first, then close whole classes, leaving the low-yield grids (Q, X, W, Y initial) until last. Those are expected to come back sparse or structural, and per the method note in bigram-qqci-sort-BR a mostly empty result is the correct outcome for most units rather than a failure requiring more searching.
 
 Entries are only added once real cross-language citations are in hand. A unit with no attestation is recorded as structural with that stated plainly; it is not filled with plausible-looking glosses.
+
+**EU**
+Ancient Greek eu = well (adverb), and the prefix eu- = good, well, true, genuine [100%] . PIE *h1wesus = good, behind the Greek [100%] . Portuguese eu = first person singular pronoun, I [100%] . Romanian eu = I [100%] . Latin ego behind both Romance forms [100%]
+Cluster: goodness and the first person, and they are unrelated lines that fell together in sound. The Greek descends from PIE *h1wesus (good); the Romance descends from Latin ego (I). Nothing links them etymologically, so EU holds "well" and "I" in the same phoneme by collision rather than by descent. Note it as a collision, not a cluster.
+
+**EI**
+Ancient Greek ei = if/whether, the conditional conjunction, also used with wishes [100%] . German Ei, Dutch ei, Old High German ei, Limburgish ei = egg [100%] . Middle English ei / ey = egg, from Old English aeg [100%] . Norwegian ei = feminine singular indefinite article, archaic ei = not, and the imperative of eie (to own) [100%] . German -ei = suffix forming abstract nouns and territory names (Türkei, Mongolei) [100%]
+Cluster: the contained unrealised. An egg is a sealed not-yet; "if" is a proposition not-yet; the Norwegian indefinite article is the not-yet-specified and the same form is the archaic negation. Three unrelated families put contained potential, the conditional, and the indefinite in one sound. One of the stronger vowel-pair clusters in the table.
+
+**EO**
+Old Irish eo = salmon, from Proto-Celtic *esoxs; cognate Welsh eog [100%] . Old Irish eo = yew, from Proto-Celtic *iwos, from PIE *h1eyHw-; cognate Old English iw/eow [100%] . Old Irish eo = point, sharp end [100%] . Old Irish eo = tomb [100%] . Scottish Gaelic eo = salmon [100%] . Vietnamese eo = waist, the narrow part joining upper and lower body; eo bien = strait [100%] . Latin eo = I go, and thither [100%]
+Two clusters, both genuine. (1) Narrowing and passage: the waist, the strait, the point or sharp end, and the Latin going. EO is the constricted place and the movement through it. (2) The Celtic burial group: yew and tomb in the same form, with the salmon alongside -- the Irish salmon is the one that runs up narrow water, which touches cluster (1) from the other side. Hold both.
+
+**IU**
+Aromanian iu = where, probably from Latin ubi; compare obsolete Romanian iuo and Megleno-Romanian iunde [100%] . Old High German iu = you, dative plural, from Proto-West Germanic *iwwi [100%] . Esperanto iu = someone, somebody, built from the indeterminate correlative prefix i- plus the individual suffix -u [100%] . Marshallese iu, from Proto-Austronesian *qiSu = shark [90%]
+Cluster: weak and flagged. The Aromanian unknown-where and the Esperanto unknown-who are the same correlative shape, but Esperanto is a constructed language and cannot count as an independent attestation of anything. Discounting it leaves one Romance locative, one Germanic pronoun and one Austronesian fish, which do not converge. IU is under-attested; treat any IU reading as thin.
+
+**UI**
+Dutch ui = onion, from a reinterpretation of Middle Dutch uyen as a plural, from Old French oignon, from Latin unio [100%] . Afrikaans ui = onion, from Dutch [100% -- not independent] . Hungarian, Portuguese and Romanian ui = exclamation of surprise, joy, excitement or admiration; also of worry or lament; also of pondering [100%] . Greenlandic ui = husband, from Proto-Inuit *u(v)e, Proto-Eskimo *ugi [100%]
+Cluster: none. The exclamation has the widest spread and is the only entry with any cross-family reach. The onion is one Germanic line borrowed from Latin. The Greenlandic husband is genuinely independent and converges with nothing. Hold the scatter and do not force it.
+
+**UO**
+No standalone attestation found in any language after search. Italian uo appears only inside words such as uovo and uomo, where citing it would be the compression violation the method prohibits; Mandarin -uo is a pinyin rime rather than a word. Structural: a vowel transition between the preceding and following units, like OA and IE. Record as unattested rather than assigning meaning.
 
 ---
 

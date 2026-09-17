@@ -457,6 +457,42 @@ Old English and eastern English dialectal ea = river/watercourse [100%] . Akkadi
 Cluster: running water and the one who dwells beneath it. EA is water in motion, distinct from OE, which is what water bounds.
 Caution: the Ea citation carries "wisdom" in its own gloss. Where EA appears in a name whose orthodox reading is wisdom, this citation cannot be used as convergence evidence -- it would be the answer arriving inside the evidence. Cite it in full, carry it in the layers, and discount it in the convergence.
 
+**AY**
+Turkish, Azerbaijani, Gagauz, Crimean Tatar and Turkmen ay = moon/month, inherited from Proto-Turkic *ay [100%] . Middle English ay = always/ever/continually/eternally, from Old Norse ei, from Proto-Germanic *aiwaz (eternity, age), from PIE *h2eyu- (vitality); cognate with Ancient Greek aei = always and Latin aevum = an age [100%] . Scots ay = yes [100%] . Spanish ay and Turkish ay = cry of pain or surprise [100%] . Tocharian A and B ay = bone [90%] . Somali ay = dog [90%]
+Cluster: recurrence and duration. The Turkic moon-month is the returning body; the Germanic ay is perpetuity, and its PIE root is vitality itself. Two unrelated families put the thing that comes back and the thing that never ends in the same phoneme. The Scots assent and the Iberian pain-cry sit alongside without converging -- hold the scatter.
+Negative finding, recorded because it was tested: AY does not attest anywhere as island, land, water or bounded place. Old English ieg (island), which survives orthographically in the -sey / -say / -ay of Lindsey and Lindsay, is a spelling descent and not a citation for this bigram. Any weave reading AY as island is importing the orthography.
+
+**OI**
+Ancient Greek oi = woe! [100%] . English oi (Australian, British, Irish, New Zealand, South African) = attention-call expressing surprise or disapproval [100%] . Bengali oi = that, of something within sight [100%] . Vietnamese oi (oi) = vocative particle used to call attention to a person [100%] . Portuguese, chiefly Brazilian, oi = hi, and interrogatively excuse me? [100%] . Russian, Ukrainian and Belarusian oy = expression of surprise [100%] . Kazakh oy = surprise [90%]
+Cluster: the vocative cry. OI is the sound aimed at someone else, and the emotional content is unresolved across the range -- grief in Greek, greeting in Portuguese, reprimand in English, surprise in Slavic. The Bengali and Vietnamese entries add the deictic: OI points at the addressee or at the thing in sight. What converges is the direction, not the feeling.
+
+**OU**
+Ancient Greek ou = the negative adverb, the flat factual "not" as distinct from me [100%] . French ou = or, and ou = where [100%] . Hawaiian ou = a bird, the Hawaiian honeycreeper [100%]
+Cluster: thin and genuinely split. Greek gives a bare negation; French gives an alternative and a location question in the same sound. Negation and the where-question sharing a phoneme echoes the AN entry, which holds the same pairing from Greek and Hebrew. Note the echo; do not treat it as settled on three citations.
+
+**UA**
+Hawaiian ua = rain [100%] . Hawaiian ua = the perfective particle marking completed action, as in ua ao, it has become day [100%] . Maori ua = rain [100%]
+Cluster: rain and completion. The same phoneme that names falling water marks in Hawaiian that an action has already finished. Caution: Hawaiian and Maori are both Polynesian, so these are not independent attestations -- the cluster rests on one family plus a grammatical function within it. Treat UA as provisional until a non-Polynesian citation is found.
+
+**AO**
+Hawaiian ao = light, day, dawn, world; also cloud [100%] . Maori ao = world, daytime, dawn, cloud [100%]
+Cluster: the lit world. Light, daybreak and the world as one unit, with cloud held alongside as the thing light passes through. Same caution as UA: both citations are Polynesian and therefore one family, not two. Provisional until attested outside it.
+
+---
+
+## Processing status
+
+The table is being filled systematically rather than only on demand. Structural classes and current coverage:
+
+- VV, vowel pairs: 13 of 20. Outstanding: EI, EO, EU, IU, UE, UI, UO.
+- VC, vowel then consonant: 41 of 105.
+- CV, consonant then vowel: 40 of 105.
+- CC, consonant clusters: filled opportunistically as names require them; no fixed target, since most are structural rather than citation-bearing.
+
+Working order: outstanding debts from prior weave runs first, then close whole classes, leaving the low-yield grids (Q, X, W, Y initial) until last. Those are expected to come back sparse or structural, and per the method note in bigram-qqci-sort-BR a mostly empty result is the correct outcome for most units rather than a failure requiring more searching.
+
+Entries are only added once real cross-language citations are in hand. A unit with no attestation is recorded as structural with that stated plainly; it is not filled with plausible-looking glosses.
+
 ---
 
 ## Notes

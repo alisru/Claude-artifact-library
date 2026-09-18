@@ -40,29 +40,29 @@ The orthodox root is a Germanic isolate whose gloss is simply the referent, so t
 FIRE → FI · IR · RE
 
 FI: French fi = interjection of disdain/rejection [100%] · Esperanto fi = fie/shameful [100%] · Jamaican Creole fi = for/to [100%] · Welsh fi = me/I [100%] · Arabic fī (في) = in/at/within [95% -- long vowel]
-IR: Spanish ir = to go [100%] · Portuguese ir = to go [100%] · Latvian ir = is/there-is [100%] · Lithuanian ir = and/also [100%] · Welsh ir = fresh/green/verdant [100%] · Danish ir = verdigris/copper-patina [100%]
+IR: Spanish ir = to go [100%] · Portuguese ir = to go [100%] · Latvian ir = is/there-is [100%] · Lithuanian ir = and/also [100%] · Danish ir = verdigris/copper-patina [100%]
 RE: Latin re- = again/back [100%] · Hebrew re (רֵעַ) = friend/neighbor/another [100%] · musical re = second note of the scale [100%] · Old French re- = again/anew [100%] · Greek rheo = to flow [90%]
 
 **Layer 1**
-FI + IR: the shameful thing rejected, held for and toward the self within, goes and is -- and also, fresh and green, is what verdigris forms upon once it has been exposed
-IR + RE: what goes and is, fresh at one edge and crusted with verdigris at the other, flows again and anew toward the neighbor beside it, the second one after the first
+FI + IR: the shameful thing rejected, held for and toward the self within, goes and is -- and also is what verdigris forms upon once it has been exposed
+IR + RE: what goes and is, crusted with verdigris, flows again and anew toward the neighbor beside it, the second one after the first
 
 **Layer 2**
-(FI+IR) + (IR+RE): the shameful thing rejected, held for the self within, that goes and is -- fresh and green at one edge, crusted with what it has already touched at the other -- flows again toward whatever stands beside it, the second one, and repeats from there
+(FI+IR) + (IR+RE): the shameful thing rejected, held for the self within, that goes and is, crusted with what it has already touched -- flows again toward whatever stands beside it, the second one, and repeats from there
 
 **Layer 3**
-What is rejected from within goes and is, fresh at its leading edge and crusted at the trailing one, flowing again toward whatever stands beside it as the next one
+What is rejected from within goes and is, crusted with the residue of its own passage, flowing again toward whatever stands beside it as the next one
 
 **Layer 4**
-What is held within -- disdained, cast toward the self and then away from it -- becomes a going-that-is: fresh and green at its leading edge, crusted with what it has already touched behind it, and it does not stop there but flows again, arriving at the neighbor, the second one, and repeating the whole motion from that new position. A structure whose entire existence is this repeated arriving-at-the-next, leaving its own residue at every point it has already reached.
+What is held within -- disdained, cast toward the self and then away from it -- becomes a going-that-is, crusted with what it has already touched, and it does not stop there but flows again, arriving at the neighbor, the second one, and repeating the whole motion from that new position. A structure whose entire existence is this repeated arriving-at-the-next, leaving its own residue at every point it has already reached and picking up nothing else along the way.
 
 **Orthodox**
 Old English fyr, from Proto-Germanic *fūr-, from PIE root *paewr- = fire. PIE had two roots for fire: *paewr-, the inanimate root naming fire as a substance, and *egni- (source of Latin ignis, Sanskrit agni), the animate root naming it as a living force.
 
 **Convergence**
-Stronger than expected once every citation is carried through. The Hebrew re (neighbour, the one beside) turns the terminal into a movement toward what is adjacent, and adjacency-plus-repetition is the propagation behaviour of the referent specifically, not a generic property of moving things -- a river does not arrive at its neighbour and start again there. The Danish ir (verdigris, the crust that forms on what has been exposed) is the residue left behind; the Welsh ir (fresh/green) is the leading edge. Those two citations sitting inside the same bigram give both ends of the same event, and the Jamaican Creole fi (for/to) and Latvian/Lithuanian ir (is/and) both land on the same directional continuity: motion that is, going for and toward what comes next.
+The Hebrew re (neighbour, the one beside) turns the terminal into a movement toward what is adjacent, and adjacency-plus-repetition is the propagation behaviour of the referent specifically, not a generic property of moving things -- a river does not arrive at its neighbour and start again there. The Danish ir (verdigris, the crust that forms on what has been exposed) is the residue left at every point already reached, which matches what a referent that propagates by consuming its own path leaves behind it. The Jamaican Creole fi (for/to) and Latvian/Lithuanian ir (is/and) both land on the same directional continuity: motion that is, going for and toward what comes next.
 
-Divergent on substance: no bigram produces heat, light, or consuming, and that absence is held rather than repaired. What the cascade does produce -- a motion that must keep reaching the adjacent thing to continue -- is a process description matching the fact that the English word descends from the inanimate substance-process root (*paewr-) rather than the animate agent root (*egni-) PIE kept alongside it. The weave lands in the correct half of a split the language itself made.
+Divergent on substance: no bigram produces heat, light, or consuming, and that absence is held rather than repaired. What the cascade does produce -- a motion that must keep reaching the adjacent thing to continue, leaving residue behind rather than a leading edge ahead of it -- is a process description matching the fact that the English word descends from the inanimate substance-process root (*paewr-) rather than the animate agent root (*egni-) PIE kept alongside it. The weave lands in the correct half of a split the language itself made.
 
 ---
 
@@ -170,8 +170,8 @@ French fi = interjection of disdain/rejection [100%] · Esperanto fi = fie/shame
 Two non-converging clusters: (1) the rejecting breath (Romance/Esperanto); (2) containment and self-direction (Arabic within, Welsh me, Creole for). Hold both.
 
 **IR**
-Spanish ir = to go [100%] · Portuguese ir = to go [100%] · Latvian ir = is/there-is [100%] · Lithuanian ir = and/also [100%] · Welsh ir = fresh/green/verdant [100%] · Danish ir = verdigris/copper-patina [100%]
-Cluster: going and being in the same phoneme, with freshness and its residue at either end. The motion that is, the green edge and the crust it leaves.
+Spanish ir = to go [100%] · Portuguese ir = to go [100%] · Latvian ir = is/there-is [100%] · Lithuanian ir = and/also [100%] · Danish ir = verdigris/copper-patina [100%]
+Cluster: going and being in the same phoneme, with the crust that forms on what has been exposed as its residue.
 
 **LA**
 French la = the (feminine definite) [100%] · Spanish la = the/her [100%] · Italian la = the/her [100%] · Arabic lā (لا) = no/not [95% -- long vowel] · Portuguese lá = there [100%] · Chinese lā (拉) = to pull/draw [100%] · Norwegian la = to let [100%] · solfège la = sixth note of the scale [100%]

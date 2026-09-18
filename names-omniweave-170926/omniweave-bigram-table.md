@@ -72,8 +72,11 @@ Greek an- = without/not (alpha-privative variant) [100%] · Sanskrit an- = not/w
 Cluster: negation and direction-questioning in the same phoneme. Up/on and not/without.
 
 **AO**
-Hawaiian ao = light, day, dawn, world; also cloud [100%] . Maori ao = world, daytime, dawn, cloud [100%]
-Cluster: the lit world. Light, daybreak and the world as one unit, with cloud held alongside as the thing light passes through. Same caution as UA: both citations are Polynesian and therefore one family, not two. Provisional until attested outside it.
+Japanese ao (青) = the undivided blue-green band; historically the only term covering that range before midori entered for plant-green, and still the word used for a green traffic light [100%] . Vietnamese ao = pond [100%] . Vietnamese áo = bay, inlet, a non-Sino-Vietnamese reading of Chinese 澳; compare Thai aao and Khmer aav [100%] . Vietnamese áo = upper garment, shirt, from Proto-Bahnaric *ʔa:w, from Proto-Mon-Khmer *ʔaawʔ (upper garment); cognates Khmer aau, Muong ảo [100%] . Hawaiian ao = light, day, dawn, world; also cloud [100%] . Maori ao = world, daytime, dawn, cloud [100%]
+Two clusters.
+(1) The blue-green water band: the Japanese colour term for the range that covers sky and water without dividing them, beside the Vietnamese pond, the Vietnamese and Thai bay or inlet. The colour and the water-body occupy the same sound across two unrelated families.
+(2) Polynesian light, day, dawn, world and cloud. This touches (1) at the dawn sky, which is the ao colour, but the families are unrelated and the contact should be noted rather than asserted.
+The Mon-Khmer upper garment is a third line converging with neither. Hold it separately.
 
 **AP**
 Welsh ap = son, from Old Welsh map, Welsh mab; the patronymic particle in Welsh names [100%] . PIE *ap- = water, behind Persian ab (water) and related forms [100%] . PIE *apo- = away, off [100%] . Greek ap = without, as in ap ommaton, without eyes [100%]
@@ -412,8 +415,8 @@ Welsh oe (in oer = cold) from PIE *h3ewg- [90%] · Welsh oes = age/lifespan/peri
 Cluster: water, coldness, bounded natural space (island), bounded time (lifespan), descent. OE marks what is bounded by water or time, the threshold between states.
 
 **OI**
-Ancient Greek oi = woe! [100%] . English oi (Australian, British, Irish, New Zealand, South African) = attention-call expressing surprise or disapproval [100%] . Bengali oi = that, of something within sight [100%] . Vietnamese oi (oi) = vocative particle used to call attention to a person [100%] . Portuguese, chiefly Brazilian, oi = hi, and interrogatively excuse me? [100%] . Russian, Ukrainian and Belarusian oy = expression of surprise [100%] . Kazakh oy = surprise [90%]
-Cluster: the vocative cry. OI is the sound aimed at someone else, and the emotional content is unresolved across the range -- grief in Greek, greeting in Portuguese, reprimand in English, surprise in Slavic. The Bengali and Vietnamese entries add the deictic: OI points at the addressee or at the thing in sight. What converges is the direction, not the feeling.
+Ancient Greek oi = woe! [100%] . Latin oiei = a cry of pain [100%] . English oi (Australian, British, Irish, Indian, New Zealand, South African) = attention-call expressing surprise or disapproval [100%] . Japanese oi (おい) = the same attention-call, typically used downward by older men to subordinates, with an elongated ōi when the addressee is at a distance [100%] . Portuguese, chiefly Brazilian, oi = hi, and interrogatively excuse me? [100%] . Bengali oi = that, of something within sight [100%] . Vietnamese oi (ơi) = the vocative particle used to call attention to a person [100%] . Russian, Ukrainian and Belarusian oy = expression of surprise [100%] . Maori oi = the grey-faced petrel [100%]
+Cluster: the vocative cry, attested across at least six unrelated families. OI is the sound aimed at someone else, and the emotional content does not converge -- grief in Greek and Latin, reprimand in English and Japanese, greeting in Portuguese, surprise in Slavic. The Bengali and Vietnamese entries add the deictic: OI points at the addressee or at the thing in sight, and the Japanese usage carries a direction of status as well as of attention. What converges is the aiming, not the feeling.
 
 **OL**
 Hebrew ol (עוֹל) = yoke/burden/oppression [100%] · Turkish ol = be/become (imperative) [100%] · Old Norse öl = ale/fermented drink [100%] · Latin olere = to smell/to emanate [100%]
@@ -506,8 +509,11 @@ Cluster: lifting, crossing, and vital substance. TI is the point of transition -
 Structural: consonant cluster, voiceless stop released into the rhotic. No standalone cross-language citation found. The halt that rolls out -- a stop whose release is the point of it.
 
 **UA**
-Hawaiian ua = rain [100%] . Hawaiian ua = the perfective particle marking completed action, as in ua ao, it has become day [100%] . Maori ua = rain [100%]
-Cluster: rain and completion. The same phoneme that names falling water marks in Hawaiian that an action has already finished. Caution: Hawaiian and Maori are both Polynesian, so these are not independent attestations -- the cluster rests on one family plus a grammatical function within it. Treat UA as provisional until a non-Polynesian citation is found.
+Old Irish úa (also aue) = grandson, grandchild, descendant; Middle Irish úa; Irish ó / ua; Manx oe; Scottish Gaelic ogha; borrowed into Scots as oe [100%] . Irish Ó / Ua = the patronymic prefix, descendant of, plural Uí; the element behind the O' of Irish surnames [100%] . Old Irish úa = from, out of, from Proto-Celtic *aw (away), from PIE *h2ew (away, down) [100%] . Hawaiian ua = rain [100%] . Maori ua = rain [100%] . Hawaiian ua = the perfective particle marking completed action, as in ua ao, it has become day [100%] . Fijian, Samoan, Tongan and Tahitian ua = vein, sinew, artery, from Proto-Oceanic *uRat, from Proto-Austronesian *huRaC [100%]
+Two clusters, both strong.
+(1) Celtic: descent and departure in one unit. The same úa gives grandson and gives from/away, and the PIE root behind the second is *h2ew, away. This is the third unit in the table to hold descent and away-ness together -- compare AB (Latin ab, away-from, beside Semitic ab, father) and AP (Welsh ap, son, beside PIE *apo-, away). Three unrelated units putting the line you came out of and the movement out of it in the same phoneme is a pattern worth tracking, not a coincidence of three spellings.
+(2) Austronesian: falling water and the completed act, plus the vein. Rain in Hawaiian and Maori, the perfective particle in Hawaiian, and a separate Oceanic root giving vein, sinew and artery. The rain and the vein are different roots that fell together; note the split rather than blending them.
+Where UA appears in a name of Celtic origin, cluster (1) governs. Elsewhere hold both.
 
 **UD**
 PIE *ud = up/out [100%] · Sanskrit ud = upward/rising [100%] · Old English ūt = out [95% -- ū vs u minimal] · Gothic ut = out [100%] · Swedish ut = out [100%]
@@ -563,6 +569,8 @@ The table is being filled systematically rather than only on demand. Structural 
 Working order: outstanding debts from prior weave runs first, then close whole classes, leaving the low-yield grids (Q, X, W, Y initial) until last. Those are expected to come back sparse or structural, and per the method note in bigram-qqci-sort-BR a mostly empty result is the correct outcome for most units rather than a failure requiring more searching.
 
 Entries are only added once real cross-language citations are in hand. A unit with no attestation is recorded as structural with that stated plainly; it is not filled with plausible-looking glosses.
+
+Known-thin entries awaiting a depth pass. These were written from too few citations and flagged provisional at the time rather than searched properly. UA, AO and OI have since been redone and are no longer on this list. Still outstanding: AG, BI, BU, CI, CU, IU, OU, UI. Each of these was recorded with one family or one etymon and should be re-searched to the same depth as the rest of the table before being relied on in a weave run.
 
 ---
 

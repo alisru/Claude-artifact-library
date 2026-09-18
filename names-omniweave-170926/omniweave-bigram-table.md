@@ -485,8 +485,9 @@ Cluster: the lit world. Light, daybreak and the world as one unit, with cloud he
 The table is being filled systematically rather than only on demand. Structural classes and current coverage:
 
 - VV, vowel pairs: 18 of 20. Outstanding: AU and UE, both searched across three tools in this pass without surfacing a standalone attestation; left pending rather than filled from memory.
-- VC, vowel then consonant: 41 of 105. Next class to be worked.
-- CV, consonant then vowel: 40 of 105.
+- VC, vowel then consonant: 46 of 105. Working sequentially from AA. A-initial done except AJ, AU and AW, which were searched without surfacing a sourced standalone form and are left pending rather than filled from memory.
+- CV, consonant then vowel: 44 of 105. B-initial and C-initial done except CA, pending.
+- Doubles: AA, BB, CC added alongside the existing DD, LL, NN, RR, SS. EE, II, OO, UU and the remaining consonant doubles outstanding.
 - CC, consonant clusters: filled opportunistically as names require them; no fixed target, since most are structural rather than citation-bearing.
 
 Working order: outstanding debts from prior weave runs first, then close whole classes, leaving the low-yield grids (Q, X, W, Y initial) until last. Those are expected to come back sparse or structural, and per the method note in bigram-qqci-sort-BR a mostly empty result is the correct outcome for most units rather than a failure requiring more searching.
@@ -515,6 +516,55 @@ Cluster: none. The exclamation has the widest spread and is the only entry with 
 
 **UO**
 No standalone attestation found in any language after search. Italian uo appears only inside words such as uovo and uomo, where citing it would be the compression violation the method prohibits; Mandarin -uo is a pinyin rime rather than a word. Structural: a vowel transition between the preceding and following units, like OA and IE. Record as unattested rather than assigning meaning.
+
+**AA**
+Low Franconian and Dutch Aa = river, running water; a widespread hydronym, from Proto-Germanic *ahwo (running water), from PIE *h2ekweh2 (moving water); cognate with Old High German aha, Old Norse a, Gothic ahwa, all meaning river [100%]
+Structural: also the doubled vowel, which in most orthographies marks length rather than a separate unit (Dutch aa, Finnish aa, Estonian aa).
+Cluster: running water, and lengthening. Where AA appears in a name of Germanic or Low Countries origin the river reading is live; elsewhere treat it as the held vowel.
+
+**AF**
+Hebrew af = nose, and by the standing Hebraism, anger; the idiom charon af, the burning of the nose, is the ordinary biblical phrase for wrath [100%] . Hebrew af also = also, even, indeed [90%]
+Cluster: the nose as the seat of anger. AF is the breathing part of the face doing double duty as the emotion that flares through it. The additive sense (also, even) sits alongside without converging -- hold it separately.
+
+**AG**
+Irish ag = at; the preposition that also forms the progressive, and that combines with pronouns (ag + me becomes agam, at-me, which is how Irish says "have") [100%] . PIE *ag- = to drive, to lead, to act [90% -- reconstructed root, no standalone attestation]
+Cluster: position and driving. The Irish ag marks where something is and, in the progressive, that it is under way. Thin on citations; treat as provisional.
+
+**AP**
+Welsh ap = son, from Old Welsh map, Welsh mab; the patronymic particle in Welsh names [100%] . PIE *ap- = water, behind Persian ab (water) and related forms [100%] . PIE *apo- = away, off [100%] . Greek ap = without, as in ap ommaton, without eyes [100%]
+Cluster: descent and water, with away-ness alongside. AP is one of the denser vowel-consonant units: the Welsh patronymic names the line a person comes out of, the PIE root names flowing water, and *apo- names departure. Coming-from is the thread that holds all three; the Greek privative sits apart.
+
+**AZ**
+Old Church Slavonic azu and Bulgarian az = I, from Proto-Slavic *(j)azu, ultimately from PIE *eg'h2om [100%] . Classical Persian az = from, out of [100%] . Proto-Turkic *ar gives Turkish and Azerbaijani az = few, little [100%] . Hungarian az = that, and the definite article before a vowel [100%]
+Cluster: none, and the scatter is worth noting precisely because it is wide. The Slavic first person, the Persian ablative, the Turkic diminisher and the Hungarian demonstrative are four unrelated families with four unrelated senses. AZ carries I, from, few and that. Hold all four; force nothing.
+
+**AQ**
+No standalone attestation found in any language. The sequence occurs almost exclusively as part of qu- and -que in Latin-derived orthography, where citing it would be a compression violation. Structural: record as unattested.
+
+**AX**
+No standalone attestation found. English axe and Old English aex are whole words beginning with the sequence, not attestations of it. Structural: record as unattested.
+
+**BB**
+Structural: orthographic doubling of B. Unlike LL in Welsh and RR in Basque, BB is not a distinct phoneme in any language surveyed -- in English and most Romance orthographies it marks the shortness of the preceding vowel rather than a separate sound. Treat as intensification of the preceding unit, and note that the intensification is weaker than the LL and RR cases because no language phonemically distinguishes it.
+
+**BI**
+Basque bi = two, connected to Proto-Basque *biga [100%] . Proto-Mongolic *bi = I; Mongolian bi, Dongxiang bi [100%] . Hindi bi = seed, from Sanskrit bija, from Proto-Indo-Iranian *biHj'am [100%] . Japanese bi, the kana syllable [structural]
+Cluster: none. Two, I, and seed across three unrelated families with no shared thread. The Latin bi- (two) that an English reader expects is the same sense as the Basque but reaches it independently, which is worth noting without treating it as convergence. Hold the scatter.
+
+**BU**
+Turkish bu = this, from Proto-Turkic *bu; cognate Uyghur bu, Chagatai bu, Uzbek bu [100%] . Vietnamese bu = mother, dialectal and vocative [100%]
+Cluster: the proximal demonstrative, but from one family only. The Turkic attestation is broad within Turkic and absent outside it; the Vietnamese mother converges with nothing. Provisional until a non-Turkic demonstrative turns up.
+
+**CC**
+Structural: orthographic doubling of C. As with BB, not a distinct phoneme anywhere surveyed; in Italian it marks gemination and in English it marks a sound change (accent, succeed) rather than intensity. Treat as weak intensification and prefer to slice around it where a name allows.
+
+**CI**
+Italian ci = us, and there; the enclitic appended to infinitives to form first-person-plural reflexive, accusative and dative [100%] . Turkish -ci, from Ottoman Turkish and Proto-Turkic *-ci = suffix forming nouns of profession, occupation or inclination [100%]
+Cluster: thin. The Italian is a first-person-plural and locative particle; the Turkic is an occupational former. What they share is that both attach rather than stand, which is a grammatical observation rather than a semantic one. Under-attested; treat any CI reading as weak.
+
+**CU**
+Latin cum = with, giving Romanian cu and Asturian cu = with [100%]
+Cluster: with. Single-etymon, Romance only. One Latin preposition surviving into daughter languages is not four independent attestations, so CU is recorded as a single line rather than a cluster.
 
 ---
 

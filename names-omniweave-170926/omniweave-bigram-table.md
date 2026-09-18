@@ -506,7 +506,10 @@ Chinese ti (題/提) = topic/to lift [100%] · Japanese chi/ti = blood/wisdom [1
 Cluster: lifting, crossing, and vital substance. TI is the point of transition -- the topic, the blood, the crossing.
 
 **TR**
-Structural: consonant cluster, voiceless stop released into the rhotic. No standalone cross-language citation found. The halt that rolls out -- a stop whose release is the point of it.
+Egyptian tr = a point or span of time; a particular time; the proper time for something; the time at which something reaches fulfilment, particularly the end of a pregnancy or a death; a season or time of year; the time during which someone is alive, a lifetime; in the dual, day and night; in the plural, the divisions of time [100%] . Egyptian tr = enclitic interrogative particle, marking the phrase as a question, and carrying the sense really?, actually? [100%] . Egyptian tr = alternative form of twr, to respect [100%] . Romanian tr = obsolete interjection, a form of ptru [90%]
+Structural, secondary: the voiceless stop released into the rhotic. Avokaya, Maore Comorian and Mapudungun treat tr as a single letter of their alphabets, which supports reading it as one unit rather than two.
+Cluster: the appointed time. The Egyptian sense is not time in general but time that has come due -- the proper moment, the season, the term that runs out at birth or at death, the lifetime as a bounded span. The interrogative particle sits in the same form, so the unit that names the due moment is also the unit that turns a statement into a question.
+Correction note: this entry previously read "no standalone cross-language citation found." That was wrong and was the result of a keyword search rather than a proper lookup. Any weave run that used the old TR entry needs re-running -- see the Travis entry in binary-weave-names.md.
 
 **UA**
 Old Irish úa (also aue) = grandson, grandchild, descendant; Middle Irish úa; Irish ó / ua; Manx oe; Scottish Gaelic ogha; borrowed into Scots as oe [100%] . Irish Ó / Ua = the patronymic prefix, descendant of, plural Uí; the element behind the O' of Irish surnames [100%] . Old Irish úa = from, out of, from Proto-Celtic *aw (away), from PIE *h2ew (away, down) [100%] . Hawaiian ua = rain [100%] . Maori ua = rain [100%] . Hawaiian ua = the perfective particle marking completed action, as in ua ao, it has become day [100%] . Fijian, Samoan, Tongan and Tahitian ua = vein, sinew, artery, from Proto-Oceanic *uRat, from Proto-Austronesian *huRaC [100%]
@@ -569,6 +572,8 @@ The table is being filled systematically rather than only on demand. Structural 
 Working order: outstanding debts from prior weave runs first, then close whole classes, leaving the low-yield grids (Q, X, W, Y initial) until last. Those are expected to come back sparse or structural, and per the method note in bigram-qqci-sort-BR a mostly empty result is the correct outcome for most units rather than a failure requiring more searching.
 
 Entries are only added once real cross-language citations are in hand. A unit with no attestation is recorded as structural with that stated plainly; it is not filled with plausible-looking glosses.
+
+Method correction. Entries up to this point were written from keyword searches, which return whatever ranks rather than what exists. The correct source is the Wiktionary page for the two-letter string itself, which enumerates every language holding an entry for it. TR was recorded as unattested on the strength of a keyword search and in fact carries a full Egyptian noun, particle and verb. Every entry in this table needs re-checking against its own Wiktionary page; until that pass is complete, treat any entry not marked as re-checked as potentially incomplete.
 
 Known-thin entries awaiting a depth pass. These were written from too few citations and flagged provisional at the time rather than searched properly. UA, AO and OI have since been redone and are no longer on this list. Still outstanding: AG, BI, BU, CI, CU, IU, OU, UI. Each of these was recorded with one family or one etymon and should be re-searched to the same depth as the rest of the table before being relied on in a weave run.
 

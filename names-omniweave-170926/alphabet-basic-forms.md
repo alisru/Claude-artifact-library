@@ -1,200 +1,408 @@
 # Alphabet of Basic Forms
 
-A pre-bigram layer. This document defines the stroke primitives from which the Latin majuscule letters are built, the operations that combine them, and each primitive's projection across the seven planes. It sits below the letter and below the bigram, and its output is intended to feed Action-Effect construction from the form upward rather than from vocabulary downward.
+A pure single-letter layer. Each letter has one meaning, read from its shape, and that meaning is projected across the seven planes. Composite letters are built from other letters, so their meanings compound. This is the pre-bigram table: from basic form up to Action-Effect.
+
+The six meanings that anchor the set are given. The remaining twenty are proposed on the same principle and marked as such.
+
+The Actualism document (The Lyrical Plane of Meaning) is the starting material. Its four perspectives on each form are carried forward. Its Hegemony values are not carried forward.
 
 ---
 
-## What this is, and what it is not
+## The principle
 
-This is a priori. It reads the shape of the majuscule letterform and nothing else. It makes no historical claim and takes no citations.
+The meaning of a letter is a word beginning with that letter whose sense is what the shape does. A is activity because the shape is two streams spaced apart and converging, with the bar marking activity over a span of time: potential converging to a point and expanding from one. C is container because the shape is an open bowl. I is ice because the shape is a wall that does not move.
 
-That is the opposite of the Omni-Weave bigram table, which is empirical: every entry there is an attested cross-language meaning with a source. The two instruments must stay separate. If form-derived meaning is allowed to feed bigram definitions, the citations stop being evidence and every convergence between them becomes circular. Run them independently and compare afterwards, the same way the weave compares against orthodox etymology.
+Composite letters are made of other letters and inherit their meanings. B is boundary because it is two D's stacked on top of and opposing each other on the wall of I. D is direction because it is a C closed against I: a container given one side to open from.
 
-One external check is available and is treated as a check, not a source. The Latin letters descend through Phoenician from Proto-Sinaitic pictographs, where each sign pictured an object whose name began with the sound. Where a form-derived reading lands on the pictographic original, that is two independent methods agreeing. Where it does not, both are held.
-
----
-
-## Diagnosis of the prior Actualism mapping
-
-The earlier document assigned each letter a name and a pair of values. Three things in it are worth keeping and two break it.
-
-**Keeping.** The four traversals (top-down, bottom-up, left-to-right, right-to-left) are a real instrument and are retained below as the four readings of a form. The axiom that the shape encodes the function is retained. The instinct that letters decompose rather than stand as atoms is retained and is the whole basis of this document.
-
-**Broken, first: acrophony.** The letter names were drawn from English words beginning with that letter. A got Assert and Axiom, C got Create and Cause, D got Deconstruct and Define. That imports meaning from English vocabulary that happens to sort under the letter, which is the same compression violation the bigram method already bans: a word beginning with a unit is not an attestation of the unit. C does not mean create. The form of C is an open bowl, and a bowl contains. Where the acrophonic name survives, it survives for an independent reason: B as boundary holds because the form is two containers braced on a wall, and separately because the pictograph is a house, not because bind begins with B.
-
-**Broken, second: the Hegemony coordinate.** The document assigns each letter a (υ, ψ) pair. The Hegemony measures who an act benefits and what its energy does. A stroke has no beneficiary and exerts no will, so there is nothing for either axis to read. The scale is also wrong: the values run 0 to 1 while the Hegemony runs −2 to +2 on both axes, so even the numbers are not in the instrument's units.
-
-The coordinate enters much later in the chain. A primitive has a function. A letter has a composite function. A bigram has attested meanings. A word names something. Only once something is named as an act or an actor is there a beneficiary and a will to measure, and only there does a (υ, ψ) coordinate become meaningful. Letters do not take coordinates; what letters spell can.
+Where a bowl appears in any letter, it is a C. Where a wall appears, it is an I. Where a bar appears, it is the span from A.
 
 ---
 
-## The primitives
+## The letters
 
-Five forms. Everything else is composition.
+Anchored meanings are the six given. Proposed meanings follow the same rule and are marked (proposed).
 
-**I — the standing stroke.** A vertical line. It holds position and does not extend along the reading direction. The wall, the fixed edge, the one standing.
-
-**— the level stroke.** A horizontal line. It runs along the reading direction without rising or falling. The ground, the span, the surface, the extent between two positions.
-
-**C — the bowl.** An arc open on one side. It contains, and the side it opens on is the side it receives from. Four rotations, and the rotation is meaningful: C open to the right, Ɔ open to the left, U open upward, ∩ open downward.
-
-**/ and \ — the stream.** A diagonal. Neither fixed nor level, it leaves one level for another. Alone it travels; in pairs it converges, diverges or crosses depending on the operation applied.
-
-**· — the point.** Marks a location without extending in any direction. Effectively absent from the majuscule set and retained only for completeness.
-
----
-
-## The operations
-
-Six. Each takes primitives and returns a letter.
-
-**Stack** — placed one above another on a shared axis. B is two bowls stacked on a wall.
-**Oppose** — mirrored so the forms face each other. O is a bowl opposed by its own reflection.
-**Attach** — hung on a stroke at one or more points. E is three level strokes attached to a wall.
-**Cross** — passing through each other rather than meeting at ends. X is two streams crossed; T is a span crossed by a stroke.
-**Meet** — ends touching at a point. V is two streams meeting below.
-**Space** — held apart without contact until something bridges them. H is two walls spaced, then spanned.
-
----
-
-## The seven planes, per primitive
-
-**I — the standing stroke**
+**A — Activity.** Two streams spaced apart, converging, with the bar across them. Activity over a span of time. Potential converging to a point and expanding from one.
 
 | Plane | Reading |
 |---|---|
-| Q1 Who, Metaphysical | The one who holds position. Will expressed as refusal to be displaced. |
-| Q2 What, Possible | Held potential. Nothing is spent while it stands. |
-| Q3 Where, Physical | The wall, the edge, the fixed coordinate everything else is measured from. |
-| Q4 Why, Lyrical | Because nothing can be measured until something declines to move. |
-| Q5 How, Logical | By occupying a position and not leaving it. |
-| Q6 Cause, Historical | Requires a ground to stand on. It is never first. |
-| Q7 Effect, Emotive | The felt presence of what will not yield. |
+| Q1 Who | The one who acts. Will as convergence toward a point. |
+| Q2 What | The potential held between the two streams before they meet. |
+| Q3 Where | The span, the bar, the interval the activity runs across. |
+| Q4 Why | Because potential that never converges is not activity. |
+| Q5 How | By narrowing across time until the two become one at the top. |
+| Q6 Cause | Two separate streams already in motion. |
+| Q7 Effect | Arrival, and the expansion back out from the point. |
 
-**— the level stroke**
-
-| Plane | Reading |
-|---|---|
-| Q1 Who, Metaphysical | The one who extends. Will expressed as reach rather than as stance. |
-| Q2 What, Possible | Range. The distance available to be covered. |
-| Q3 Where, Physical | The ground, the surface, the level between two positions. |
-| Q4 Why, Lyrical | Because two separate things are not comparable until something runs between them. |
-| Q5 How, Logical | By running level, losing no height and gaining none. |
-| Q6 Cause, Historical | Requires two positions already apart. |
-| Q7 Effect, Emotive | Duration. The sense of something lasting across. |
-
-**C — the bowl**
+**B — Boundary.** Two D's stacked and opposing on the wall of I. Energy (E) on the wall of ice (I). Two directions held against one fixed side.
 
 | Plane | Reading |
 |---|---|
-| Q1 Who, Metaphysical | The one who receives. Will expressed as capacity rather than as action. |
-| Q2 What, Possible | Capacity itself. The unfilled interior is the whole of its potential. |
-| Q3 Where, Physical | An inside and a mouth. The rotation states which direction the mouth faces. |
-| Q4 Why, Lyrical | Because nothing is held until something curves around it and stops short of closing. |
-| Q5 How, Logical | By curving away and back, and leaving the return incomplete. |
-| Q6 Cause, Historical | Requires something to be held, or the curve is only a line bent. |
-| Q7 Effect, Emotive | Being held, or being open. Which one depends entirely on where the mouth faces. |
+| Q1 Who | The one who holds two directions in. |
+| Q2 What | Two contained potentials, one above the other. |
+| Q3 Where | The wall, and the two enclosures against it. |
+| Q4 Why | Because two directions held on one wall define an inside and an outside. |
+| Q5 How | By closing each D against the same I. |
+| Q6 Cause | Requires I first. Nothing is bounded without the wall. |
+| Q7 Effect | Enclosure. What is within and what is not. |
 
-**/ and \ — the stream**
-
-| Plane | Reading |
-|---|---|
-| Q1 Who, Metaphysical | The one who travels. Will expressed as departure from a level. |
-| Q2 What, Possible | Trajectory. Where it arrives if it is not stopped. |
-| Q3 Where, Physical | The slope. The only position between the standing and the level. |
-| Q4 Why, Lyrical | Because change requires something that is neither fixed nor flat. |
-| Q5 How, Logical | By leaving one level for another at a constant rate. |
-| Q6 Cause, Historical | Requires a difference of level to exist before it can cross one. |
-| Q7 Effect, Emotive | Going somewhere. Rising or falling, never staying. |
-
-**· — the point**
+**C — Container.** The open bowl. Receives from the side it opens on.
 
 | Plane | Reading |
 |---|---|
-| Q1 Who, Metaphysical | The one who is here and nowhere else. |
-| Q2 What, Possible | None. A point has no interior and no reach. |
-| Q3 Where, Physical | Location without extent. |
-| Q4 Why, Lyrical | Because everything else needs somewhere to begin. |
-| Q5 How, Logical | By occupying without extending. |
-| Q6 Cause, Historical | Requires nothing prior. The only primitive that does not. |
-| Q7 Effect, Emotive | Exactness. |
+| Q1 Who | The one who receives. |
+| Q2 What | Capacity. The unfilled interior. |
+| Q3 Where | An inside and a mouth. |
+| Q4 Why | Because nothing is held until something curves around it and stops short of closing. |
+| Q5 How | By curving away and back, leaving the mouth. |
+| Q6 Cause | Requires something to be held. |
+| Q7 Effect | Being held, or being open to it. |
+
+**D — Direction.** A C closed against I. A container given one side.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who faces one way. |
+| Q2 What | Capacity with its opening decided. |
+| Q3 Where | The wall on one side, the curve on the other. |
+| Q4 Why | Because a container with a fixed side can only receive from the other. |
+| Q5 How | By closing C onto I. |
+| Q6 Cause | Requires C and I both. |
+| Q7 Effect | Orientation. Facing. |
+
+**E — Energy.** I with three bars reaching out. The wall extending at three levels.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who reaches out from a fixed position. |
+| Q2 What | Three spans of extension available. |
+| Q3 Where | Top, middle, base. Grounded. |
+| Q4 Why | Because a wall that only stands is ice; a wall that reaches is energy. |
+| Q5 How | By extending the span from the wall at each level. |
+| Q6 Cause | Requires I to reach from. |
+| Q7 Effect | Output. Reach at every level. |
+
+**F — Force (proposed, from Actualism).** E with the base bar removed. Energy without ground.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who reaches without footing. |
+| Q2 What | Two spans, unsupported below. |
+| Q3 Where | Upper and middle only. Base empty. |
+| Q4 Why | Because energy that is not grounded is force: it pushes rather than stands. |
+| Q5 How | By extending from the wall while leaving the base open. |
+| Q6 Cause | E, minus its ground. |
+| Q7 Effect | Push. Directed and ungrounded. |
+
+**G — Gather (proposed).** C with a bar turning inward and a short I. A container that closes on what it holds.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who draws in. |
+| Q2 What | Capacity that will not release. |
+| Q3 Where | The bowl, with the mouth turned back on itself. |
+| Q4 Why | Because a container that turns inward keeps. |
+| Q5 How | By adding the span inward across C's mouth. |
+| Q6 Cause | C first, then the inward span. |
+| Q7 Effect | Retention. |
+
+**H — Hold (proposed, from Actualism).** Two I's spaced, joined by a bar. Two walls made one.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who joins two fixed things. |
+| Q2 What | Two positions, and the span between. |
+| Q3 Where | Two walls, one bridge. |
+| Q4 Why | Because two walls apart are separate; spanned, they hold. |
+| Q5 How | By running the bar between the I's. |
+| Q6 Cause | Two I's already apart. |
+| Q7 Effect | Balance. Reads the same in both directions. |
+
+**I — Ice.** The wall. The stroke that does not move.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who stands. |
+| Q2 What | Held. Nothing spent. |
+| Q3 Where | The fixed edge. |
+| Q4 Why | Because nothing is measured until something declines to move. |
+| Q5 How | By not moving. |
+| Q6 Cause | Requires ground to stand on. |
+| Q7 Effect | Presence that will not yield. |
+
+**J — Join (proposed, from Actualism).** I ending in a C below. A wall that catches at its foot.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who hooks. |
+| Q2 What | A fixed stroke with capacity at the bottom. |
+| Q3 Where | The wall, then the bowl beneath. |
+| Q4 Why | Because a wall with a mouth at its base gathers what falls. |
+| Q5 How | By curving I into C at the end. |
+| Q6 Cause | I first, C last. |
+| Q7 Effect | Catching. |
+
+**K — Key (proposed, from Actualism).** I met by two streams at one point. The wall as a meeting.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one at whom two paths meet. |
+| Q2 What | Two trajectories and one fixed point. |
+| Q3 Where | The wall, with convergence on its side. |
+| Q4 Why | Because two streams arriving at one wall make a point of decision. |
+| Q5 How | By meeting both streams at I. |
+| Q6 Cause | I, and two streams already moving. |
+| Q7 Effect | Unlocking, or choice. |
+
+**L — Level (proposed).** I with a bar at its base. The wall and its ground.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who stands on shown ground. |
+| Q2 What | Position plus the surface under it. |
+| Q3 Where | The wall and the floor. |
+| Q4 Why | Because a wall with its ground shown is level: it is placed, not floating. |
+| Q5 How | By adding the span at the base of I. |
+| Q6 Cause | I, then the ground it stands on. |
+| Q7 Effect | Placement. |
+
+**M — Mountain (proposed).** Two I's joined by a descent and a rise. Two walls with a valley between.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who spans a drop. |
+| Q2 What | Two positions and the depth between. |
+| Q3 Where | Wall, valley, wall. |
+| Q4 Why | Because two walls with a valley are a range, not a pair. |
+| Q5 How | By joining I to I through a fall and a recovery. |
+| Q6 Cause | Two I's, and the drop between them. |
+| Q7 Effect | Mass. Weight across. |
+
+**N — Next (proposed, from Actualism).** Two I's joined by one descending stream. Two positions with one passage.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who crosses from one to the other. |
+| Q2 What | A second position, reachable. |
+| Q3 Where | Wall, passage, wall. |
+| Q4 Why | Because one passage between two walls is a step, not a range. |
+| Q5 How | By one stream from the top of one I to the base of the next. |
+| Q6 Cause | Two I's. |
+| Q7 Effect | Succession. |
+
+**O — Object (proposed, from Actualism).** C closed by its reflection. A container with no mouth and no wall.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one complete in itself. |
+| Q2 What | Capacity sealed. |
+| Q3 Where | Inside, with no way in. |
+| Q4 Why | Because a container closed on itself is a thing, not a receiver. |
+| Q5 How | By opposing C with its mirror. |
+| Q6 Cause | Two C's. |
+| Q7 Effect | Wholeness. Reads the same from every side. |
+
+**P — Potential (proposed, from Actualism).** C on I, held at the top. Capacity raised, base empty.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who holds capacity high. |
+| Q2 What | Contained, not yet released. |
+| Q3 Where | The wall, with the bowl at its head. |
+| Q4 Why | Because capacity held above an empty base is stored, not spent. |
+| Q5 How | By attaching C to the upper I only. |
+| Q6 Cause | I, then C above. |
+| Q7 Effect | Readiness. |
+
+**Q — Query (proposed, from Actualism).** O with a stream leaving it. The sealed thing breached.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who asks of the whole. |
+| Q2 What | A closed thing and the way out of it. |
+| Q3 Where | The object, and the tail. |
+| Q4 Why | Because a sealed container with a stream leaving it is a question put to it. |
+| Q5 How | By crossing O with a stream at its base. |
+| Q6 Cause | O first. |
+| Q7 Effect | Opening what was closed. |
+
+**R — Release (proposed).** P with a stream departing. Potential that runs.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who lets go. |
+| Q2 What | Stored capacity, now travelling. |
+| Q3 Where | The wall, the bowl, the leg down. |
+| Q4 Why | Because potential with a way out is released. |
+| Q5 How | By adding a stream from P's bowl. |
+| Q6 Cause | P first. |
+| Q7 Effect | Discharge. |
+
+**S — Sequence (proposed).** C and its reflection in series. A container that reverses its own mouth.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who turns. |
+| Q2 What | Capacity facing one way, then the other. |
+| Q3 Where | Two bowls, opposite mouths, joined. |
+| Q4 Why | Because a receiver that reverses is a process, not a state. |
+| Q5 How | By stacking C on its opposite. |
+| Q6 Cause | Two C's. |
+| Q7 Effect | Flow. Weaving. |
+
+**T — Time (proposed).** A bar carried on a single I. The span from A, balanced on one point.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who carries the span. |
+| Q2 What | Extent, on one support. |
+| Q3 Where | The bar above, the wall below. |
+| Q4 Why | Because the span held on one point is the present holding the whole interval. |
+| Q5 How | By crossing I with the bar at the top. |
+| Q6 Cause | I, and the span. |
+| Q7 Effect | Duration on a moment. Reads the same both ways. |
+
+**U — Under (proposed).** C rotated to open upward. A container receiving from above.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who receives from above. |
+| Q2 What | Capacity open to what falls. |
+| Q3 Where | The bowl, mouth up. |
+| Q4 Why | Because a container open upward is under whatever it holds. |
+| Q5 How | By rotating C. |
+| Q6 Cause | C. |
+| Q7 Effect | Receipt. Reads the same both ways. |
+
+**V — Vector (proposed, from Actualism).** Two streams converging to a point, unspanned. Activity without the bar.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who converges. |
+| Q2 What | Trajectory to a point. |
+| Q3 Where | The meeting at the base. |
+| Q4 Why | Because convergence with no span across it is direction without duration. |
+| Q5 How | By meeting two streams below. |
+| Q6 Cause | Two streams. |
+| Q7 Effect | Aim. |
+
+**W — Wave (proposed).** Two V's in series. Convergence repeated.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who arrives twice. |
+| Q2 What | Two aims in sequence. |
+| Q3 Where | Two meetings. |
+| Q4 Why | Because a vector repeated is an oscillation. |
+| Q5 How | By joining V to V. |
+| Q6 Cause | V. |
+| Q7 Effect | Rhythm. |
+
+**X — Cross (proposed).** Two streams crossing. Passage through passage.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one at the intersection. |
+| Q2 What | Two trajectories, both continuing. |
+| Q3 Where | The point of crossing. |
+| Q4 Why | Because streams that cross rather than meet neither stop nor merge. |
+| Q5 How | By passing one stream through the other. |
+| Q6 Cause | Two streams. |
+| Q7 Effect | Decision. Reads the same from all directions. |
+
+**Y — Yield (proposed, from Actualism).** V held on an I. Convergence then carried down.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who brings two into one and holds it. |
+| Q2 What | Two streams resolved and fixed. |
+| Q3 Where | The meeting, then the wall beneath. |
+| Q4 Why | Because convergence that is then held is a result. |
+| Q5 How | By attaching I below V. |
+| Q6 Cause | V first. |
+| Q7 Effect | Outcome. |
+
+**Z — Zigzag (proposed).** Bar, descending stream, bar. Two levels joined by one drop.
+
+| Plane | Reading |
+|---|---|
+| Q1 Who | The one who drops a level. |
+| Q2 What | An upper extent and a lower one. |
+| Q3 Where | Span, fall, span. |
+| Q4 Why | Because two spans with a drop between are a change of level, not a continuation. |
+| Q5 How | By joining the bars with one stream. |
+| Q6 Cause | Two spans. |
+| Q7 Effect | Reset. |
 
 ---
 
-## The four traversals
+## Composition table
 
-Retained from the prior document, reframed. These are not four meanings. They are four ways of reading one form, and a letter's composite function is what survives all four.
+How each composite letter is built from other letters. Letters that are their own form are marked base.
 
-**Top-down, holistic.** The form as a finished whole. What it is once complete.
-**Bottom-up, foundational.** What it rests on. Whether it is grounded, balanced on a point, or ungrounded.
-**Left to right, standard.** The form as it is written. The order in which its parts are laid down.
-**Right to left, inverse.** The same order reversed. The undoing, and for symmetrical forms, identical to the standard reading, which is itself a finding.
+| Letter | Built from | Relation |
+|---|---|---|
+| A | two streams + bar | streams spaced apart converging; bar across |
+| B | D + D on I | two D's stacked, opposing, sharing the I |
+| C | base | the container |
+| D | C + I | C closed against I |
+| E | I + bar + bar + bar | three spans from I |
+| F | E without base bar | two spans from I, ungrounded |
+| G | C + inward bar + short I | C turning in |
+| H | I + I + bar | two I's spanned |
+| I | base | the wall |
+| J | I + C below | I curving into C |
+| K | I + two streams | streams meeting at I |
+| L | I + base bar | I on its ground |
+| M | I + stream + stream + I | two I's with a valley |
+| N | I + stream + I | two I's with one passage |
+| O | C + C reflected | C closed by its mirror |
+| P | C + I, upper | C held at top of I |
+| Q | O + stream | O breached |
+| R | P + stream | P with a leg |
+| S | C + C reflected, stacked | C reversing |
+| T | I + bar, top | span on one I |
+| U | C rotated | C open upward |
+| V | two streams | converging, no bar |
+| W | V + V | repeated |
+| X | two streams crossed | passing through |
+| Y | V + I | convergence held |
+| Z | bar + stream + bar | two levels, one drop |
 
-Symmetry under reversal is a property worth tracking. H, I, O, T, U, V, W, X and Y read the same in both directions. Those forms describe states rather than processes.
+Family groupings that fall out of this:
 
----
-
-## Derivation of the majuscule set
-
-| Letter | Primitives | Operation | Composite function |
-|---|---|---|---|
-| A | / \ + — | meet above, cross between | Two streams converging to a point, held apart below by a span. Travel bounded. |
-| B | I + C + C | attach, stack | A wall carrying two containers. Held capacity braced against the fixed. |
-| C | C | none | The bowl itself. Open capacity. |
-| D | I + C | attach, close | A single container sealed against a wall. Capacity with no mouth. |
-| E | I + — — — | attach | A wall reaching out at three levels. Fixed position, multiple extension. |
-| F | I + — — | attach, upper only | The same, ungrounded at the base. Extension without footing. |
-| G | C + — + I | attach inward | A bowl that turns its own opening back inward. Capacity that closes on itself. |
-| H | I + I + — | space, cross | Two walls held apart and then spanned. Two fixed things made comparable. |
-| I | I | none | The standing stroke itself. |
-| J | I + C | attach below | A stroke ending in a mouth. Position that catches. |
-| K | I + / + \ | meet at wall | A wall met by two streams at a single point. Convergence onto the fixed. |
-| L | I + — | attach at base | A wall with its ground shown. Position plus the surface it stands on. |
-| M | I + \ + / + I | space, meet | Two walls joined by a descent and a recovery. Two positions with a valley between. |
-| N | I + \ + I | space, meet | Two walls joined by one crossing. Two positions with a single passage between. |
-| O | C + Ɔ | oppose | A bowl closed by its own reflection. Capacity with no mouth and no wall. |
-| P | I + C | attach, upper | A wall with a container at the top only. Capacity held high, base empty. |
-| Q | O + / | cross | A closed container breached by a stream. The sealed thing with something leaving it. |
-| R | I + C + \ | attach, meet | A wall with an upper container and a stream departing from it. Held capacity that then travels. |
-| S | C + Ɔ | stack, oppose | Two bowls facing opposite ways in sequence. Capacity that reverses its own mouth. |
-| T | I + — | cross above | A span carried on a single stroke. Extent balanced on one position. |
-| U | U | rotate | A bowl opened upward. Capacity that receives from above. |
-| V | \ + / | meet below | Two streams converging to a point, unspanned. Travel without bound. |
-| W | \ / \ / | meet, repeat | Two convergences in series. Travel that arrives twice. |
-| X | / + \ | cross | Two streams crossing rather than meeting. Passage through passage. |
-| Y | \ + / + I | meet, attach below | Two streams converging, the convergence then held in position. |
-| Z | — + \ + — | attach, meet | Two levels joined by a single descent. Extent, drop, extent. |
+- **C family:** C, D, O, U, S, G, and through D: B, P, R, Q. Everything with a bowl.
+- **I family:** I, E, F, L, H, T, J, K, and through I: D, B, P, R, M, N, Y. Everything with a wall.
+- **Stream family:** V, A, W, X, Y, K, M, N, Z, Q, R. Everything with a diagonal.
+- **Bar family:** A, E, F, H, L, T, Z, G. Everything with a span.
 
 ---
 
-## Notes on the derivation
+## The four perspectives
 
-**A and V are the same convergence, differently bounded.** V is two streams meeting at a point with nothing holding them apart. A is the same convergence with a span crossing it, and the span is what makes the convergence an interval rather than a collapse. That is the difference between travel that arrives and travel that is still under way.
+Carried from the Actualism document. Each letter can be read four ways, and its meaning is what holds across all four.
 
-**B, D and P are one family.** All three are containers attached to a wall. P holds one bowl at the top and leaves the base empty. B holds two, stacked. D holds one that has been closed against the wall so completely that it has no mouth left. Capacity, doubled capacity, and sealed capacity on the same fixed stroke.
+Top-down, holistic: the shape as a finished whole.
+Bottom-up, foundational: what the shape rests on.
+Left-to-right, standard: the shape as written, in order.
+Right-to-left, inverse: the same order reversed.
 
-**C, O, U and S are one family.** C is the bowl. U is the bowl rotated so the mouth faces up. O is the bowl closed by its own mirror. S is two bowls in series facing opposite directions, which is the only form in the set that reverses its own receiving direction mid-stroke.
-
-**The pictographic check.** Three letters can be checked against the Proto-Sinaitic originals. B derives from bet, house, and the earliest forms are a box or floor-plan outline; the form-derived reading is a wall carrying containers, which is the same object. D derives from dalt, door, from a hieroglyph depicting a door; the form-derived reading is a container sealed against a wall, which is a doorway considered as the closed state rather than the open one. A derives from aleph, ox head; the form-derived reading is bounded convergence, which is close to the conventional gloss of the ox as strength, but only if strength is read as work done across a span rather than as raw force. Two clean and one partial.
+H, I, O, T, U, V, W, X and Y read the same forward and reversed. Those letters name states. The rest name processes.
 
 ---
 
 ## How this feeds Action-Effect
 
-The chain runs upward and the instruments do not mix.
+A letter has a meaning, read from its form. A composite letter's meaning compounds from the letters it is built of. A bigram is two letters adjacent, and the letter meanings give a first reading of it before any citation is consulted. A word is a chain of bigrams. The Action-Effect reading is built from the form upward.
 
-A primitive has a function, which is the same in every letter it appears in. A letter has a composite function, derived from its primitives and their operation, and from nothing else. A bigram has attested cross-language meanings, held simultaneously and cited, from the Omni-Weave table. A word is built from bigrams and yields an Action-Effect reading. Only once a word names an act or an actor is there a beneficiary and a will, and only there does a Hegemony coordinate apply.
+The Omni-Weave bigram table is a separate instrument and stays separate. Its meanings are attested across languages. This table's meanings are read from shape. Where the two agree on a bigram, that is two methods converging. Where they disagree, both are held.
 
-The useful comparison is between the letter layer and the bigram layer for the same string. Where the form-derived composite and the citation-derived meanings converge, that is two methods arriving at the same structure. Where they diverge, both are held, and the divergence is information. That comparison is only worth anything as long as neither layer has been allowed to inform the other.
+The Hegemony coordinate is not assigned at the letter level. It applies once a word names an act or an actor.
 
 ---
 
-## Open decisions
+## Open
 
-**Majuscule only.** Minuscule forms are a Carolingian development, and b, d, p and q are one bowl in four rotations, which would multiply the derivations without adding a distinct function. Recommended to exclude, not yet settled.
+The twenty proposed meanings are proposed. Each should be tested the way the six anchors were: does the word begin with the letter, and does its sense match what the shape does. Where a better word meets both tests it replaces the proposal.
 
-**Rotation as meaning.** The bowl's four rotations are treated here as meaningful, since the direction the mouth faces changes what the form does. This is asserted rather than argued and should be tested against the derivations before being relied on.
-
-**Whether the point survives.** It does no work in the majuscule set and is retained only so the primitive list is complete.
-
-**The Hegemony question is closed, not open.** Letters take no coordinate. The prior document's values are not salvageable and are not carried forward.
+Minuscule forms are not treated. Whether they should be is open.
